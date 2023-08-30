@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "IPA - India Pale Ale",
+    "description": "India Pale Ale, commonly known as IPA, is a hoppy and bitter beer with higher alcohol content. It originated in England and was originally brewed with extra hops to survive long sea voyages to India. Today, IPAs are popular for their bold and intense flavors, with prominent hoppy and citrusy notes.",
+    "image": "https://prezunic.vtexassets.com/arquivos/ids/168364-800-auto?v=638195078798030000&width=800&height=auto&aspect=true",
+    "price": 660,
+    "rating": 4.2
+  },
+  {
+    "id": 2,
+    "title": "Stout",
+    "description": "Stout is a dark, rich beer with flavors of roasted malt, coffee, and chocolate. It has a creamy and full-bodied texture, making it a favorite among beer enthusiasts. Stouts can range from dry and bitter to sweet and chocolaty. The most famous type of stout is the Irish Dry Stout, with Guinness being a well-known example.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Stadin_Panimo_Double_Oat_Malt_Stout.jpg/1200px-Stadin_Panimo_Double_Oat_Malt_Stout.jpg",
+    "price": 792,
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "title": "Wheat Beer",
+    "description": "Wheat beer is a light and refreshing beer brewed with a significant proportion of wheat, in addition to barley. It is often hazy in appearance and has a fruity or citrusy flavor profile. Wheat beers come in various styles, including Hefeweizen, Witbier, and American Wheat.",
+    "image": "https://www.hachettebookgroup.com/wp-content/uploads/2023/02/WEB-Beer4AllSeasons88.jpg?resize=600%2C400",
+    "price": 528,
+    "rating": 4.0
+  },
+  {
+    "id": 4,
+    "title": "Pale Ale",
+    "description": "Pale Ale is a well-balanced and hoppy beer that falls between a lighter Lager and a stronger IPA. It is characterized by its amber to pale golden color and typically features a blend of malt sweetness and hop bitterness. Pale Ales come in various regional styles, such as American Pale Ale, English Pale Ale, and Australian Pale Ale.",
+    "image": "https://i5.walmartimages.com/seo/Sierra-Nevada-Pale-Ale-Craft-Beer-6-pack-12-fl-oz-Bottles-5-5-ABV_13120f58-9aa6-4b53-a863-0531f4e6e746.8cf146ec546ceff9a33cfccf04a74f6d.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "price": 660,
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "title": "Porter",
+    "description": "Porter is a dark and malty beer with flavors of caramel, toffee, and chocolate. It was originally a popular drink among London's working class in the 18th century. Today, Porters are enjoyed for their rich and robust character. They can range from dry and hoppy to sweet and chocolatey.",
+    "image": "https://foundersbrewing.com/wp-content/uploads/2017/08/Porter_Featured_Image-1024x630.png",
+    "price": 792,
+    "rating": 4.1
+  },
+  {
+    "id": 6,
+    "title": "Amber Ale",
+    "description": "Amber Ale is a beer with a balanced malt and hop profile, amber in color. It offers a delightful combination of caramel sweetness and hop bitterness, making it a crowd-pleaser for many beer enthusiasts.",
+    "image": "https://bellsbeer.com/wp-content/uploads/2021/12/AmberAle_736px-1.png",
+    "price": 660,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "title": "Saison",
+    "description": "Saison, also known as Farmhouse Ale, is a refreshing beer style that originated in Belgium. It is known for its fruity and spicy flavors, often complemented by a dry and effervescent character. Saisons are brewed with a blend of different grains, including barley, wheat, and sometimes oats.",
+    "image": "https://www.thespruceeats.com/thmb/4G1k2bgsCMQTDgrfGj-J_pJHJdc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/13271193533_95f4faa200_o-56a090325f9b58eba4b19600.jpg",
+    "price": 924,
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "title": "Pilsner",
+    "description": "Pilsner, or Pilsener, is a pale, crisp beer with a slightly bitter taste. It originated in the city of Pilsen in the Czech Republic and is known for its clear and golden appearance. Pilsners are well-balanced, with a delicate malt sweetness and a noticeable hop bitterness. The style has become popular worldwide, and you'll find variations such as German Pilsner and American Pilsner.",
+    "image": "https://www.totalwine.com/dynamic/x1000,6pk/media/sys_master/twmmedia/hd1/h63/11941481349150.png",
+    "price": 528,
+    "rating": 4.2
+  },
+  {
+    "id": 9,
+    "title": "Brown Ale",
+    "description": "Brown Ale is a beer with a nutty and caramel flavor profile. It ranges in color from amber to dark brown and has a malt-forward taste. Brown Ales can be found in various substyles, including English Brown Ale and American Brown Ale. They are known for their smooth and easy-drinking nature, making them a favorite among those seeking a balanced and flavorful beer.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Newcastle_Brown_Ale_poured_in_pint_glass.jpg/220px-Newcastle_Brown_Ale_poured_in_pint_glass.jpg",
+    "price": 660,
+    "rating": 4.0
+  },
+  {
+    "id": 10,
+    "title": "Lager",
+    "description": "Lager is a widely popular beer style known for its clean and crisp taste. It is fermented and conditioned at low temperatures, resulting in a smooth and refreshing beer with a light body. Lagers come in various substyles, including American Lager, Helles Lager, and Vienna Lager.",
+    "image": "https://assets.yuengling.com/wp-content/uploads/2017/03/10180407/17_Yueng_Lager_NRDraft_Bottle_w-1-480x800.jpg",
+    "price": 528,
+    "rating": 4.3
+  },
+  {
+    "id": 11,
+    "title": "Double IPA",
+    "description": "Double IPA, also known as Imperial IPA, takes the bold flavors of a traditional IPA and cranks them up to the next level. It is known for its intense hoppy character, higher alcohol content, and rich malt backbone. Double IPAs often showcase tropical fruit, citrus, and resinous hop flavors, making them a favorite among hop-heads.",
+    "image": "https://lakefrontbrewery.com/wp-content/uploads/2019/12/DBL_IPA_BG.png",
+    "price": 1056,
+    "rating": 4.5
+  },
+  {
+    "id": 12,
+    "title": "Belgian Tripel",
+    "description": "Belgian Tripel is a strong and complex beer style that originated in Belgium. It is known for its golden color, fruity esters, and spicy phenols derived from Belgian yeast strains. The flavor profile often includes notes of banana, clove, and a hint of sweetness. Despite its higher alcohol content, Belgian Tripels are surprisingly smooth and easy to drink.",
+    "image": "https://cdn.beeradvocate.com/im/beers/1054.jpg",
+    "price": 924,
+    "rating": 4.4
+  },
+  {
+    "id": 13,
+    "title": "Sour Ale",
+    "description": "Sour Ale is a beer style known for its tart and acidic taste. These beers are intentionally brewed to be sour, and they often undergo fermentation with wild yeast strains or bacteria. Sour Ales can range from mildly tart to intensely sour, with flavors reminiscent of sour fruits, vinegar, and funk.",
+    "image": "https://sierranevada.com/static/7d36bfdb49394de1c5d87fd7a771f240/Cold%20Torpedo%20Pour.jpg",
+    "price": 792,
+    "rating": 4.1
+  },
+  {
+    "id": 14,
+    "title": "Hazy IPA",
+    "description": "Hazy IPA, also known as New England IPA (NEIPA), is a modern beer style known for its hazy appearance and juicy hop flavors. It is typically less bitter than traditional IPAs and focuses on showcasing hoppy aromas and flavors. Hazy IPAs often feature tropical fruit, citrus, and stone fruit notes, creating a delightful and refreshing drinking experience.",
+    "image": "https://d33wubrfki0l68.cloudfront.net/1f5e4c55cd24a4e6c0ac4ea64f601ea8318a2fce/ee742/beers/sierra-nevada-hazy-little-thing.jpg",
+    "price": 792,
+    "rating": 4.3
+  },
+  {
+    "id": 15,
+    "title": "Red Ale",
+    "description": "Red Ale is a beer style that showcases a beautiful reddish-brown color and a balanced flavor profile. It typically features a combination of malt sweetness and hop bitterness, with a focus on caramel and toasty flavors. Red Ales can be found in various regional styles, including Irish Red Ale and American Amber Ale.",
+    "image": "https://products1.imgix.drizly.com/ci-smithwicks-ale-f81d886267fccb83.png?auto=format%2Ccompress&ch=Width%2CDPR&fm=jpg&q=20",
+    "price": 660,
+    "rating": 4.2
+  },
+  {
+    "id": 16,
+    "title": "Belgian Dubbel",
+    "description": "Belgian Dubbel is a strong and rich beer style with origins in Belgium's monastic brewing traditions. It is characterized by its deep amber to dark brown color and complex flavor profile. Belgian Dubbels often showcase dark fruit, caramel, and toffee notes, with a pleasant malt sweetness and mild bitterness.",
+    "image": "https://www.blackflannel.com/wp-content/uploads/bfb-belgian-dubbel-blog-828x1024.jpg",
+    "price": 924,
+    "rating": 4.4
+  },
+  {
+    "id": 17,
+    "title": "Gose",
+    "description": "Gose is a sour and slightly salty beer style that originated in Germany. It is brewed with coriander and salt, which gives it a unique and refreshing taste. Gose beers often feature tartness with subtle citrus and coriander flavors. The addition of salt adds a hint of salinity, making it an intriguing and palate-cleansing choice.",
+    "image": "https://images.squarespace-cdn.com/content/v1/59cafe488a02c7560086e090/1543955726449-METJ0M2GFJW2JK59RKUT/kulshan+gose+sour+ale?format=1000w",
+    "price": 792,
+    "rating": 4.1
+  },
+  {
+    "id": 18,
+    "title": "Barleywine",
+    "description": "Barleywine is a strong and complex beer style known for its rich and malt-forward character. It has a high alcohol content, often exceeding 10% ABV, and is aged for extended periods to develop its flavors. Barleywines can be found in two main variations: American Barleywine, which showcases hop bitterness and citrus notes, and English Barleywine, which emphasizes caramel and toffee flavors.",
+    "image": "https://www.mrbeer.com/media/catalog/product/cache/b17ec3654cdd01479bd70b44a351f4a3/d/a/dangerous-contract-barleywine-beer_logo-600x600.jpg",
+    "price": 1056,
+    "rating": 4.5
+  },
+  {
+    "id": 19,
+    "title": "Schwarzbier",
+    "description": "Schwarzbier, also known as Black Lager, is a dark and smooth beer style that originated in Germany. Despite its dark appearance, Schwarzbier is surprisingly light and drinkable, with a clean and crisp taste. It features a subtle malt sweetness with a touch of roasted malt bitterness, creating a well-balanced and refreshing beer.",
+    "image": "https://assets.kcbier.com/wp-content/uploads/20210108145636/BP6pk-Schwarzbier-500x500.png",
+    "price": 792,
+    "rating": 4.2
+  },
+  {
+    "id": 20,
+    "title": "Fruit Beer",
+    "description": "Fruit Beer is a beer style that incorporates various fruits into the brewing process. The addition of fruits such as berries, citrus, or tropical fruits adds a unique and vibrant twist to the beer. Fruit beers can range from light and refreshing to bold and flavorful, depending on the type and amount of fruit used.",
+    "image": "https://www.foodandwine.com/thmb/PtEyxlMpPVZdGEWYYfom6eVJEJo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/new-glarus-belgian-red-best-fruit-beers-FT-SS0418-3534f87c4ca14d609570d3c080bc7b3a.jpg",
+    "price": 660,
+    "rating": 4.4
+  }
+]

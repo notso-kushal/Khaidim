@@ -1,0 +1,272 @@
+[
+  {
+    "id": "1",
+    "title": "Raspberry and custard muffins",
+    "description": "Indulge in the delightful combination of tangy raspberries and creamy custard with these delectable muffins. The moist and tender muffins are bursting with flavor, making them a delightful treat for breakfast or a sweet snack. Topped with a sprinkle of sugar and fresh raspberries, these muffins are as beautiful as they are delicious. Whether you're a fan of fruity flavors or simply looking for a delightful treat, these raspberry and custard muffins are the perfect choice.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/1.jpg",
+    "price": 220,
+    "rating": 4.6
+  },
+  {
+    "id": "2",
+    "title": "Lemon and blackberry stripe cake",
+    "description": "Embark on a journey of zesty and fruity flavors with this exquisite lemon and blackberry stripe cake. The light and moist lemon sponge is generously filled with luscious blackberry jam, creating a delightful burst of flavors in every slice. The cake is elegantly decorated with blackberry stripes, making it a stunning centerpiece for any occasion. Whether you're a fan of citrusy treats or simply want to indulge in a delightful dessert, this lemon and blackberry stripe cake is the perfect choice for capturing the essence of summer.",
+    "difficulty": "A challenge",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/2.jpg",
+    "price": 320,
+    "rating": 4.9
+  },
+  {
+    "id": "3",
+    "title": "Paul Hollywood’s chocolate fudge cake",
+    "description": "Satisfy your chocolate cravings with this decadent chocolate fudge cake by the renowned baker Paul Hollywood. The rich and moist chocolate cake is generously coated with a velvety smooth fudge frosting, creating a luxurious treat for chocolate lovers. Topped with chocolate shavings and adorned with fresh berries, this cake is a feast for both the eyes and taste buds. Whether you're celebrating a special occasion or simply want to indulge in a chocolatey delight, Paul Hollywood’s chocolate fudge cake is a must-try masterpiece.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/3.jpg",
+    "price": 380,
+    "rating": 4.8
+  },
+  {
+    "id": "4",
+    "title": "Lemon and strawberry meringue cake",
+    "description": "Experience the delightful combination of zesty lemon, sweet strawberries, and fluffy meringue with this exquisite cake. The layers of tender lemon sponge are generously filled with juicy strawberries and topped with pillowy meringue, creating a delightful harmony of flavors and textures. Topped with fresh strawberries and a sprinkle of lemon zest, this cake is a beautiful and refreshing treat for any occasion. Whether you're a fan of citrusy treats or simply looking for a delightful dessert, this lemon and strawberry meringue cake is the perfect choice.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/4.jpg",
+    "price": 300,
+    "rating": 4.7
+  },
+  {
+    "id": "5",
+    "title": "Vegan chocolate cake",
+    "description": "Indulge in the ultimate chocolate experience with this delectable vegan chocolate cake. The moist and rich chocolate cake is made entirely from plant-based ingredients, creating a guilt-free treat for chocolate lovers. Topped with a velvety chocolate frosting and adorned with fresh berries, this cake is as beautiful as it is delicious. Whether you're a vegan or simply seeking a crowd-pleasing dessert, this vegan chocolate cake is a delightful treat that will leave everyone asking for seconds.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/5.jpg",
+    "price": 350,
+    "rating": 4.5
+  },
+  {
+    "id": "6",
+    "title": "Spiced plum cake with Swiss meringue frosting",
+    "description": "Embark on a journey of delightful flavors with this exquisite spiced plum cake. The moist and tender cake is infused with warm spices and juicy plum pieces, creating a delightful burst of flavors that will captivate your taste buds. The cake is generously topped with silky Swiss meringue frosting, adding a luxurious touch to every slice. Whether you're celebrating a special occasion or simply want to enjoy a slice of comfort, this spiced plum cake with Swiss meringue frosting is a perfect choice for savoring the taste of autumn.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/6.jpg",
+    "price": 280,
+    "rating": 4.4
+  },
+  {
+    "id": "7",
+    "title": "Lemon and courgette cake with white chocolate cream cheese frosting",
+    "description": "Experience a delightful fusion of citrusy lemon and tender courgette in this exquisite cake. The layers of moist lemon and courgette sponge are generously filled with a velvety smooth white chocolate cream cheese frosting, creating a delightful harmony of flavors and textures. Topped with candied lemon zest and adorned with delicate edible flowers, this cake is a stunning centerpiece for any occasion.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/7.jpg",
+    "price": 320,
+    "rating": 4.6
+  },
+  {
+    "id": "8",
+    "title": "Chocolate cake with caramel poached pears and chocolate buttercream",
+    "description": "Indulge in the luxurious combination of chocolate and caramel poached pears with this exquisite cake. The moist and rich chocolate cake is generously filled with tender caramel poached pears, creating a delightful burst of flavors in every bite. Topped with a velvety chocolate buttercream and adorned with caramel drizzle, this cake is a feast for both the eyes and taste buds.",
+    "difficulty": "Medium",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/8.jpg",
+    "price": 420,
+    "rating": 4.9
+  },
+  {
+    "id": "9",
+    "title": "Rhubarb and custard layer cake",
+    "description": "Relish in the delightful combination of tangy rhubarb and creamy custard with this exquisite layer cake. The moist and tender cake is generously filled with tangy rhubarb compote and creamy custard, creating a delightful harmony of flavors and textures. Topped with whipped cream and adorned with fresh rhubarb slices, this cake is a beautiful and refreshing treat for any occasion. Whether you're a fan of fruity treats or simply want to indulge in a delightful dessert, this rhubarb and custard layer cake is the perfect choice.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/9.jpg",
+    "price": 290,
+    "rating": 4.8
+  },
+  {
+    "id": "10",
+    "title": "Spring lamb cupcakes",
+    "description": "Celebrate the arrival of spring with these adorable and delightful spring lamb cupcakes. The tender cupcakes are topped with fluffy white frosting, resembling cute little lambs. Decorated with edible eyes and fondant ears, these cupcakes are a delightful treat for both children and adults. Whether you're hosting a spring-themed party or simply want to spread some joy with cute cupcakes, these spring lamb cupcakes are the perfect choice for capturing the essence of the season.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/10.jpg",
+    "price": 180,
+    "rating": 4.7
+  },
+  {
+    "id": "11",
+    "title": "Peanut butter drip cake",
+    "description": "Experience the heavenly combination of rich peanut butter and decadent chocolate with this indulgent drip cake. The layers of moist chocolate sponge are generously filled with creamy peanut butter frosting, creating a delightful burst of flavors in every bite. The cake is adorned with a luscious chocolate ganache drip, adding a touch of elegance to its appearance. Whether you're a fan of peanut butter or simply want to indulge in a delightful dessert, this peanut butter drip cake is the perfect choice for capturing the essence of indulgence.",
+    "difficulty": "Medium",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/11.jpg",
+    "price": 360,
+    "rating": 4.5
+  },
+  {
+    "id": "12",
+    "title": "Ginger drizzle traybake with cream cheese icing",
+    "description": "Savor the warming and comforting flavors of ginger with this delightful traybake. The moist and spicy ginger sponge is generously drizzled with tangy lemon syrup, creating a delightful burst of flavors in every bite. Topped with a velvety cream cheese icing and adorned with candied ginger, this traybake is a delightful treat for any occasion. Whether you're a fan of ginger or simply want to enjoy a slice of comfort, this ginger drizzle traybake with cream cheese icing is a perfect choice for savoring the taste of cozy moments.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/12.jpg",
+    "price": 260,
+    "rating": 4.4
+  },
+  {
+    "id": "13",
+    "title": "Baked lemon cheesecake with pineapple flowers",
+    "description": "Indulge in the creamy and zesty flavors of this exquisite baked lemon cheesecake. The smooth and luscious cheesecake is infused with zesty lemon, creating a delightful burst of flavors in every bite. Topped with delicate pineapple flowers and a sprinkle of lemon zest, this cheesecake is a stunning centerpiece for any occasion. Whether you're celebrating a special event or simply want to enjoy a slice of luxury, this baked lemon cheesecake with pineapple flowers is a must-try masterpiece that will leave a lasting impression.",
+    "difficulty": "Medium",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/13.jpg",
+    "price": 380,
+    "rating": 4.6
+  },
+  {
+    "id": "14",
+    "title": "Carrot and cheesecake layer cake",
+    "description": "Experience the delightful combination of spiced carrot cake and creamy cheesecake with this exquisite layer cake. The layers of tender carrot sponge and creamy cheesecake are generously filled with smooth cream cheese frosting, creating a delightful harmony of flavors and textures. Topped with candied carrot curls and adorned with a sprinkle of cinnamon, this cake is a beautiful and flavorful treat for any occasion. Whether you're a fan of classic favorites or simply want to try a unique fusion, this carrot and cheesecake layer cake is the perfect choice.",
+    "difficulty": "A challenge",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/14.jpg",
+    "price": 420,
+    "rating": 4.8
+  },
+  {
+    "id": "15",
+    "title": "Sugarplum fairy cakes",
+    "description": "Enter a world of enchanting flavors with these whimsical and delightful sugarplum fairy cakes. The tender cupcakes are infused with magical sugarplum flavors, creating a delightful burst of sweetness in every bite. Topped with pastel-colored frosting and adorned with edible glitter and fondant decorations, these fairy cakes are a stunning treat for children and adults alike. Whether you're hosting a fairy-themed party or simply want to bring some magic to your day, these sugarplum fairy cakes are the perfect choice for capturing the essence of fantasy.",
+    "difficulty": "Medium",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/15.jpg",
+    "price": 240,
+    "rating": 4.9
+  },
+  {
+    "id": "16",
+    "title": "Summer-cup bundt drizzle cake",
+    "description": "Celebrate the flavors of summer with this delightful summer-cup bundt drizzle cake. The moist and tender bundt cake is infused with refreshing flavors like citrusy lemon, juicy orange, and aromatic elderflower, creating a delightful burst of sunshine in every bite. Topped with a zesty lemon drizzle and adorned with edible flowers, this cake is a stunning centerpiece for any summer gathering. Whether you're hosting a garden party or simply want to embrace the joys of summer, this summer-cup bundt drizzle cake is the perfect choice for savoring the taste of the season.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/16.jpg",
+    "price": 280,
+    "rating": 4.7
+  },
+  {
+    "id": "17",
+    "title": "St Clement’s squares",
+    "description": "Relish in the delightful combination of citrusy orange and zesty lemon with these exquisite St Clement’s squares. The buttery shortbread squares are infused with vibrant orange and lemon zest, creating a delightful burst of flavors in every bite. Topped with a tangy orange and lemon glaze, these squares are a delightful treat for any occasion. Whether you're a fan of zesty treats or simply want to enjoy a moment of pure indulgence, these St Clement’s squares are the perfect choice for capturing the essence of citrusy delight.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/17.jpg",
+    "price": 220,
+    "rating": 4.6
+  },
+  {
+    "id": "18",
+    "title": "Caramelised white chocolate, burnt butter and tahini cake",
+    "description": "Indulge in the luxurious combination of caramelized white chocolate, burnt butter, and tahini with this exquisite cake. The moist and tender cake is infused with the rich flavors of caramel and nutty tahini, creating a delightful burst of flavors in every bite. Topped with caramelized white chocolate ganache and adorned with edible gold leaf, this cake is a feast for both the eyes and taste buds.",
+    "difficulty": "A challenge",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/18.jpg",
+    "price": 420,
+    "rating": 4.8
+  },
+  {
+    "id": "19",
+    "title": "Eric Lanlard’s carrot and pumpkin celebration cake",
+    "description": "Celebrate in style with this exquisite carrot and pumpkin celebration cake by the renowned baker Eric Lanlard. The layers of tender carrot and pumpkin sponge are generously filled with smooth cream cheese frosting, creating a delightful harmony of flavors and textures. Topped with candied carrot curls and adorned with a sprinkle of pumpkin spice, this cake is a beautiful and flavorful treat for any celebration.",
+    "difficulty": "Medium",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/19.jpg",
+    "price": 390,
+    "rating": 4.9
+  },
+  {
+    "id": "20",
+    "title": "Tunnock’s teacake traybake",
+    "description": "Relish in the iconic flavors of Tunnock’s teacakes with this delightful traybake. The tender and buttery traybake is topped with a layer of smooth milk chocolate and a generous scattering of Tunnock’s teacake pieces, creating a delightful burst of flavors in every bite. Whether you're a fan of these classic teatime treats or simply want to indulge in a delightful dessert, this Tunnock’s teacake traybake is the perfect choice for capturing the essence of nostalgia and sweetness.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/20.jpg",
+    "price": 250,
+    "rating": 2
+  },
+  {
+    "id": "21",
+    "title": "Easy butterfly cakes",
+    "description": "Delight in the simple and whimsical charm of these easy butterfly cakes. The tender cupcakes are topped with fluffy buttercream frosting, shaped like delicate butterfly wings. Decorated with colorful sprinkles and edible butterflies, these cakes are a delightful treat for both children and adults. Whether you're hosting a birthday party or simply want to add some joy to your day, these easy butterfly cakes are the perfect choice for capturing the essence of carefree moments.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/21.jpg",
+    "price": 180,
+    "rating": 4.5
+  },
+  {
+    "id": "22",
+    "title": "Chocolate cupcakes",
+    "description": "Indulge in the timeless and irresistible flavor of chocolate with these delectable chocolate cupcakes. The moist and tender cupcakes are topped with a velvety chocolate frosting, creating a delightful burst of cocoa goodness in every bite. Topped with chocolate curls and adorned with a sprinkle of cocoa powder, these cupcakes are as beautiful as they are delicious. Whether you're a fan of classic chocolate treats or simply want to enjoy a moment of indulgence, these chocolate cupcakes are the perfect choice for capturing the essence of chocolatey delight.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/22.jpg",
+    "price": 200,
+    "rating": 4.6
+  },
+  {
+    "id": "23",
+    "title": "Orange blossom, lemon thyme and almond cake",
+    "description": "Embark on a journey of delightful flavors with this exquisite orange blossom, lemon thyme, and almond cake. The moist and tender cake is infused with the delicate essence of orange blossom and the refreshing aroma of lemon thyme, creating a delightful burst of flavors in every bite. Topped with toasted almond slices and adorned with candied orange zest, this cake is a stunning centerpiece for any occasion. Whether you're a fan of unique and floral flavors or simply want to try something new, this orange blossom, lemon thyme, and almond cake is the perfect choice.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/23.jpg",
+    "price": 320,
+    "rating": 4.5
+  },
+  {
+    "id": "24",
+    "title": "Eton mess traybake",
+    "description": "Relish in the delightful combination of meringue, whipped cream, and fresh berries with this exquisite Eton mess traybake. The tender and buttery traybake is topped with a layer of chewy meringue and a generous swirl of whipped cream, creating a delightful harmony of textures and flavors. Adorned with a vibrant assortment of fresh berries, this traybake is a beautiful and refreshing treat for any occasion.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/24.jpg",
+    "price": 280,
+    "rating": 4.4
+  },
+  {
+    "id": "25",
+    "title": "Nut-free carrot cupcakes",
+    "description": "Indulge in the classic flavors of carrot cake without nuts with these delightful nut-free carrot cupcakes. The tender cupcakes are generously filled with shredded carrots and warm spices, creating a delightful burst of flavors in every bite. Topped with a smooth cream cheese frosting and adorned with a sprinkle of cinnamon, these cupcakes are a comforting and flavorful treat for any occasion. Whether you have nut allergies or simply want to enjoy a classic favorite, these nut-free carrot cupcakes are the perfect choice for capturing the essence of cozy nostalgia.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/25.jpg",
+    "price": 210,
+    "rating": 4.3
+  },
+  {
+    "id": "26",
+    "title": "Raspberry and lemon sponge cake",
+    "description": "Embark on a journey of fruity and citrusy flavors with this delightful raspberry and lemon sponge cake. The moist and tender sponge cake is generously filled with tangy raspberry jam and infused with zesty lemon zest, creating a delightful burst of flavors in every bite. Topped with fresh raspberries and adorned with a sprinkle of powdered sugar, this cake is a beautiful and refreshing treat for any occasion.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/26.jpg",
+    "price": 290,
+    "rating": 4.6
+  },
+  {
+    "id": "27",
+    "title": "Strawberry and rose Victoria sponge sandwich",
+    "description": "Experience the romantic and delicate flavors of strawberry and rose with this exquisite Victoria sponge sandwich. The layers of moist and tender sponge are generously filled with luscious strawberry jam and infused with the floral essence of rose water, creating a delightful burst of flavors in every bite.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/27.jpg",
+    "price": 320,
+    "rating": 4.7
+  },
+  {
+    "id": "28",
+    "title": "Toffee ice-cream cake",
+    "description": "Indulge in the delightful combination of rich toffee and creamy ice cream with this exquisite cake. The tender and buttery cake is layered with velvety toffee ice cream, creating a delightful harmony of flavors and textures. Topped with a drizzle of toffee sauce and adorned with toffee pieces, this cake is a feast for both the eyes and taste buds. Whether you're celebrating a special occasion or simply want to indulge in a cold and comforting treat, this toffee ice-cream cake is a must-try masterpiece that will satisfy your sweet cravings.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/28.jpg",
+    "price": 350,
+    "rating": 4.5
+  },
+  {
+    "id": "29",
+    "title": "Easy flourless chocolate cake",
+    "description": "Indulge in the ultimate chocolate experience with this delectable flourless chocolate cake. The rich and moist chocolate cake is made entirely without flour, creating an intensely chocolatey and fudgy treat. Topped with a velvety chocolate ganache and adorned with fresh berries, this cake is as beautiful as it is delicious. Whether you're a fan of gluten-free treats or simply want to enjoy a decadent dessert, this easy flourless chocolate cake is the perfect choice for capturing the essence of chocolatey indulgence.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/29.jpg",
+    "price": 330,
+    "rating": 4.8
+  },
+  {
+    "id": "30",
+    "title": "Sticky toffee pudding cake",
+    "description": "Savor the comforting and caramelized flavors of sticky toffee pudding with this delightful cake. The moist and tender cake is infused with rich toffee sauce, creating a delightful burst of sweetness in every bite. Topped with a drizzle of toffee sauce and adorned with a scoop of vanilla ice cream, this cake is a warm and flavorful treat for any occasion. Whether you're seeking a taste of comfort or simply want to enjoy a slice of warmth, this sticky toffee pudding cake is the perfect choice for creating cherished moments.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/30.jpg",
+    "price": 310,
+    "rating": 4.7
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "title": "Butter Chicken",
+    "difficulty": "Medium",
+    "rating": "4.8",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347425/india-food-dal-tadka/india-food-dal-tadka-1120x732.jpg",
+    "description": "Butter Chicken, also known as Murgh Makhani, is a popular Indian dish made with tender pieces of chicken cooked in a creamy tomato-based sauce. The dish is rich and flavorful, with a perfect balance of spices and a hint of sweetness.",
+    "price": 800
+  },
+  {
+    "id": "2",
+    "title": "Biryani",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347449/india-food-biriyani/india-food-biriyani-1120x732.jpg",
+    "description": "Biryani is a fragrant and aromatic rice dish made with basmati rice, meat (chicken, lamb, or beef), and a blend of spices. It's often garnished with fried onions, boiled eggs, and fresh cilantro, creating a feast for the senses.",
+    "price": 750
+  },
+  {
+    "id": "3",
+    "title": "Chole Bhature",
+    "difficulty": "Medium",
+    "rating": "4.6",
+    "image": "https://i0.wp.com/swadisht.life/en/wp-content/uploads/2023/02/Chole-Bhature-Recipe.jpg",
+    "description": "Chole Bhature is a popular Punjabi dish consisting of spicy chickpea curry (chole) served with deep-fried bread (bhature). The combination of the flavorful curry and fluffy bread is a delightful indulgence.",
+    "price": 500
+  },
+  {
+    "id": "4",
+    "title": "Tandoori Chicken",
+    "difficulty": "Easy",
+    "rating": "4.9",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347361/india-food-tandoori-chicken/india-food-tandoori-chicken-1120x732.jpg",
+    "description": "Tandoori Chicken is a mouthwatering Indian appetizer made by marinating chicken in yogurt and a blend of spices, then cooking it in a clay oven (tandoor). The result is juicy and flavorful chicken with a smoky charred flavor.",
+    "price": 650
+  },
+  {
+    "id": "5",
+    "title": "Palak Paneer",
+    "difficulty": "Medium",
+    "rating": "4.8",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/06/palak-paneer-recipe.jpg",
+    "description": "Palak Paneer is a vegetarian dish made with paneer (Indian cottage cheese) cooked in a creamy spinach (palak) sauce. The dish is not only delicious but also packed with nutrients from the spinach.",
+    "price": 550
+  },
+  {
+    "id": "6",
+    "title": "Rogan Josh",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347378/india-food-rogan-josh/india-food-rogan-josh-1120x732.jpg",
+    "description": "Rogan Josh is a flavorful Kashmiri lamb curry made with aromatic spices, yogurt, and tomatoes. The dish is known for its vibrant red color and is often enjoyed with steamed rice or Indian bread.",
+    "price": 700
+  },
+  {
+    "id": "7",
+    "title": "Dosa",
+    "difficulty": "Easy",
+    "rating": "4.6",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347401/india-food-masala-dosa/india-food-masala-dosa-1120x732.jpg",
+    "description": "Dosa is a popular South Indian crepe made from fermented rice and lentil batter. It's typically served with coconut chutney and sambar, a flavorful lentil-based vegetable stew.",
+    "price": 300
+  },
+  {
+    "id": "8",
+    "title": "Gulab Jamun",
+    "difficulty": "Easy",
+    "rating": "4.9",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347420/india-food-gulab-jamun/india-food-gulab-jamun-1120x732.jpg",
+    "description": "Gulab Jamun is a delectable Indian dessert made from milk solids kneaded into a dough, fried until golden brown, and soaked in a sugar syrup infused with rosewater and cardamom.",
+    "price": 250
+  },
+  {
+    "id": "9",
+    "title": "Paneer Tikka",
+    "difficulty": "Easy",
+    "rating": "4.8",
+    "image": "https://www.indianveggiedelight.com/wp-content/uploads/2021/08/air-fryer-paneer-tikka-featured.jpg",
+    "description": "Paneer Tikka is a popular vegetarian appetizer made with marinated paneer and vegetables, grilled until charred and smoky. It's a great option for those looking for a flavorful and satisfying vegetarian dish.",
+    "price": 350
+  },
+  {
+    "id": "10",
+    "title": "Samosa",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347369/india-food-samosa/india-food-samosa-1120x732.jpg",
+    "description": "Samosa is a well-known Indian snack consisting of a crispy pastry shell filled with spiced potatoes, peas, and sometimes meat. It's a popular street food and can be enjoyed with chutney or as a part of a meal.",
+    "price": 200
+  },
+  {
+    "id": "11",
+    "title": "Chicken Tikka Masala",
+    "difficulty": "Medium",
+    "rating": "4.6",
+    "image": "https://www.recipetineats.com/wp-content/uploads/2018/04/Chicken-Tikka-Masala_0-SQ.jpg",
+    "description": "Chicken Tikka Masala is a flavorful Indian curry made with marinated and grilled chicken in a creamy tomato-based sauce. The dish is hearty and satisfying, often paired with naan bread or steamed rice.",
+    "price": 750
+  },
+  {
+    "id": "12",
+    "title": "Idli",
+    "difficulty": "Easy",
+    "rating": "4.9",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347416/india-food-idli/india-food-idli-1120x732.jpg",
+    "description": "Idli is a soft and spongy South Indian steamed cake made from fermented rice and lentil batter. It's a popular breakfast item and is typically served with sambar and coconut chutney.",
+    "price": 150
+  },
+  {
+    "id": "13",
+    "title": "Chaat",
+    "difficulty": "Easy",
+    "rating": "4.8",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347465/india-food-aloo-chaat/india-food-aloo-chaat-1120x732.jpg",
+    "description": "Chaat is a group of savory Indian street snacks that are bursting with flavors. It includes dishes like Bhel Puri, Pani Puri, and Aloo Tikki, featuring a mix of crispy, tangy, and spicy elements.",
+    "price": 180
+  },
+  {
+    "id": "14",
+    "title": "Rasmalai",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347382/india-food-ras-malai/india-food-ras-malai-1120x732.jpg",
+    "description": "Rasmalai is a delightful Indian dessert made with soft cheese dumplings soaked in sweetened milk flavored with cardamom and saffron. It's a creamy and indulgent treat often enjoyed on special occasions.",
+    "price": 250
+  },
+  {
+    "id": "15",
+    "title": "Vada Pav",
+    "difficulty": "Medium",
+    "rating": "4.6",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347356/india-food-vada-pav/india-food-vada-pav-1120x732.jpg",
+    "description": "Vada Pav is an iconic Mumbai street food, consisting of a deep-fried potato dumpling (vada) sandwiched in a bun (pav) with chutneys and spices. It's a flavorful and filling snack loved by many.",
+    "price": 120
+  },
+  {
+    "id": "16",
+    "title": "Pani Puri",
+    "difficulty": "Easy",
+    "rating": "4.9",
+    "image": "https://ministryofcurry.com/wp-content/uploads/2022/07/Dahi-Puri_-3.jpg",
+    "description": "Pani Puri, also known as Golgappa or Puchka, is a popular Indian street food snack. It consists of hollow crispy puris filled with spicy and tangy flavored water, tamarind chutney, and a mixture of potatoes and chickpeas.",
+    "price": 80
+  },
+  {
+    "id": "17",
+    "title": "Dal Makhani",
+    "difficulty": "Medium",
+    "rating": "4.8",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347429/india-food-dal-makani/india-food-dal-makani-1120x732.jpg",
+    "description": "Dal Makhani is a creamy and aromatic lentil dish made with black gram (urad dal) and kidney beans (rajma). It's slow-cooked with butter, cream, and a blend of spices, resulting in a luscious and flavorful dish.",
+    "price": 350
+  },
+  {
+    "id": "18",
+    "title": "Pav Bhaji",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://pipingpotcurry.com/wp-content/uploads/2018/09/Pav-Bhaji.jpg",
+    "description": "Pav Bhaji is a popular street food dish from Mumbai, India. It consists of a spicy vegetable curry (bhaji) served with buttered buns (pav) and a variety of toppings like onions, cilantro, and lemon wedges.",
+    "price": 300
+  },
+  {
+    "id": "19",
+    "title": "Malai Kofta",
+    "difficulty": "Medium",
+    "rating": "4.6",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/04/malai-kofta-2.jpg",
+    "description": "Malai Kofta is a rich and creamy Indian curry made with deep-fried paneer and vegetable dumplings (koftas) served in a luscious tomato-based sauce. It's a delightful vegetarian alternative to meat-based curries.",
+    "price": 400
+  },
+  {
+    "id": "20",
+    "title": "Raita",
+    "difficulty": "Easy",
+    "rating": "4.9",
+    "image": "https://sandhyahariharan.co.uk/wp-content/uploads/2020/06/Boondi-Raita-1-of-4.jpg",
+    "description": "Raita is a cooling and refreshing yogurt-based condiment often served as an accompaniment to Indian meals. It can be made with various ingredients like cucumber, tomatoes, or boondi, and is seasoned with spices like cumin and mint.",
+    "price": 100
+  }
+]

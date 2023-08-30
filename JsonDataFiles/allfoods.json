@@ -1,0 +1,1902 @@
+[
+  {
+    "title": "Raspberry and custard muffins",
+    "description": "Indulge in the delightful combination of tangy raspberries and creamy custard with these delectable muffins. The moist and tender muffins are bursting with flavor, making them a delightful treat for breakfast or a sweet snack. Topped with a sprinkle of sugar and fresh raspberries, these muffins are as beautiful as they are delicious. Whether you're a fan of fruity flavors or simply looking for a delightful treat, these raspberry and custard muffins are the perfect choice.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/1.jpg",
+    "price": 220,
+    "rating": 4.6
+  },
+  {
+    "title": "Lemon and blackberry stripe cake",
+    "description": "Embark on a journey of zesty and fruity flavors with this exquisite lemon and blackberry stripe cake. The light and moist lemon sponge is generously filled with luscious blackberry jam, creating a delightful burst of flavors in every slice. The cake is elegantly decorated with blackberry stripes, making it a stunning centerpiece for any occasion. Whether you're a fan of citrusy treats or simply want to indulge in a delightful dessert, this lemon and blackberry stripe cake is the perfect choice for capturing the essence of summer.",
+    "difficulty": "A challenge",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/2.jpg",
+    "price": 320,
+    "rating": 4.9
+  },
+  {
+    "title": "Paul Hollywood’s chocolate fudge cake",
+    "description": "Satisfy your chocolate cravings with this decadent chocolate fudge cake by the renowned baker Paul Hollywood. The rich and moist chocolate cake is generously coated with a velvety smooth fudge frosting, creating a luxurious treat for chocolate lovers. Topped with chocolate shavings and adorned with fresh berries, this cake is a feast for both the eyes and taste buds. Whether you're celebrating a special occasion or simply want to indulge in a chocolatey delight, Paul Hollywood’s chocolate fudge cake is a must-try masterpiece.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/3.jpg",
+    "price": 380,
+    "rating": 4.8
+  },
+  {
+    "title": "Lemon and strawberry meringue cake",
+    "description": "Experience the delightful combination of zesty lemon, sweet strawberries, and fluffy meringue with this exquisite cake. The layers of tender lemon sponge are generously filled with juicy strawberries and topped with pillowy meringue, creating a delightful harmony of flavors and textures. Topped with fresh strawberries and a sprinkle of lemon zest, this cake is a beautiful and refreshing treat for any occasion. Whether you're a fan of citrusy treats or simply looking for a delightful dessert, this lemon and strawberry meringue cake is the perfect choice.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/4.jpg",
+    "price": 300,
+    "rating": 4.7
+  },
+  {
+    "title": "Vegan chocolate cake",
+    "description": "Indulge in the ultimate chocolate experience with this delectable vegan chocolate cake. The moist and rich chocolate cake is made entirely from plant-based ingredients, creating a guilt-free treat for chocolate lovers. Topped with a velvety chocolate frosting and adorned with fresh berries, this cake is as beautiful as it is delicious. Whether you're a vegan or simply seeking a crowd-pleasing dessert, this vegan chocolate cake is a delightful treat that will leave everyone asking for seconds.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/5.jpg",
+    "price": 350,
+    "rating": 4.5
+  },
+  {
+    "title": "Spiced plum cake with Swiss meringue frosting",
+    "description": "Embark on a journey of delightful flavors with this exquisite spiced plum cake. The moist and tender cake is infused with warm spices and juicy plum pieces, creating a delightful burst of flavors that will captivate your taste buds. The cake is generously topped with silky Swiss meringue frosting, adding a luxurious touch to every slice. Whether you're celebrating a special occasion or simply want to enjoy a slice of comfort, this spiced plum cake with Swiss meringue frosting is a perfect choice for savoring the taste of autumn.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/6.jpg",
+    "price": 280,
+    "rating": 4.4
+  },
+  {
+    "title": "Lemon and courgette cake with white chocolate cream cheese frosting",
+    "description": "Experience a delightful fusion of citrusy lemon and tender courgette in this exquisite cake. The layers of moist lemon and courgette sponge are generously filled with a velvety smooth white chocolate cream cheese frosting, creating a delightful harmony of flavors and textures. Topped with candied lemon zest and adorned with delicate edible flowers, this cake is a stunning centerpiece for any occasion.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/7.jpg",
+    "price": 320,
+    "rating": 4.6
+  },
+  {
+    "title": "Chocolate cake with caramel poached pears and chocolate buttercream",
+    "description": "Indulge in the luxurious combination of chocolate and caramel poached pears with this exquisite cake. The moist and rich chocolate cake is generously filled with tender caramel poached pears, creating a delightful burst of flavors in every bite. Topped with a velvety chocolate buttercream and adorned with caramel drizzle, this cake is a feast for both the eyes and taste buds.",
+    "difficulty": "Medium",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/8.jpg",
+    "price": 420,
+    "rating": 4.9
+  },
+  {
+    "title": "Rhubarb and custard layer cake",
+    "description": "Relish in the delightful combination of tangy rhubarb and creamy custard with this exquisite layer cake. The moist and tender cake is generously filled with tangy rhubarb compote and creamy custard, creating a delightful harmony of flavors and textures. Topped with whipped cream and adorned with fresh rhubarb slices, this cake is a beautiful and refreshing treat for any occasion. Whether you're a fan of fruity treats or simply want to indulge in a delightful dessert, this rhubarb and custard layer cake is the perfect choice.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/9.jpg",
+    "price": 290,
+    "rating": 4.8
+  },
+  {
+    "title": "Spring lamb cupcakes",
+    "description": "Celebrate the arrival of spring with these adorable and delightful spring lamb cupcakes. The tender cupcakes are topped with fluffy white frosting, resembling cute little lambs. Decorated with edible eyes and fondant ears, these cupcakes are a delightful treat for both children and adults. Whether you're hosting a spring-themed party or simply want to spread some joy with cute cupcakes, these spring lamb cupcakes are the perfect choice for capturing the essence of the season.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/10.jpg",
+    "price": 180,
+    "rating": 4.7
+  },
+  {
+    "title": "Peanut butter drip cake",
+    "description": "Experience the heavenly combination of rich peanut butter and decadent chocolate with this indulgent drip cake. The layers of moist chocolate sponge are generously filled with creamy peanut butter frosting, creating a delightful burst of flavors in every bite. The cake is adorned with a luscious chocolate ganache drip, adding a touch of elegance to its appearance. Whether you're a fan of peanut butter or simply want to indulge in a delightful dessert, this peanut butter drip cake is the perfect choice for capturing the essence of indulgence.",
+    "difficulty": "Medium",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/11.jpg",
+    "price": 360,
+    "rating": 4.5
+  },
+  {
+    "title": "Ginger drizzle traybake with cream cheese icing",
+    "description": "Savor the warming and comforting flavors of ginger with this delightful traybake. The moist and spicy ginger sponge is generously drizzled with tangy lemon syrup, creating a delightful burst of flavors in every bite. Topped with a velvety cream cheese icing and adorned with candied ginger, this traybake is a delightful treat for any occasion. Whether you're a fan of ginger or simply want to enjoy a slice of comfort, this ginger drizzle traybake with cream cheese icing is a perfect choice for savoring the taste of cozy moments.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/12.jpg",
+    "price": 260,
+    "rating": 4.4
+  },
+  {
+    "title": "Baked lemon cheesecake with pineapple flowers",
+    "description": "Indulge in the creamy and zesty flavors of this exquisite baked lemon cheesecake. The smooth and luscious cheesecake is infused with zesty lemon, creating a delightful burst of flavors in every bite. Topped with delicate pineapple flowers and a sprinkle of lemon zest, this cheesecake is a stunning centerpiece for any occasion. Whether you're celebrating a special event or simply want to enjoy a slice of luxury, this baked lemon cheesecake with pineapple flowers is a must-try masterpiece that will leave a lasting impression.",
+    "difficulty": "Medium",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/13.jpg",
+    "price": 380,
+    "rating": 4.6
+  },
+  {
+    "title": "Carrot and cheesecake layer cake",
+    "description": "Experience the delightful combination of spiced carrot cake and creamy cheesecake with this exquisite layer cake. The layers of tender carrot sponge and creamy cheesecake are generously filled with smooth cream cheese frosting, creating a delightful harmony of flavors and textures. Topped with candied carrot curls and adorned with a sprinkle of cinnamon, this cake is a beautiful and flavorful treat for any occasion. Whether you're a fan of classic favorites or simply want to try a unique fusion, this carrot and cheesecake layer cake is the perfect choice.",
+    "difficulty": "A challenge",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/14.jpg",
+    "price": 420,
+    "rating": 4.8
+  },
+  {
+    "title": "Sugarplum fairy cakes",
+    "description": "Enter a world of enchanting flavors with these whimsical and delightful sugarplum fairy cakes. The tender cupcakes are infused with magical sugarplum flavors, creating a delightful burst of sweetness in every bite. Topped with pastel-colored frosting and adorned with edible glitter and fondant decorations, these fairy cakes are a stunning treat for children and adults alike. Whether you're hosting a fairy-themed party or simply want to bring some magic to your day, these sugarplum fairy cakes are the perfect choice for capturing the essence of fantasy.",
+    "difficulty": "Medium",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/15.jpg",
+    "price": 240,
+    "rating": 4.9
+  },
+  {
+    "title": "Summer-cup bundt drizzle cake",
+    "description": "Celebrate the flavors of summer with this delightful summer-cup bundt drizzle cake. The moist and tender bundt cake is infused with refreshing flavors like citrusy lemon, juicy orange, and aromatic elderflower, creating a delightful burst of sunshine in every bite. Topped with a zesty lemon drizzle and adorned with edible flowers, this cake is a stunning centerpiece for any summer gathering. Whether you're hosting a garden party or simply want to embrace the joys of summer, this summer-cup bundt drizzle cake is the perfect choice for savoring the taste of the season.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/16.jpg",
+    "price": 280,
+    "rating": 4.7
+  },
+  {
+    "title": "St Clement’s squares",
+    "description": "Relish in the delightful combination of citrusy orange and zesty lemon with these exquisite St Clement’s squares. The buttery shortbread squares are infused with vibrant orange and lemon zest, creating a delightful burst of flavors in every bite. Topped with a tangy orange and lemon glaze, these squares are a delightful treat for any occasion. Whether you're a fan of zesty treats or simply want to enjoy a moment of pure indulgence, these St Clement’s squares are the perfect choice for capturing the essence of citrusy delight.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/17.jpg",
+    "price": 220,
+    "rating": 4.6
+  },
+  {
+    "title": "Caramelised white chocolate, burnt butter and tahini cake",
+    "description": "Indulge in the luxurious combination of caramelized white chocolate, burnt butter, and tahini with this exquisite cake. The moist and tender cake is infused with the rich flavors of caramel and nutty tahini, creating a delightful burst of flavors in every bite. Topped with caramelized white chocolate ganache and adorned with edible gold leaf, this cake is a feast for both the eyes and taste buds.",
+    "difficulty": "A challenge",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/18.jpg",
+    "price": 420,
+    "rating": 4.8
+  },
+  {
+    "title": "Eric Lanlard’s carrot and pumpkin celebration cake",
+    "description": "Celebrate in style with this exquisite carrot and pumpkin celebration cake by the renowned baker Eric Lanlard. The layers of tender carrot and pumpkin sponge are generously filled with smooth cream cheese frosting, creating a delightful harmony of flavors and textures. Topped with candied carrot curls and adorned with a sprinkle of pumpkin spice, this cake is a beautiful and flavorful treat for any celebration.",
+    "difficulty": "Medium",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/19.jpg",
+    "price": 390,
+    "rating": 4.9
+  },
+  {
+    "title": "Tunnock’s teacake traybake",
+    "description": "Relish in the iconic flavors of Tunnock’s teacakes with this delightful traybake. The tender and buttery traybake is topped with a layer of smooth milk chocolate and a generous scattering of Tunnock’s teacake pieces, creating a delightful burst of flavors in every bite. Whether you're a fan of these classic teatime treats or simply want to indulge in a delightful dessert, this Tunnock’s teacake traybake is the perfect choice for capturing the essence of nostalgia and sweetness.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/20.jpg",
+    "price": 250,
+    "rating": 2
+  },
+  {
+    "title": "Easy butterfly cakes",
+    "description": "Delight in the simple and whimsical charm of these easy butterfly cakes. The tender cupcakes are topped with fluffy buttercream frosting, shaped like delicate butterfly wings. Decorated with colorful sprinkles and edible butterflies, these cakes are a delightful treat for both children and adults. Whether you're hosting a birthday party or simply want to add some joy to your day, these easy butterfly cakes are the perfect choice for capturing the essence of carefree moments.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/21.jpg",
+    "price": 180,
+    "rating": 4.5
+  },
+  {
+    "title": "Chocolate cupcakes",
+    "description": "Indulge in the timeless and irresistible flavor of chocolate with these delectable chocolate cupcakes. The moist and tender cupcakes are topped with a velvety chocolate frosting, creating a delightful burst of cocoa goodness in every bite. Topped with chocolate curls and adorned with a sprinkle of cocoa powder, these cupcakes are as beautiful as they are delicious. Whether you're a fan of classic chocolate treats or simply want to enjoy a moment of indulgence, these chocolate cupcakes are the perfect choice for capturing the essence of chocolatey delight.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/22.jpg",
+    "price": 200,
+    "rating": 4.6
+  },
+  {
+    "title": "Orange blossom, lemon thyme and almond cake",
+    "description": "Embark on a journey of delightful flavors with this exquisite orange blossom, lemon thyme, and almond cake. The moist and tender cake is infused with the delicate essence of orange blossom and the refreshing aroma of lemon thyme, creating a delightful burst of flavors in every bite. Topped with toasted almond slices and adorned with candied orange zest, this cake is a stunning centerpiece for any occasion. Whether you're a fan of unique and floral flavors or simply want to try something new, this orange blossom, lemon thyme, and almond cake is the perfect choice.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/23.jpg",
+    "price": 320,
+    "rating": 4.5
+  },
+  {
+    "title": "Eton mess traybake",
+    "description": "Relish in the delightful combination of meringue, whipped cream, and fresh berries with this exquisite Eton mess traybake. The tender and buttery traybake is topped with a layer of chewy meringue and a generous swirl of whipped cream, creating a delightful harmony of textures and flavors. Adorned with a vibrant assortment of fresh berries, this traybake is a beautiful and refreshing treat for any occasion.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/24.jpg",
+    "price": 280,
+    "rating": 4.4
+  },
+  {
+    "title": "Nut-free carrot cupcakes",
+    "description": "Indulge in the classic flavors of carrot cake without nuts with these delightful nut-free carrot cupcakes. The tender cupcakes are generously filled with shredded carrots and warm spices, creating a delightful burst of flavors in every bite. Topped with a smooth cream cheese frosting and adorned with a sprinkle of cinnamon, these cupcakes are a comforting and flavorful treat for any occasion. Whether you have nut allergies or simply want to enjoy a classic favorite, these nut-free carrot cupcakes are the perfect choice for capturing the essence of cozy nostalgia.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/25.jpg",
+    "price": 210,
+    "rating": 4.3
+  },
+  {
+    "title": "Raspberry and lemon sponge cake",
+    "description": "Embark on a journey of fruity and citrusy flavors with this delightful raspberry and lemon sponge cake. The moist and tender sponge cake is generously filled with tangy raspberry jam and infused with zesty lemon zest, creating a delightful burst of flavors in every bite. Topped with fresh raspberries and adorned with a sprinkle of powdered sugar, this cake is a beautiful and refreshing treat for any occasion.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/26.jpg",
+    "price": 290,
+    "rating": 4.6
+  },
+  {
+    "title": "Strawberry and rose Victoria sponge sandwich",
+    "description": "Experience the romantic and delicate flavors of strawberry and rose with this exquisite Victoria sponge sandwich. The layers of moist and tender sponge are generously filled with luscious strawberry jam and infused with the floral essence of rose water, creating a delightful burst of flavors in every bite.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/27.jpg",
+    "price": 320,
+    "rating": 4.7
+  },
+  {
+    "title": "Toffee ice-cream cake",
+    "description": "Indulge in the delightful combination of rich toffee and creamy ice cream with this exquisite cake. The tender and buttery cake is layered with velvety toffee ice cream, creating a delightful harmony of flavors and textures. Topped with a drizzle of toffee sauce and adorned with toffee pieces, this cake is a feast for both the eyes and taste buds. Whether you're celebrating a special occasion or simply want to indulge in a cold and comforting treat, this toffee ice-cream cake is a must-try masterpiece that will satisfy your sweet cravings.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/28.jpg",
+    "price": 350,
+    "rating": 4.5
+  },
+  {
+    "title": "Easy flourless chocolate cake",
+    "description": "Indulge in the ultimate chocolate experience with this delectable flourless chocolate cake. The rich and moist chocolate cake is made entirely without flour, creating an intensely chocolatey and fudgy treat. Topped with a velvety chocolate ganache and adorned with fresh berries, this cake is as beautiful as it is delicious. Whether you're a fan of gluten-free treats or simply want to enjoy a decadent dessert, this easy flourless chocolate cake is the perfect choice for capturing the essence of chocolatey indulgence.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/29.jpg",
+    "price": 330,
+    "rating": 4.8
+  },
+  {
+    "title": "Sticky toffee pudding cake",
+    "description": "Savor the comforting and caramelized flavors of sticky toffee pudding with this delightful cake. The moist and tender cake is infused with rich toffee sauce, creating a delightful burst of sweetness in every bite. Topped with a drizzle of toffee sauce and adorned with a scoop of vanilla ice cream, this cake is a warm and flavorful treat for any occasion. Whether you're seeking a taste of comfort or simply want to enjoy a slice of warmth, this sticky toffee pudding cake is the perfect choice for creating cherished moments.",
+    "difficulty": "Easy",
+    "image": "https://apipics.s3.amazonaws.com/cakes_api/30.jpg",
+    "price": 310,
+    "rating": 4.7
+  },
+  {
+    "title": "Whopper",
+    "description": "The classic Whopper - flame-grilled beef patty, fresh lettuce, ripe tomatoes, creamy mayo, ketchup, crunchy pickles, and sliced onions, all served on a toasted sesame seed bun. It's the burger that made Burger King famous and a true treat for burger enthusiasts.",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/whooper-cz-2x1-230126-d64a1c.jpg",
+    "price": 660,
+    "rating": 4.7
+  },
+  {
+    "title": "Cheeseburger",
+    "description": "A classic Cheeseburger with a flame-grilled beef patty, topped with melted American cheese, ketchup, mustard, and pickles, all served on a soft, sesame seed bun. It's a simple yet delicious burger that never disappoints.",
+    "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/3/2023/07/11180305/358101373_292422893350341_630677683818333789_n.jpeg",
+    "price": 396,
+    "rating": 4.5
+  },
+  {
+    "title": "Double Whopper",
+    "description": "Double the patty, double the delight! The Double Whopper features two flame-grilled beef patties, fresh lettuce, ripe tomatoes, creamy mayo, ketchup, crunchy pickles, and sliced onions, all on a toasted sesame seed bun.",
+    "image": "https://burgerking.com.cy/sites/default/files/Double%20Whopper-01_2.png",
+    "price": 924,
+    "rating": 4.6
+  },
+  {
+    "title": "Bacon King",
+    "description": "For the bacon lovers, the Bacon King is a true delight. This burger comes with two flame-grilled beef patties, thick-cut smoked bacon, melted American cheese, ketchup, and creamy mayo, all served on a soft, sesame seed bun.",
+    "image": "https://burgerking.at/005_at/products/_NEW%20VI/image-thumb__29524__product_detail/BK_Beef_Bacon-King.png",
+    "price": 792,
+    "rating": 4.8
+  },
+  {
+    "title": "BBQ Bacon King",
+    "description": "Indulge in the rich flavors of the BBQ Bacon King - two flame-grilled beef patties, topped with crispy bacon, American cheese, and savory BBQ sauce, all served on a soft, sesame seed bun.",
+    "image": "https://burgerkingec.com/wp-content/uploads/2020/04/bbq-bacon-king-img.png",
+    "price": 924,
+    "rating": 4.5
+  },
+  {
+    "title": "Whopper Jr.",
+    "description": "A smaller version of the classic Whopper, the Whopper Jr. features a flame-grilled beef patty, fresh lettuce, ripe tomatoes, creamy mayo, ketchup, crunchy pickles, and sliced onions, all on a soft, sesame seed bun.",
+    "image": "https://bk-apac-prd.s3.amazonaws.com/sites/burgerking.com.fj/files/Untitled-3-02_0.png",
+    "price": 528,
+    "rating": 4.3
+  },
+  {
+    "title": "Bacon Cheeseburger",
+    "description": "Enjoy the smoky goodness of the Bacon Cheeseburger, featuring a flame-grilled beef patty, melted American cheese, crispy bacon, ketchup, and mustard, all served on a soft, sesame seed bun.",
+    "image": "https://www.fastfoodpost.com/wp-content/uploads/2021/01/Review-Burger-King-New-1-Bacon-Cheeseburger.jpg",
+    "price": 528,
+    "rating": 4.2
+  },
+  {
+    "title": "Double Cheeseburger",
+    "description": "Double the cheese, double the delight! The Double Cheeseburger comes with two flame-grilled beef patties, each topped with melted American cheese, ketchup, mustard, and pickles, all on a soft, sesame seed bun.",
+    "image": "https://burgerking.com.my/upload/image/Product/56/Cheeseburger%20%28Double%29%20Ala%20Carte.png",
+    "price": 660,
+    "rating": 4.4
+  },
+  {
+    "title": "Impossible Whopper",
+    "description": "For the plant-based enthusiasts, the Impossible Whopper offers a delicious alternative. It features a flame-grilled Impossible patty, fresh lettuce, ripe tomatoes, creamy mayo, ketchup, crunchy pickles, and sliced onions, all on a toasted sesame seed bun.",
+    "image": "https://images.ctfassets.net/hhv516v5f7sj/kfMvWEibUxvFONGy8VMT6/a235c98107c31be9b84a2253c644789e/BK-Croissanwich-Whopper-1098x1000-v5.jpg?fm=webp&q=90&w=640",
+    "price": 792,
+    "rating": 4.1
+  },
+  {
+    "title": "Impossible Cheeseburger",
+    "description": "An exciting plant-based option, the Impossible Cheeseburger comes with a flame-grilled Impossible patty, topped with melted American cheese, ketchup, and mustard, all on a soft, sesame seed bun.",
+    "image": "https://www.foodandwine.com/thmb/xuf3dQPeLzk4mUpRrCryLlVguLA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Burger-King-Expands-Impossible-Offerings-FT-2-BLOG0622-fb9480719e644e0bafccd32229ad2cb3.jpg",
+    "price": 660,
+    "rating": 4.0
+  },
+  {
+    "title": "Chicken Sandwich",
+    "description": "For chicken lovers, the Chicken Sandwich is a must-try. It features a tender, crispy chicken fillet, lettuce, and creamy mayo, all served on a soft, sesame seed bun.",
+    "image": "https://thegoldenlamb.com/wp-content/uploads/2022/04/burger-king-original-chicken-sandwich.jpg",
+    "price": 660,
+    "rating": 4.2
+  },
+  {
+    "title": "Crispy Chicken Jr.",
+    "description": "A smaller version of the classic Chicken Sandwich, the Crispy Chicken Jr. features a tender, crispy chicken fillet, lettuce, and creamy mayo, all served on a soft, sesame seed bun.",
+    "image": "https://burgerking.fi/wp-content/uploads/BK_Menukuvat_nettisivuille_Crispy_Chicken_1080x1080px_0620213-768x768.png",
+    "price": 396,
+    "rating": 4.3
+  },
+  {
+    "title": "Spicy Chicken Jr.",
+    "description": "For those who crave a kick of heat, the Spicy Chicken Jr. offers a tender, spicy chicken fillet, lettuce, and creamy mayo, all served on a soft, sesame seed bun.",
+    "image": "https://i.pinimg.com/564x/78/fe/0c/78fe0c95ee0245afa0e6a0ce6e2d82d7.jpg",
+    "price": 396,
+    "rating": 4.1
+  },
+  {
+    "title": "Big Fish Sandwich",
+    "description": "For seafood lovers, the Big Fish Sandwich is a delightful choice. It features a crispy fish fillet, tartar sauce, and shredded lettuce, all served on a soft, sesame seed bun.",
+    "image": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_744,ar_5:4/v1/img/recipes/44/44/73/picm9f08k.jpg",
+    "price": 660,
+    "rating": 4.4
+  },
+  {
+    "title": "Chicken Fries",
+    "description": "A fun and flavorful option, Chicken Fries are crispy strips of tender chicken, perfect for dipping in your favorite sauce.",
+    "image": "https://i.insider.com/57d30d8c077dcc21008b4b40?width=300&format=jpeg&auto=webp",
+    "price": 528,
+    "rating": 4.3
+  },
+  {
+    "title": "Whopper Jr. Meal",
+    "description": "Get the classic Whopper Jr. in a satisfying meal. The meal includes a Whopper Jr., small fries, and a small drink.",
+    "image": "https://bk-apac-prd.s3.amazonaws.com/sites/burgerking.com.fj/files/Update_WHOPPER%20JR_detail.png",
+    "price": 924,
+    "rating": 4.2
+  },
+  {
+    "title": "Bacon King Meal",
+    "description": "Enjoy the rich flavors of the Bacon King in a delicious meal. The meal includes a Bacon King, small fries, and a small drink.",
+    "image": "https://www.burgerking.ee/images/optimized/products/meals-bacon-king-desktop-36372c7e791bce34bb2da0536a3ba42b.png",
+    "price": 1056,
+    "rating": 4.7
+  },
+  {
+    "title": "Impossible Whopper Meal",
+    "description": "Satisfy your plant-based cravings with the Impossible Whopper Meal. The meal includes an Impossible Whopper, small fries, and a small drink.",
+    "image": "https://foodgressing.com/wp-content/uploads/2021/03/impossible-whopper.jpg",
+    "price": 1056,
+    "rating": 4.5
+  },
+  {
+    "title": "Chicken Fries Meal",
+    "description": "Enjoy the fun and flavorful Chicken Fries in a satisfying meal. The meal includes Chicken Fries, small fries, and a small drink.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/delish-221219-burger-king-chicken-fries-0133-eb-1672788323.jpg?resize=980:*",
+    "price": 792,
+    "rating": 4.3
+  },
+  {
+    "title": "Big Fish Meal",
+    "description": "For seafood lovers, the Big Fish Meal offers a delightful combination. The meal includes a Big Fish Sandwich, small fries, and a small drink.",
+    "image": "https://s.hdnux.com/photos/34/71/14/7574288/6/800x0.jpg",
+    "price": 792,
+    "rating": 4.4
+  },
+  {
+    "title": "Homemade crispy chilli oil",
+    "difficulty": "Easy",
+    "rating": "4.5",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/1.jpg",
+    "description": "Add a kick of flavor to your dishes with Homemade Crispy Chilli Oil. This aromatic and spicy oil is made by infusing dried chillies, Sichuan peppercorns, and other fragrant spices into hot oil. Drizzle it over your favorite dishes or use it as a dipping sauce for dumplings and noodles. With its rich and intense flavors, this chilli oil will elevate your Chinese cuisine experience.",
+    "price": 250
+  },
+  {
+    "title": "Prawn and lemongrass hot and sour soup",
+    "difficulty": "Easy",
+    "rating": "4.4",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/2.jpg",
+    "description": "Warm up with a bowl of Prawn and Lemongrass Hot and Sour Soup. This comforting and tangy soup features succulent prawns, aromatic lemongrass, and a medley of vegetables in a flavorful broth. The combination of spicy, sour, and savory tastes will tantalize your taste buds and leave you feeling satisfied. It's the perfect soup for a cold day or when you crave a zesty and comforting meal.",
+    "price": 320
+  },
+  {
+    "title": "Steamed lap cheong with five treasure fried rice",
+    "difficulty": "Medium",
+    "rating": "4.3",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/3.jpg",
+    "description": "Indulge in the rich and savory flavors of Steamed Lap Cheong with Five Treasure Fried Rice. Lap cheong, Chinese sausage, is steamed to perfection, allowing the flavors to intensify. It's then sliced and served with a fragrant fried rice that includes an array of 'five treasures,' such as shrimp, chicken, vegetables, and more. This dish is a celebration of traditional Chinese ingredients and will delight your palate.",
+    "price": 410
+  },
+  {
+    "title": "Jeremy Pang’s General Tso’s chicken",
+    "difficulty": "Easy",
+    "rating": "4.6",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/4.jpg",
+    "description": "Try your hand at making Jeremy Pang's General Tso's Chicken, a popular and beloved Chinese-American dish. The tender and crispy chicken is coated in a sweet and tangy sauce that's bursting with flavors. This homemade version allows you to adjust the spice level and create the perfect balance of sweet and savory. Serve it with steamed rice and steamed broccoli for a complete and satisfying meal.",
+    "price": 380
+  },
+  {
+    "title": "MiMi Mei Fair’s ‘Hokkien’ noodles",
+    "difficulty": "Easy",
+    "rating": "4.5",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/5.jpg",
+    "description": "Transport yourself to the streets of Asia with MiMi Mei Fair's 'Hokkien' Noodles. This classic Chinese dish features thick and chewy egg noodles stir-fried with succulent prawns, tender chicken, and a flavorful medley of vegetables. The dish is infused with a rich and savory sauce that ties all the ingredients together. Enjoy this hearty and satisfying meal that's packed with authentic Asian flavors.",
+    "price": 290
+  },
+  {
+    "title": "Giant prawn toast",
+    "difficulty": "Easy",
+    "rating": "4.4",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/6.jpg",
+    "description": "Upgrade your prawn toast game with the indulgent Giant Prawn Toast. This upscale version features succulent prawns seasoned with aromatic spices and spread on a thick slice of toast before being deep-fried to perfection. The prawns become beautifully crispy on the outside and juicy on the inside, creating an irresistible appetizer. Serve it with a sweet chili dipping sauce and watch it disappear at your next gathering.",
+    "price": 320
+  },
+  {
+    "title": "Wun’s kung pao chicken",
+    "difficulty": "Easy",
+    "rating": "4.5",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/7.jpg",
+    "description": "Embark on a culinary adventure with Wun's Kung Pao Chicken. This iconic Sichuan dish features tender chicken stir-fried with peanuts, vibrant bell peppers, and spicy chili peppers. The Kung Pao sauce is the star of the show, bringing together all the flavors with a perfect balance of sweet, savory, and spicy tastes. Serve it with steamed rice for an unforgettable and satisfying meal.",
+    "price": 380
+  },
+  {
+    "title": "Crispy pork potsticker dumplings",
+    "difficulty": "Easy",
+    "rating": "4.6",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/8.jpg",
+    "description": "Sink your teeth into the irresistible Crispy Pork Potsticker Dumplings. These pan-fried dumplings feature a delicious filling of seasoned ground pork and aromatic vegetables. The dumpling skins are crispy on the bottom and delightfully tender on top, creating a delightful contrast of textures. Serve them with a dipping sauce, and your guests will be amazed by this restaurant-quality dish made in your own kitchen.",
+    "price": 240
+  },
+  {
+    "title": "Hunan-style crispy mushroom noodle salad",
+    "difficulty": "Easy",
+    "rating": "4.4",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/9.jpg",
+    "description": "Take your taste buds on a journey with the Hunan-Style Crispy Mushroom Noodle Salad. This vibrant and refreshing salad features crispy fried mushrooms, colorful vegetables, and chewy noodles tossed in a tangy and savory dressing. The combination of textures and flavors makes it a satisfying and delightful dish. Enjoy it as a light meal or a refreshing side dish that's perfect for warm weather.",
+    "price": 270
+  },
+  {
+    "title": "Black bean tofu and baby pak choi",
+    "difficulty": "Easy",
+    "rating": "4.5",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/10.jpg",
+    "description": "Embrace the umami flavors of Black Bean Tofu and Baby Pak Choi. This easy-to-make dish features firm tofu and tender baby pak choi stir-fried in a savory black bean sauce. The dish comes together quickly and delivers bold and satisfying flavors with every bite. It's a great option for vegetarians and tofu enthusiasts. Serve it with steamed rice for a wholesome and satisfying meal.",
+    "price": 310
+  },
+  {
+    "title": "Hot and sour soup",
+    "difficulty": "Easy",
+    "rating": "4.3",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/11.jpg",
+    "description": "Warm your soul with a bowl of Hot and Sour Soup. This classic Chinese soup features a hearty broth filled with tender chicken, velvety tofu, and a medley of vegetables. The soup gets its signature flavors from a combination of hot chili sauce and tangy vinegar, creating a perfect balance of spicy and sour tastes. It's the ultimate comfort food for any time of the year.",
+    "price": 220
+  },
+  {
+    "title": "Vegan tofu stir-fry",
+    "difficulty": "Easy",
+    "rating": "4.3",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/12.jpg",
+    "description": "Enjoy the goodness of plant-based ingredients with Vegan Tofu Stir-Fry. This colorful and nutritious dish features tofu and an abundance of vegetables stir-fried in a savory sauce. The dish is bursting with flavors and textures, making it a delightful and healthy meal option. Whether you're a vegan or just looking to incorporate more vegetables into your diet, this tofu stir-fry won't disappoint.",
+    "price": 260
+  },
+  {
+    "title": "Vegetable and sweet chilli spring rolls",
+    "difficulty": "Easy",
+    "rating": "4.2",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/13.jpg",
+    "description": "Crunch into these delightful Vegetable and Sweet Chilli Spring Rolls. These crispy and golden spring rolls are filled with a delicious mixture of vegetables and aromatic seasonings. The sweet chili dipping sauce complements the savory filling, creating a perfect harmony of flavors. Serve them as an appetizer, snack, or party food that will impress your guests with its delightful taste and presentation.",
+    "price": 180
+  },
+  {
+    "title": "Stir-fried beef in black bean sauce",
+    "difficulty": "Easy",
+    "rating": "4.4",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/14.jpg",
+    "description": "Savor the rich and savory flavors of Stir-Fried Beef in Black Bean Sauce. This classic Chinese dish features tender strips of beef stir-fried with vibrant bell peppers and onions in a savory black bean sauce. The sauce infuses the dish with umami and depth, making it a favorite at any Chinese restaurant. Serve it with steamed rice for a complete and satisfying meal.",
+    "price": 380
+  },
+  {
+    "title": "Leftover roast lamb stir-fry",
+    "difficulty": "Easy",
+    "rating": "4.3",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/15.jpg",
+    "description": "Give your leftover roast lamb a new life with this Leftover Roast Lamb Stir-Fry. The tender and flavorful lamb is stir-fried with colorful vegetables in a savory sauce, creating a quick and delicious meal that's perfect for using up leftovers. The combination of tender lamb, crisp vegetables, and savory sauce makes it a satisfying and budget-friendly option for a weeknight dinner.",
+    "price": 350
+  },
+  {
+    "title": "Caramelised apples with sesame",
+    "difficulty": "Easy",
+    "rating": "4.3",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/16.jpg",
+    "description": "Indulge in the sweet and comforting flavors of Caramelised Apples with Sesame. This delightful dessert features tender apple slices caramelized to perfection, creating a luscious and sweet treat. The addition of sesame seeds adds a nutty and aromatic touch to the dish. Serve it warm with a scoop of vanilla ice cream for a delightful ending to your Chinese-inspired meal.",
+    "price": 180
+  },
+  {
+    "title": "Ken Hom’s crispy fish spring rolls",
+    "difficulty": "Easy",
+    "rating": "4.5",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/17.jpg",
+    "description": "Get ready for a delightful culinary experience with Ken Hom's Crispy Fish Spring Rolls. These delectable spring rolls feature flaky white fish, crunchy vegetables, and aromatic seasonings, all wrapped in a crispy shell. The combination of textures and flavors will leave you craving for more. Serve them with a dipping sauce or sweet chili sauce for an irresistible appetizer or snack.",
+    "price": 320
+  },
+  {
+    "title": "Stuffed bitter melon with black bean sauce",
+    "difficulty": "Medium",
+    "rating": "4.2",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/18.jpg",
+    "description": "Challenge your taste buds with Stuffed Bitter Melon in Black Bean Sauce. Bitter melon, a unique and slightly bitter vegetable, is stuffed with a flavorful mixture of ground meat and aromatic seasonings. The dish is then simmered in a savory black bean sauce that balances the bitterness of the melon. This dish is a celebration of bold flavors and textures, making it a unique addition to your Chinese-inspired menu.",
+    "price": 290
+  },
+  {
+    "title": "Ken Hom’s steamed chicken with Chinese sausage",
+    "difficulty": "Easy",
+    "rating": "4.4",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/19.jpg",
+    "description": "Discover the classic flavors of Ken Hom's Steamed Chicken with Chinese Sausage. This traditional dish features tender steamed chicken and savory Chinese sausage, creating a delightful combination of tastes and textures. The dish is steamed to perfection, allowing the flavors to meld together and creating a succulent and flavorful meal. Serve it with steamed rice for a satisfying and wholesome dinner.",
+    "price": 320
+  },
+  {
+    "title": "Ken Hom’s chicken on crispy noodles",
+    "difficulty": "Easy",
+    "rating": "4.5",
+    "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/20.jpg",
+    "description": "Elevate your noodle game with Ken Hom's Chicken on Crispy Noodles. This delightful dish features tender chicken and colorful vegetables stir-fried in a savory sauce, served over a bed of crispy fried noodles. The contrast of textures between the crunchy noodles and the succulent chicken is a delight to the palate. Enjoy this restaurant-quality dish made right in your own kitchen.",
+    "price": 340
+  },
+  {
+    "title": "Butter Chicken",
+    "difficulty": "Medium",
+    "rating": "4.8",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347425/india-food-dal-tadka/india-food-dal-tadka-1120x732.jpg",
+    "description": "Butter Chicken, also known as Murgh Makhani, is a popular Indian dish made with tender pieces of chicken cooked in a creamy tomato-based sauce. The dish is rich and flavorful, with a perfect balance of spices and a hint of sweetness.",
+    "price": 800
+  },
+  {
+    "title": "Biryani",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347449/india-food-biriyani/india-food-biriyani-1120x732.jpg",
+    "description": "Biryani is a fragrant and aromatic rice dish made with basmati rice, meat (chicken, lamb, or beef), and a blend of spices. It's often garnished with fried onions, boiled eggs, and fresh cilantro, creating a feast for the senses.",
+    "price": 750
+  },
+  {
+    "title": "Chole Bhature",
+    "difficulty": "Medium",
+    "rating": "4.6",
+    "image": "https://i0.wp.com/swadisht.life/en/wp-content/uploads/2023/02/Chole-Bhature-Recipe.jpg",
+    "description": "Chole Bhature is a popular Punjabi dish consisting of spicy chickpea curry (chole) served with deep-fried bread (bhature). The combination of the flavorful curry and fluffy bread is a delightful indulgence.",
+    "price": 500
+  },
+  {
+    "title": "Tandoori Chicken",
+    "difficulty": "Easy",
+    "rating": "4.9",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347361/india-food-tandoori-chicken/india-food-tandoori-chicken-1120x732.jpg",
+    "description": "Tandoori Chicken is a mouthwatering Indian appetizer made by marinating chicken in yogurt and a blend of spices, then cooking it in a clay oven (tandoor). The result is juicy and flavorful chicken with a smoky charred flavor.",
+    "price": 650
+  },
+  {
+    "title": "Palak Paneer",
+    "difficulty": "Medium",
+    "rating": "4.8",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/06/palak-paneer-recipe.jpg",
+    "description": "Palak Paneer is a vegetarian dish made with paneer (Indian cottage cheese) cooked in a creamy spinach (palak) sauce. The dish is not only delicious but also packed with nutrients from the spinach.",
+    "price": 550
+  },
+  {
+    "title": "Rogan Josh",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347378/india-food-rogan-josh/india-food-rogan-josh-1120x732.jpg",
+    "description": "Rogan Josh is a flavorful Kashmiri lamb curry made with aromatic spices, yogurt, and tomatoes. The dish is known for its vibrant red color and is often enjoyed with steamed rice or Indian bread.",
+    "price": 700
+  },
+  {
+    "title": "Dosa",
+    "difficulty": "Easy",
+    "rating": "4.6",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347401/india-food-masala-dosa/india-food-masala-dosa-1120x732.jpg",
+    "description": "Dosa is a popular South Indian crepe made from fermented rice and lentil batter. It's typically served with coconut chutney and sambar, a flavorful lentil-based vegetable stew.",
+    "price": 300
+  },
+  {
+    "title": "Gulab Jamun",
+    "difficulty": "Easy",
+    "rating": "4.9",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347420/india-food-gulab-jamun/india-food-gulab-jamun-1120x732.jpg",
+    "description": "Gulab Jamun is a delectable Indian dessert made from milk solids kneaded into a dough, fried until golden brown, and soaked in a sugar syrup infused with rosewater and cardamom.",
+    "price": 250
+  },
+  {
+    "title": "Paneer Tikka",
+    "difficulty": "Easy",
+    "rating": "4.8",
+    "image": "https://www.indianveggiedelight.com/wp-content/uploads/2021/08/air-fryer-paneer-tikka-featured.jpg",
+    "description": "Paneer Tikka is a popular vegetarian appetizer made with marinated paneer and vegetables, grilled until charred and smoky. It's a great option for those looking for a flavorful and satisfying vegetarian dish.",
+    "price": 350
+  },
+  {
+    "title": "Samosa",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347369/india-food-samosa/india-food-samosa-1120x732.jpg",
+    "description": "Samosa is a well-known Indian snack consisting of a crispy pastry shell filled with spiced potatoes, peas, and sometimes meat. It's a popular street food and can be enjoyed with chutney or as a part of a meal.",
+    "price": 200
+  },
+  {
+    "title": "Chicken Tikka Masala",
+    "difficulty": "Medium",
+    "rating": "4.6",
+    "image": "https://www.recipetineats.com/wp-content/uploads/2018/04/Chicken-Tikka-Masala_0-SQ.jpg",
+    "description": "Chicken Tikka Masala is a flavorful Indian curry made with marinated and grilled chicken in a creamy tomato-based sauce. The dish is hearty and satisfying, often paired with naan bread or steamed rice.",
+    "price": 750
+  },
+  {
+    "title": "Idli",
+    "difficulty": "Easy",
+    "rating": "4.9",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347416/india-food-idli/india-food-idli-1120x732.jpg",
+    "description": "Idli is a soft and spongy South Indian steamed cake made from fermented rice and lentil batter. It's a popular breakfast item and is typically served with sambar and coconut chutney.",
+    "price": 150
+  },
+  {
+    "title": "Chaat",
+    "difficulty": "Easy",
+    "rating": "4.8",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347465/india-food-aloo-chaat/india-food-aloo-chaat-1120x732.jpg",
+    "description": "Chaat is a group of savory Indian street snacks that are bursting with flavors. It includes dishes like Bhel Puri, Pani Puri, and Aloo Tikki, featuring a mix of crispy, tangy, and spicy elements.",
+    "price": 180
+  },
+  {
+    "title": "Rasmalai",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347382/india-food-ras-malai/india-food-ras-malai-1120x732.jpg",
+    "description": "Rasmalai is a delightful Indian dessert made with soft cheese dumplings soaked in sweetened milk flavored with cardamom and saffron. It's a creamy and indulgent treat often enjoyed on special occasions.",
+    "price": 250
+  },
+  {
+    "title": "Vada Pav",
+    "difficulty": "Medium",
+    "rating": "4.6",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347356/india-food-vada-pav/india-food-vada-pav-1120x732.jpg",
+    "description": "Vada Pav is an iconic Mumbai street food, consisting of a deep-fried potato dumpling (vada) sandwiched in a bun (pav) with chutneys and spices. It's a flavorful and filling snack loved by many.",
+    "price": 120
+  },
+  {
+    "title": "Pani Puri",
+    "difficulty": "Easy",
+    "rating": "4.9",
+    "image": "https://ministryofcurry.com/wp-content/uploads/2022/07/Dahi-Puri_-3.jpg",
+    "description": "Pani Puri, also known as Golgappa or Puchka, is a popular Indian street food snack. It consists of hollow crispy puris filled with spicy and tangy flavored water, tamarind chutney, and a mixture of potatoes and chickpeas.",
+    "price": 80
+  },
+  {
+    "title": "Dal Makhani",
+    "difficulty": "Medium",
+    "rating": "4.8",
+    "image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347429/india-food-dal-makani/india-food-dal-makani-1120x732.jpg",
+    "description": "Dal Makhani is a creamy and aromatic lentil dish made with black gram (urad dal) and kidney beans (rajma). It's slow-cooked with butter, cream, and a blend of spices, resulting in a luscious and flavorful dish.",
+    "price": 350
+  },
+  {
+    "title": "Pav Bhaji",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://pipingpotcurry.com/wp-content/uploads/2018/09/Pav-Bhaji.jpg",
+    "description": "Pav Bhaji is a popular street food dish from Mumbai, India. It consists of a spicy vegetable curry (bhaji) served with buttered buns (pav) and a variety of toppings like onions, cilantro, and lemon wedges.",
+    "price": 300
+  },
+  {
+    "title": "Malai Kofta",
+    "difficulty": "Medium",
+    "rating": "4.6",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/04/malai-kofta-2.jpg",
+    "description": "Malai Kofta is a rich and creamy Indian curry made with deep-fried paneer and vegetable dumplings (koftas) served in a luscious tomato-based sauce. It's a delightful vegetarian alternative to meat-based curries.",
+    "price": 400
+  },
+  {
+    "title": "Raita",
+    "difficulty": "Easy",
+    "rating": "4.9",
+    "image": "https://sandhyahariharan.co.uk/wp-content/uploads/2020/06/Boondi-Raita-1-of-4.jpg",
+    "description": "Raita is a cooling and refreshing yogurt-based condiment often served as an accompaniment to Indian meals. It can be made with various ingredients like cucumber, tomatoes, or boondi, and is seasoned with spices like cumin and mint.",
+    "price": 100
+  },
+  {
+    "title": "Margherita Pizza",
+    "difficulty": "Easy",
+    "rating": "4.8",
+    "image": "https://cookieandkate.com/images/2021/07/classic-margherita-pizza.jpg",
+    "description": "Margherita Pizza is a classic Italian dish that features a thin crust topped with tomato sauce, fresh mozzarella cheese, basil leaves, and a drizzle of olive oil. The simplicity of its ingredients allows the flavors to shine, making it a favorite choice for pizza lovers around the world.",
+    "price": 550
+  },
+  {
+    "title": "Spaghetti Carbonara",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://www.allrecipes.com/thmb/Vg2cRidr2zcYhWGvPD8M18xM_WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-ii-DDMFS-4x3-6edea51e421e4457ac0c3269f3be5157.jpg",
+    "description": "Spaghetti Carbonara is a rich and creamy pasta dish made with eggs, Pecorino Romano cheese, pancetta or guanciale, and black pepper. The sauce is created by mixing raw eggs with the hot pasta, creating a velvety texture that coats every strand of spaghetti.",
+    "price": 650
+  },
+  {
+    "title": "Lasagna",
+    "difficulty": "Medium",
+    "rating": "4.6",
+    "image": "https://thecozycook.com/wp-content/uploads/2022/04/Lasagna-Recipe-f.jpg",
+    "description": "Lasagna is a classic Italian casserole made with layers of flat pasta sheets, rich meat sauce, creamy béchamel sauce, and melted cheese. Baked to perfection, each slice of lasagna offers a delightful combination of flavors and textures.",
+    "price": 750
+  },
+  {
+    "title": "Risotto alla Milanese",
+    "difficulty": "Medium",
+    "rating": "4.5",
+    "image": "https://www.allrecipes.com/thmb/kJN_-TjM7aHcrVe04AaC-omMFRU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3985127-472391cb917c4a9395f6745ee754dabc.jpg",
+    "description": "Risotto alla Milanese is a creamy saffron-infused risotto that hails from Milan, Italy. It's made by slowly cooking Arborio rice in a flavorful broth with saffron, onions, and butter, resulting in a luxurious and aromatic dish.",
+    "price": 700
+  },
+  {
+    "title": "Bruschetta",
+    "difficulty": "Easy",
+    "rating": "4.8",
+    "image": "https://joyfoodsunshine.com/wp-content/uploads/2022/04/tomato-bruschetta-recipe-1.jpg",
+    "description": "Bruschetta is a popular Italian appetizer that consists of toasted bread rubbed with garlic, topped with ripe tomatoes, basil, and a drizzle of olive oil. It's a refreshing and flavorful starter that captures the essence of Italian cuisine.",
+    "price": 300
+  },
+  {
+    "title": "Tiramisu",
+    "difficulty": "Medium",
+    "rating": "4.9",
+    "image": "https://www.allrecipes.com/thmb/xDLqDQoPkelZrIwC9ab56tv_eAw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21412-tiramisu-ii-3x2-119-dc2ec77a0d39410195161a3ff98ca000.jpg",
+    "description": "Tiramisu is a beloved Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese, dusted with cocoa powder. The combination of coffee and creamy mascarpone creates a delectable and indulgent treat.",
+    "price": 600
+  },
+  {
+    "title": "Ravioli",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://honest-food.net/wp-content/uploads/2022/05/duck-liver-ravioli-1200.jpg",
+    "description": "Ravioli is a pasta dish that features delicate pockets of pasta filled with various ingredients such as cheese, meat, or vegetables. It's typically served with a savory sauce, making it a comforting and satisfying meal.",
+    "price": 800
+  },
+  {
+    "title": "Ossobuco alla Milanese",
+    "difficulty": "Difficult",
+    "rating": "4.6",
+    "image": "https://i0.wp.com/memoriediangelina.com/wp-content/uploads/2009/11/Ossobuco.jpg?w=839",
+    "description": "Ossobuco alla Milanese is a traditional Milanese specialty made with veal shanks braised in white wine, broth, and vegetables. The dish is typically garnished with gremolata, a mixture of lemon zest, garlic, and parsley, adding a burst of flavor.",
+    "price": 1200
+  },
+  {
+    "title": "Pizza alla Napoletana",
+    "difficulty": "Medium",
+    "rating": "4.8",
+    "image": "https://qph.cf2.quoracdn.net/main-qimg-2ce9281c2e37536e3bd83a809f57b5ad-lq",
+    "description": "Pizza alla Napoletana, or Neapolitan Pizza, is a soft and chewy pizza with a puffy crust, topped with San Marzano tomatoes, buffalo mozzarella, fresh basil, and olive oil. It's a UNESCO-protected culinary masterpiece that originated in Naples, Italy.",
+    "price": 900
+  },
+  {
+    "title": "Panna Cotta",
+    "difficulty": "Easy",
+    "rating": "4.5",
+    "image": "https://assets.epicurious.com/photos/62d6c513077a952f4a8c338c/4:3/w_3668,h_2751,c_limit/PannaCotta_RECIPE_04142022_9822_final.jpg",
+    "description": "Panna Cotta is an elegant Italian dessert made with sweetened cream, gelatin, and flavored with vanilla or other ingredients. It's served chilled and can be paired with various fruit compotes or caramel sauce.",
+    "price": 500
+  },
+  {
+    "title": "Focaccia",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://alexandracooks.com/wp-content/uploads/2021/09/rosemaryfocacciawhole_alexandraskitchen.jpg",
+    "description": "Focaccia is a flavorful Italian flatbread that is seasoned with olive oil, herbs, and sometimes topped with olives or cherry tomatoes. It's a versatile bread that can be enjoyed as an appetizer, snack, or used as a base for sandwiches.",
+    "price": 350
+  },
+  {
+    "title": "Cannoli",
+    "difficulty": "Medium",
+    "rating": "4.6",
+    "image": "https://www.foodandwine.com/thmb/ka7ryhm0iT5OPALkfIlxPjFZnl0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cannoli-FT-RECIPE0223-0afa59fe1a9e43dc84fc7e473b73c825.jpg",
+    "description": "Cannoli is a beloved Italian dessert that consists of fried pastry shells filled with sweetened ricotta cheese and often garnished with chocolate chips or candied fruit. These crispy and creamy treats are a delightful way to end a meal.",
+    "price": 400
+  },
+  {
+    "title": "Gnocchi",
+    "difficulty": "Medium",
+    "rating": "4.8",
+    "image": "https://dishingouthealth.com/wp-content/uploads/2022/08/CornPestoGnocchi_Square.jpg",
+    "description": "Gnocchi are soft and pillowy Italian dumplings made from potatoes, flour, and eggs. They are often served with various sauces, such as tomato sauce, pesto, or creamy cheese sauce, offering a comforting and hearty dish.",
+    "price": 600
+  },
+  {
+    "title": "Pesto Genovese",
+    "difficulty": "Easy",
+    "rating": "4.9",
+    "image": "https://www.giallozafferano.com/images/252-25268/Genoese-pesto-Pesto-alla-genovese_1200x800.jpg",
+    "description": "Pesto Genovese is a vibrant green sauce made with fresh basil, pine nuts, garlic, Parmesan cheese, and olive oil. It's traditionally served with pasta but can also be used as a marinade or a spread for sandwiches.",
+    "price": 450
+  },
+  {
+    "title": "Saltimbocca alla Romana",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://foodal.com/wp-content/uploads/2022/02/Saltimbocca-alla-Romana.jpg",
+    "description": "Saltimbocca alla Romana is a classic Roman dish made with thin veal cutlets topped with prosciutto and sage, then sautéed in butter and white wine. The combination of flavors creates a mouthwatering and tender dish.",
+    "price": 750
+  },
+  {
+    "title": "Minestrone",
+    "difficulty": "Easy",
+    "rating": "4.5",
+    "image": "https://www.ambitiouskitchen.com/wp-content/uploads/2020/02/Classic-Minestrone-Soup-5.jpg",
+    "description": "Minestrone is a hearty Italian vegetable soup made with a variety of seasonal vegetables, beans, and pasta or rice. It's a nutritious and comforting dish, often served with a sprinkle of Parmesan cheese and a drizzle of olive oil.",
+    "price": 400
+  },
+  {
+    "title": "Orecchiette with Broccoli Rabe",
+    "difficulty": "Medium",
+    "rating": "4.6",
+    "image": "https://www.skinnytaste.com/wp-content/uploads/2011/04/Orecchiette-Pasta-with-Chicken-Sausage-_-Broccoli-Rabe-6-500x500.jpg",
+    "description": "Orecchiette with Broccoli Rabe is a simple yet flavorful pasta dish made with small ear-shaped pasta, broccoli rabe, garlic, chili flakes, and grated Pecorino cheese. It's a popular regional specialty from Puglia, Italy.",
+    "price": 550
+  },
+  {
+    "title": "Bistecca alla Fiorentina",
+    "difficulty": "Difficult",
+    "rating": "4.8",
+    "image": "https://images.prismic.io/eataly-us/0b0f3dd1-1302-4da0-9dbc-799e465ba5b9_eataly-osteria-del-mercato-bistecca-fiorentina-steak.jpg?auto=compress,format",
+    "description": "Bistecca alla Fiorentina, or Florentine Steak, is a succulent and thick-cut T-bone steak seasoned with salt, pepper, and olive oil, then grilled to perfection. It's a carnivore's delight and a must-try for meat lovers visiting Florence.",
+    "price": 1200
+  },
+  {
+    "title": "Cacio e Pepe",
+    "difficulty": "Easy",
+    "rating": "4.7",
+    "image": "https://www.gimmesomeoven.com/wp-content/uploads/2020/02/Cacio-e-Pepe-Recipe-5-1.jpg",
+    "description": "Cacio e Pepe is a classic Roman pasta dish made with simple ingredients - Pecorino Romano cheese and black pepper. The creamy and cheesy sauce coats the pasta, creating a flavorful and satisfying meal.",
+    "price": 500
+  },
+  {
+    "title": "Panettone",
+    "difficulty": "Medium",
+    "rating": "4.9",
+    "image": "https://avegtastefromatoz.com/wp-content/uploads/2020/12/vegan-panettone-FI.jpg",
+    "description": "Panettone is a traditional Italian Christmas cake with a light and airy texture, studded with candied fruits and raisins. It's a festive treat that is often enjoyed with a glass of sweet wine or hot cocoa during the holiday season.",
+    "price": 800
+  },
+  {
+    "title": "Peri Peri 10 Strips with Dynamite",
+    "description": "Savor the irresistible fiery delight with our Peri Peri 10 Strips with Dynamite combo. Indulge in the tantalizing flavors of 10 Spicy Peri Peri chicken strips, perfectly seasoned and cooked to perfection. To further elevate the heat, we offer our exclusive Dynamite Spicy Mayo Sauce Bottle, a perfect blend of creamy mayo and fiery spices that will set your taste buds ablaze. It's a match made in flavor heaven for spice enthusiasts looking for a mouthwatering adventure.",
+    "image": "https://lh3.googleusercontent.com/qL8lZCYQgcJ8LK6rXhX9ZhwDuW5ALH9XRv_LBveFtHNxzp2lixscQYQ0gdZQlzOV36A-f-w0FM-78gK_OJsIzYIuFaSCX53bCbrcYLs",
+    "price": 924,
+    "rating": 4.5
+  },
+  {
+    "title": "Peri Peri 10 Strips with Nashville",
+    "description": "Calling all spice lovers! Treat yourself to our Peri Peri 10 Strips with Nashville combo. Dive into the zesty world of 10 Spicy Peri Peri chicken strips, each bursting with the rich flavors of our signature Peri Peri seasoning. But wait, there's more! Accompanying this fiery delight is our Nashville Hot Sauce Bottle, a fiery concoction of spices that will leave you craving for more. Spice up your day with this lip-smacking combo!",
+    "image": "https://i0.wp.com/atmykitchen.net/wp-content/uploads/2021/11/20211122_124718.jpg?fit=928%2C1470&ssl=1",
+    "price": 792,
+    "rating": 4.2
+  },
+  {
+    "title": "Peri Peri 10 Leg pc & 4 dips",
+    "description": "Craving some succulent and juicy chicken? Look no further than our Peri Peri 10 Leg Pieces with 4 dips combo. Satisfy your hunger with 10 Spicy Peri Peri Leg Pieces, tenderly cooked to juicy perfection. And to add some extra flair, we present four delightful dips that complement the chicken, making each bite a flavorful experience. It's a feast fit for chicken aficionados who seek a delightful combination of taste and quality.",
+    "image": "https://lh3.googleusercontent.com/JPuyR1X5D2HE7OMpVIfaVBBY6f0_5v5S9xawcWP6ytWMsWGufTv0A-kaL7-WK_-Wg9XwVHrnMK7szghFu2ZFk46gv0OcoTZFlGL3M35pWQ=w512-rw",
+    "price": 1320,
+    "rating": 4.7
+  },
+  {
+    "title": "Big 12",
+    "description": "Get ready for a feast that will satisfy your hunger and taste buds with our Big 12 combo. Relish the crispy goodness of our signature Crispy Chicken, perfectly seasoned and fried to a golden brown. Additionally, indulge in the fiery joy of 6 Hot Wings, each infused with a delightful kick of spice. To complement the chicken, we offer 2 flavorful dips that add an extra layer of taste to this mouthwatering combo.",
+    "image": "https://kfcbd.com/storage/products/JUn7NcRO0yUAWbycF7xd6shi4.jpg",
+    "price": 1056,
+    "rating": 4.3
+  },
+  {
+    "title": "Ultimate Savings Bucket",
+    "description": "Feast like never before with our Ultimate Savings Bucket! This generous bucket is a delightful assortment of flavors, featuring 4pc Hot & Crispy chicken, 6 wings, 4 strips, 2 delectable dips, and a refreshing Pepsi PET. Each item in this combo is crafted with utmost care and precision to ensure a satisfying and delightful dining experience. Whether you're sharing with friends or enjoying a meal alone, this bucket is sure to leave you completely content.",
+    "image": "https://b.zmtcdn.com/data/pictures/chains/7/20287/0e79614ea14113b8b3d4b48574293d00.jpg",
+    "price": 792,
+    "rating": 4.4
+  },
+  {
+    "title": "Big 8",
+    "description": "Can't decide between our famous Hot & Crispy chicken or the tantalizing Smoky Red Chicken? Now you don't have to! Our Big 8 combo brings you the best of both worlds with a bucket featuring 4pc Hot & Crispy chicken and 4pc Smoky Red Chicken. Indulge in the crispy, flavorful goodness of our classic Hot & Crispy chicken, and savor the aromatic, smoky charm of our Smoky Red Chicken. It's the perfect combination to satisfy your chicken cravings.",
+    "image": "https://kfcbd.com/storage/products/hGaTspNvsdn9dM14ADXgxwknP.jpg",
+    "price": 924,
+    "rating": 4.2
+  },
+  {
+    "title": "All Chicken Box",
+    "description": "Introducing the All Chicken Box - a delightful box filled with your favorites! Enjoy the rich and succulent flavors of 1 pc Hot & Crispy chicken, 2 Hot Wings, and 1 Chicken Strip, all thoughtfully curated to bring you the best of our chicken offerings. This deal is perfect for those moments when you crave a variety of chicken delights but don't want to settle for just one. Treat yourself with this delectable box at a great price!",
+    "image": "https://i.ytimg.com/vi/pXMuf3KwEPI/hqdefault.jpg",
+    "price": 396,
+    "rating": 4.3
+  },
+  {
+    "title": "5pc Smoky Red Chicken",
+    "description": "For those who relish the taste of smoky, grilled goodness, our 5pc Smoky Red Chicken combo is a must-try! Indulge in five tender and flavorful Smoky Red grilled chicken pieces, each infused with aromatic spices and grilled to perfection. Whether you're looking for a hearty meal or a delightful snack, this combo is guaranteed to leave you craving for more.",
+    "image": "https://lh3.googleusercontent.com/Ttq_UqvR4A7GFSx-bbwOYMXp7fNGZu-A8bPFvmNOFW_A6Map_pj1lHJZrgemBcDCaV-FppILEbBxRP-jR_GIJkexfoFapm5bY6nzLujb=w512-rw",
+    "price": 528,
+    "rating": 4.6
+  },
+  {
+    "title": "Mingles Bucket Meal",
+    "description": "Mingle your taste buds with our Mingles Bucket Meal - a delightful assortment of flavors that will leave you completely satisfied. Enjoy 4 Hot Wings and 2 Chicken Strips, each offering a unique and mouthwatering taste. To add some extra indulgence, we include a serving of our famous Reg Popcorn and medium-sized fries. Wash it all down with a refreshing Pepsi PET to complete your delightful meal.",
+    "image": "https://i.ytimg.com/vi/LCJWdk-gPdg/hqdefault.jpg",
+    "price": 528,
+    "rating": 4.0
+  },
+  {
+    "title": "8 pc Hot & Crispy Chicken",
+    "description": "Dive into the crispy and flavorful world of our signature Hot & Crispy Chicken with our 8 pc combo. This combo features eight pieces of our famous Hot & Crispy chicken, each boasting a perfect blend of spices and fried to a golden perfection. Whether you're sharing it with friends or enjoying it all to yourself, this combo is sure to please your taste buds and satisfy your cravings.",
+    "image": "https://kfcbd.com/storage/products/7M4ndd9lABbVh5vDTFhNdL4V7.jpg",
+    "price": 792,
+    "rating": 4.5
+  },
+  {
+    "title": "6 pc hot & Crispy Chicken",
+    "description": "Indulge in the crispy and flavorful goodness of our 6 pc Hot & Crispy Chicken combo. Savor six pieces of our signature Hot & Crispy chicken, each perfectly seasoned and fried to a golden brown. Whether you're craving a hearty meal or looking for a delightful snack, this combo is the perfect choice. Treat yourself to the mouthwatering taste that has made our Hot & Crispy chicken famous!",
+    "image": "https://lh3.googleusercontent.com/9ehFo2dYGW5OoqyQrHAs3CisKWbzmQIzZq9ZkfDb27VNogI1ftn_JQ7w68Y1I-LINKlxCMUzaBI6qgWFkhWd8Ozv7ZH6Nn1Xp2e0si9u9Q=w512-rw",
+    "price": 792,
+    "rating": 4.4
+  },
+  {
+    "title": "Solo Feast",
+    "description": "Treat yourself with our Solo Feast combo, designed to satisfy your cravings and make your taste buds dance with joy. Enjoy 1 Hot & Crispy chicken, 2 Strips, and 2 Wings, each cooked to perfection and bursting with flavor. Accompanying these delights is a buttered bun and 1 Dip, adding an extra layer of taste to your meal. To quench your thirst, we include a refreshing Pepsi PET, completing this delightful solo feast!",
+    "image": "https://i.ytimg.com/vi/gWfn0lIz2Ns/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYfyBOKCIwDw==&rs=AOn4CLBuy4K0sczvSvnbVie2O4JXZGRC-A",
+    "price": 396,
+    "rating": 4.1
+  },
+  {
+    "title": "Strips & Rice Combo",
+    "description": "Craving a delightful and filling meal? Our Strips & Rice Combo is the perfect choice! Indulge in 4 Strips, each offering a burst of flavor with every bite, and 1 Dip to complement the chicken. To complete your meal, we offer flavorful Rice & Gravy that will leave you satisfied and content. Don't miss out on this fantastic combo that brings together the best of both worlds.",
+    "image": "https://kfcbd.com/storage/products/UWC6yVMmJhpDYPCyi8hx2gDnB.jpg",
+    "price": 528,
+    "rating": 4.3
+  },
+  {
+    "title": "Friendship Bucket with Dynamite Sauce",
+    "description": "Enjoy a delightful meal with friends with our Friendship Bucket with Dynamite Sauce. This fantastic bucket includes 3pc Hot & Cripsy chicken, 3 Wings, and 3 Strips, perfect for sharing and creating cherished memories. To add some extra delight, we include a Large Popcorn, ensuring there's something for everyone. And for the spicy food enthusiasts, we introduce our new Dynamite Mayo Bottle, a creamy and spicy delight that will make this bucket a real hit!",
+    "image": "https://lh3.googleusercontent.com/meNQYx2q8nOo9_kr-P7SN401vLZYgRubLupqYfjQp_q_cQUtwC37Aiw6e8FZC7cDjKjcO9t1HdsRoYgdvOXfi6vQk3eQz6t032b5n1yr=w512-rw",
+    "price": 1056,
+    "rating": 4.7
+  },
+  {
+    "title": "Classic Biryani Combo",
+    "description": "Indulge in the delightful Classic Biryani Combo, a perfect union of flavors that will tantalize your taste buds. This combo features large portions of Biryani rice, perfectly cooked and seasoned to perfection. To add some variety to your meal, we offer 2 pc Hot & Crispy chicken and 2 Spicy Gravies. And to quench your thirst, we include a refreshing Pepsi PET. Savor the goodness of this combo that brings together the best of Biryani and crispy chicken delights.",
+    "image": "https://lh3.googleusercontent.com/KU3POYCWjrWuYBNZyYirADIQ5OcC-9SW4_V7WFJEH2UVRw7AJi8omPGOP0dLdcM_mTnQ-t_0MYbHScrNUxlzpviMI60HH2iRmFO85CKR=w512-rw",
+    "price": 924,
+    "rating": 4.2
+  },
+  {
+    "title": "Smoky Grilled Biryani Combo",
+    "description": "If you're a fan of smoky grilled goodness and flavorful Biryani, our Smoky Grilled Biryani Combo is the perfect match for you. Enjoy large portions of Biryani rice, perfectly seasoned and served with 2 pc Smoky Red grilled chicken, each infused with aromatic spices. To add some variety to your meal, we offer 2 Spicy Gravies, perfectly complementing the Biryani and chicken. And to complete your delightful experience, we include a medium Popcorn and Pepsi PET.",
+    "image": "https://lh3.googleusercontent.com/gNBvkPpLNRgrQDrLbApy7kNqkWQT6Po49c7YBhDXL5f0LdbZ4itRAmiwK0cLRX4MERa9NCxbhIgIkAqJoCyzbnadMPTZIKPz-A3SCniu=w512-rw",
+    "price": 1056,
+    "rating": 4.6
+  },
+  {
+    "title": "Popcorn Biryani Combo",
+    "description": "Craving a unique combination of flavors? Look no further than our Popcorn Biryani Combo. Indulge in large portions of Biryani & Chicken Popcorn, perfectly seasoned and cooked to perfection. To add some extra delight to your meal, we offer 2 Spicy Gravies and 4pc Wings. Wash it all down with a refreshing Pepsi PET to complete your delightful combo. Discover the perfect harmony of Biryani and popcorn chicken in this delightful combo.",
+    "image": "https://s3.ap-south-1.amazonaws.com/shopnowchat.com/Medium/637817483312120883_PopcornBiryaniCombo.jpg",
+    "price": 792,
+    "rating": 4.3
+  },
+  {
+    "title": "Classic Chicken Biryani Bucket",
+    "description": "Experience the best of both worlds with our Classic Chicken Biryani Bucket. This delightful bucket offers large portions of Biryani & Chicken Popcorn, each boasting its unique and flavorful charm. To complement the goodness, we offer 2 Spicy Gravies, adding an extra layer of taste to your meal. Dive into this delectable bucket that brings together the delightful combination of Biryani and crispy chicken delights.",
+    "image": "https://s3.ap-south-1.amazonaws.com/shopnowchat.com/Medium/637817479960238359_ClassicChickenBiryaniBucket(Large).jpg",
+    "price": 528,
+    "rating": 4.1
+  },
+  {
+    "title": "Popcorn Chicken Biryani Bucket",
+    "description": "Indulge in the delightful Popcorn Chicken Biryani Bucket, a treat for your taste buds. Enjoy large portions of Biryani rice, perfectly seasoned and served with Chicken Popcorn, each bursting with flavor. To add some variety to your meal, we offer 2 Spicy Gravies, perfectly complementing the Biryani and popcorn chicken. Savor the goodness of this combo that brings together the best of Biryani and popcorn chicken delights.",
+    "image": "https://s3.ap-south-1.amazonaws.com/shopnowchat.com/Medium/637963484897779417_PopcornChickenBiryaniBucket.jpg",
+    "price": 396,
+    "rating": 4.0
+  },
+  {
+    "title": "Veg Biryani Bucket",
+    "description": "For our vegetarian friends, we present the Veg Biryani Bucket - a delightful and flavorful combination of Hyderabadi style Biryani rice served with Veg Patty & Spicy Gravy. Enjoy large portions of Biryani rice, cooked to perfection and seasoned with aromatic spices. The Veg Patty, tender and full of flavor, complements the Biryani perfectly. Experience the joy of this delightful veg combo that celebrates the best of Biryani flavors.",
+    "image": "https://s3.ap-south-1.amazonaws.com/shopnowchat.com/Medium/637963493109236842_VegBiryaniBucket.jpg",
+    "price": 264,
+    "rating": 4.2
+  },
+  {
+    "title": "Pressure cooker refried beans",
+    "difficulty": "Easy",
+    "rating": "4",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/4.jpg",
+    "description": "Indulge in the comforting flavors of homemade refried beans with this easy pressure cooker recipe. Using simple ingredients like pinto beans, onions, garlic, and spices, these refried beans are creamy, flavorful, and incredibly delicious. The pressure cooker method reduces cooking time significantly, making it perfect for busy weeknights or impromptu gatherings.",
+    "price": 400
+  },
+  {
+    "title": "Black bean chilli soup with corn dumplings",
+    "difficulty": "Easy",
+    "rating": "2",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/2.jpg",
+    "description": "Warm your soul with a bowl of this hearty black bean chili soup featuring delectable corn dumplings.",
+    "price": 350
+  },
+  {
+    "title": "Fishcake tacos",
+    "difficulty": "Easy",
+    "rating": "3",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/3.jpg",
+    "description": "Embrace the fusion of flavors with these scrumptious fishcake tacos that offer a delightful twist on traditional fish tacos. Crispy and flavorful fishcakes made from fresh fish, herbs, and spices take center stage in this Mexican-inspired dish.",
+    "price": 300
+  },
+  {
+    "title": "Black bean and chicken burritos",
+    "difficulty": "Easy",
+    "rating": "4",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/4.jpg",
+    "description": "Elevate your burrito game with these delectable black bean and chicken burritos. Tender, seasoned chicken combines harmoniously with savory black beans, creating a satisfying and protein-packed filling for soft flour tortillas. Add a burst of freshness with diced tomatoes, shredded lettuce, and a sprinkle of cheese. Roll them up and enjoy the perfect handheld meal for lunch, dinner, or on-the-go indulgence.",
+    "price": 550
+  },
+  {
+    "title": "Pork tacos with sweetcorn and feta",
+    "difficulty": "Easy",
+    "rating": "5",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/5.jpg",
+    "description": "Prepare your taste buds for an explosion of flavors with these succulent pork tacos topped with sweetcorn and crumbled feta cheese. Slow-cooked and seasoned to perfection, the tender pulled pork forms the foundation of these mouthwatering tacos. The combination of sweetcorn's natural sweetness and the tanginess of feta cheese creates an exciting contrast that complements the rich, smoky pork.",
+    "price": 500
+  },
+  {
+    "title": "Taco slaw with pink pickled onions",
+    "difficulty": "Easy",
+    "rating": "2",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/6.jpg",
+    "description": "Add a burst of color and flavor to your Mexican dishes with this crunchy and refreshing taco slaw, complete with tangy pink pickled onions. Thinly sliced cabbage and carrots are tossed with a zesty dressing, creating a vibrant and crunchy slaw that pairs perfectly with tacos, enchiladas, and grilled meats. The pink pickled onions add a delightful pop of color and tang to the dish, enhancing the overall taste experience.",
+    "price": 400
+  },
+  {
+    "title": "Smoky chipotle tofu with tomatoes and avocado",
+    "difficulty": "Easy",
+    "rating": "3",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/7.jpg",
+    "description": "Discover a burst of flavors with this smoky chipotle tofu dish, served with juicy tomatoes and creamy avocado. Cubes of tofu are marinated in a spicy and smoky chipotle sauce, creating a deliciously seasoned and protein-rich centerpiece for this Mexican-inspired recipe.",
+    "price": 250
+  },
+  {
+    "title": "Chilaquiles with fresh tomatillo salsa",
+    "difficulty": "Medium",
+    "rating": "4",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/8.jpg",
+    "description": "Transport yourself to the streets of Mexico with this flavorful and hearty dish of chilaquiles topped with a zesty fresh tomatillo salsa.",
+    "price": 300
+  },
+  {
+    "title": "Chipotle baked eggs",
+    "difficulty": "Easy",
+    "rating": "5",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/9.jpg",
+    "description": "Start your day with a burst of flavor and spice with these chipotle baked eggs. Baked in a rich and smoky chipotle tomato sauce and topped with gooey melted cheese, these eggs are a delight for breakfast or brunch.",
+    "price": 200
+  },
+  {
+    "title": "Venison tacos with grilled spring onions and peanut salsa",
+    "difficulty": "Easy",
+    "rating": "4",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/10.jpg",
+    "description": "Take your taste buds on an adventurous journey with these flavorful venison tacos featuring grilled spring onions and a unique peanut salsa. The tender and savory venison, marinated with Mexican spices, offers a delectable twist on traditional taco fillings.",
+    "price": 500
+  },
+  {
+    "title": "Easy huevos rancheros",
+    "difficulty": "Medium",
+    "rating": "4",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/11.jpg",
+    "description": "Savor the authentic flavors of Mexico with this classic breakfast favorite - huevos rancheros. Fried eggs are served atop crispy corn tortillas and smothered in a zesty tomato-chili sauce, creating a hearty and satisfying morning meal. A side of flavorful beans, creamy avocado slices, and a sprinkle of fresh cilantro complete this traditional dish.",
+    "price": 350
+  },
+  {
+    "title": "Turkey pozole",
+    "difficulty": "Easy",
+    "rating": "2",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/12.jpg",
+    "description": "Embrace the comforting and rich flavors of turkey pozole, a traditional Mexican soup that delights the senses. Tender chunks of turkey, hominy, and a medley of aromatic spices simmer together, creating a hearty and flavorful broth. Topped with shredded cabbage, sliced radishes, and a squeeze of lime juice, this pozole is a delightful balance of textures and tastes.",
+    "price": 300
+  },
+  {
+    "title": "Mexican-style barbecued beef brisket with quick-pickled onions",
+    "difficulty": "Medium",
+    "rating": "4",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/13.jpg",
+    "description": "Prepare to be delighted with this mouthwatering Mexican-style barbecued beef brisket, complete with tangy quick-pickled onions. The beef brisket is slow-cooked to perfection with a smoky and spicy barbecue marinade, resulting in tender and flavorful meat that falls apart with every forkful. The quick-pickled onions add a bright and zesty element that cuts through the richness of the brisket, creating a well-balanced and satisfying taste experience.",
+    "price": 550
+  },
+  {
+    "title": "Frozen mango margarita",
+    "difficulty": "Easy",
+    "rating": "3",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/14.jpg",
+    "description": "Cool off and unwind with a refreshing frozen mango margarita, the perfect tropical twist on the classic cocktail. Blended with frozen mango chunks, tequila, triple sec, and lime juice, this delightful drink brings a burst of sunshine and sweetness to your glass.",
+    "price": 250
+  },
+  {
+    "title": "Raspberry margarita",
+    "difficulty": "Easy",
+    "rating": "5",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/15.jpg",
+    "description": "Indulge in the sweet and tangy flavors of a raspberry margarita, a delightful variation of the classic cocktail. This vibrant and colorful drink combines fresh raspberries, tequila, triple sec, and lime juice to create a perfectly balanced and refreshing libation.",
+    "price": 300
+  },
+  {
+    "title": "Enchiladas verdes",
+    "difficulty": "Easy",
+    "rating": "4",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/16.jpg",
+    "description": "Satisfy your cravings for a classic Mexican dish with these enchiladas verdes, a delightful and easy-to-make recipe. Corn tortillas are filled with tender shredded chicken and smothered in a vibrant green tomatillo sauce, creating a harmonious combination of flavors.",
+    "price": 450
+  },
+  {
+    "title": "Margarita cheesecake with tequila strawberries",
+    "difficulty": "Easy",
+    "rating": "4",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/17.jpg",
+    "description": "Indulge in a delightful and boozy dessert with this margarita cheesecake topped with tequila-infused strawberries. This creamy and tangy cheesecake is flavored with lime juice and zest, creating a zesty and refreshing twist on the classic dessert. The graham cracker crust adds a delightful crunch to every bite.",
+    "price": 500
+  },
+  {
+    "title": "Bolognese quesadilla",
+    "difficulty": "Easy",
+    "rating": "5",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/18.jpg",
+    "description": "Take a culinary trip around the world with this fusion dish that combines the flavors of Italy and Mexico in a delightful bolognese quesadilla. Savory bolognese sauce, traditionally used in Italian pasta dishes, meets the warm embrace of a flour tortilla, bringing forth a new level of comfort and taste.",
+    "price": 400
+  },
+  {
+    "title": "Sausage burritos with pea and avocado guacamole",
+    "difficulty": "Easy",
+    "rating": "4",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/19.jpg",
+    "description": "Elevate your burrito game with these mouthwatering sausage burritos filled with a delightful pea and avocado guacamole. Spiced sausage crumbles are combined with scrambled eggs and wrapped in a warm tortilla, creating a satisfying and protein-packed breakfast or brunch option. The pea and avocado guacamole adds a unique twist to the traditional guacamole, offering a fresh and vibrant flavor to each bite.",
+    "price": 550
+  },
+  {
+    "title": "Taco traybake",
+    "difficulty": "Easy",
+    "rating": "4",
+    "image": "https://apipics.s3.amazonaws.com/mexican_api/20.jpg",
+    "description": "Simplify your taco night with this hassle-free and flavorful taco traybake that serves up all the beloved taco components in a single dish. A medley of seasoned ground beef, beans, and colorful bell peppers is roasted to perfection, infusing the dish with enticing aromas. Topped with a generous layer of melted cheese, the traybake achieves the ultimate comfort food status.",
+    "price": 300
+  },
+  {
+    "title": "Momo",
+    "difficulty": "Medium",
+    "rating": "4.5",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/1515644556794_20190527160433.jpeg",
+    "description": "Momo is a beloved Nepali dumpling dish that has captured the hearts and taste buds of people worldwide. These delectable dumplings are filled with seasoned minced meat or vegetables, wrapped in delicate dough, and then steamed or fried to perfection. Served with a spicy sauce, momo is a popular street food and a must-try delicacy in Nepal.",
+    "price": 250
+  },
+  {
+    "title": "Dal Bhat",
+    "difficulty": "Easy",
+    "rating": "4.8",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/Dal_Bhat_TarkariNepal_20190527155929.JPG",
+    "description": "Dal Bhat is the quintessential Nepali meal and a staple in every household. It consists of steamed rice (bhat) served with lentil soup (dal) and a variety of accompaniments such as vegetables, curries, pickles, and papad. This simple and wholesome dish reflects the essence of Nepali culture and is a symbol of hospitality.",
+    "price": 200
+  },
+  {
+    "title": "Gundruk",
+    "difficulty": "Easy",
+    "rating": "4.3",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/1280px-Gundruk_Achar_02_20190527161400.jpg",
+    "description": "Gundruk is a traditional Nepali fermented leafy green vegetable dish that is full of unique flavors. The process involves fermenting greens such as mustard leaves, spinach, or radish leaves, which are then sun-dried and stored for later use. The tangy and slightly sour taste of gundruk complements many Nepali dishes and adds a distinct touch to the cuisine.",
+    "price": 350
+  },
+  {
+    "title": "Sel Roti",
+    "difficulty": "Medium",
+    "rating": "4.6",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/Sel_Roti_20190527160708.jpg",
+    "description": "Sel Roti is a traditional ring-shaped rice-based bread that holds a special place in Nepali festivals and celebrations. Made from rice flour, sugar, ghee, and sometimes bananas, the batter is deep-fried to achieve a crispy exterior while maintaining a soft and chewy interior. Sel Roti's sweet and aromatic flavor makes it a favorite among locals and visitors alike.",
+    "price": 300
+  },
+  {
+    "title": "Dhido",
+    "difficulty": "Medium",
+    "rating": "4.2",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/dhido-gundruk-nepalese_20190527161300.jpg",
+    "description": "Dhido is a traditional Nepali dish prepared by cooking a mixture of buckwheat or millet flour and hot water. The resulting dough is kneaded to a smooth consistency and shaped into a round, flat mass. Dhido is typically enjoyed with various side dishes like vegetables, pickles, curries, or meat. It's a hearty and filling meal often relished in rural areas.",
+    "price": 400
+  },
+  {
+    "title": "Yomari",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/4161421771_e960601403_b_20190527161149.jpg",
+    "description": "Yomari is a Newari delicacy and a festive treat that holds cultural significance in Nepal. These sweet dumplings are made from rice flour dough filled with a mixture of molasses, sesame seeds, and grated coconut. Yomari is shaped into a crescent and steamed until it becomes soft and chewy. It's a symbol of good luck and prosperity.",
+    "price": 250
+  },
+  {
+    "title": "Kwati",
+    "difficulty": "Medium",
+    "rating": "4.4",
+    "image": "https://www.wvi.org/sites/default/files/shorthand/stories/DMp6YHaHZW/494656a4-aea1-41e0-98f8-1339f5d91480/assets/HcegQFHH3p/kwati-soup-2560x3026.jpeg",
+    "description": "Kwati is a flavorful and nutritious soup prepared with a mix of nine different sprouted beans and lentils. The beans and lentils are soaked and allowed to sprout before being cooked together with spices like ginger, garlic, and fenugreek seeds. Kwati is a traditional dish often enjoyed during special occasions and festivals in Nepal.",
+    "price": 300
+  },
+  {
+    "title": "Gorkhali Lamb",
+    "difficulty": "Medium",
+    "rating": "4.5",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/gorkhalifinal2_20190527161515.jpg",
+    "description": "Gorkhali Lamb, also known as Khasiko Masu, is a flavorful Nepali lamb curry that celebrates the richness of Nepali spices. Tender pieces of lamb are marinated with ginger, garlic, and various spices like cumin, coriander, and cardamom before being slow-cooked to perfection. Gorkhali Lamb is often served with rice or bread and enjoyed at celebrations.",
+    "price": 400
+  },
+  {
+    "title": "Sekuwa",
+    "difficulty": "Medium",
+    "rating": "4.3",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWBdGxM5C-JG8rq5XNH8MAx5-bss-Six45vv16D9PDEgtZVO29M_ojWyPxolSak52AxWY&usqp=CAU",
+    "description": "Sekuwa is a popular Nepali dish of grilled and skewered meat, such as chicken, pork, or lamb. The meat is marinated in a mix of spices, including cumin, coriander, turmeric, and chili, and then grilled to perfection. Sekuwa is often enjoyed as a delicious street food snack or as an appetizer at Nepali restaurants.",
+    "price": 450
+  },
+  {
+    "title": "Chatamari",
+    "difficulty": "Easy",
+    "rating": "4.6",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/1024px-Meat_Chatamari_20190527164331.jpg",
+    "description": "Chatamari is a savory rice crepe that originated in the Newari community of Nepal. It's made from rice flour and topped with a variety of ingredients like minced meat, eggs, vegetables, and spices. Chatamari's unique blend of flavors and textures makes it a favorite among locals and tourists alike.",
+    "price": 500
+  },
+  {
+    "title": "Thukpa",
+    "difficulty": "Easy",
+    "rating": "4.2",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/Nepalese_Thuppa_20190527164416.jpg",
+    "description": "Thukpa is a comforting Nepali noodle soup that warms the soul, especially during chilly weather. It's made with wheat or rice noodles, vegetables, and often includes meat or eggs. The flavorful broth is seasoned with various spices and herbs, making it a satisfying and wholesome dish.",
+    "price": 350
+  },
+  {
+    "title": "Choyla",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/DSC05193-1024x681_20190527164856.jpg",
+    "description": "Choyla is a popular Newari dish that features marinated and grilled meat, usually made with buffalo, chicken, or soy chunks for vegetarians. The meat is marinated with spices, oil, and sometimes beaten rice, giving it a unique taste and texture. Choyla is often served as an appetizer or a snack with drinks.",
+    "price": 400
+  },
+  {
+    "title": "Juju Dhau",
+    "difficulty": "Easy",
+    "rating": "4.5",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/KathmanduJujudhau_20190527161728.jpg",
+    "description": "Juju Dhau, also known as 'King of Yogurt,' is a creamy and sweet yogurt that hails from the Bhaktapur region of Nepal. Made using traditional methods and served in clay pots, Juju Dhau has a distinct taste and texture that sets it apart. It's a delightful dessert enjoyed on special occasions and festivals.",
+    "price": 300
+  },
+  {
+    "title": "Kheer",
+    "difficulty": "Easy",
+    "rating": "4.4",
+    "image": "https://static.toiimg.com/thumb/93600918.cms?imgsize=134188&width=800&height=800",
+    "description": "Kheer is a beloved Nepali rice pudding that is prepared with rice, milk, sugar, and flavored with cardamom, saffron, and nuts. It's a popular dessert served during festivals, celebrations, and religious ceremonies. The creamy and aromatic Kheer is a comfort food that brings joy to every palate.",
+    "price": 250
+  },
+  {
+    "title": "Bara",
+    "difficulty": "Easy",
+    "rating": "4.3",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/10228709285_3d91d4d886_c_20190527160601.jpg",
+    "description": "Bara is a traditional Newari lentil pancake that is enjoyed as a popular snack or appetizer. Made from black lentils and flavored with spices, Bara is often served with a side of spicy meat or vegetable curry. Its crispy texture and rich taste make it a favorite among locals and tourists.",
+    "price": 200
+  },
+  {
+    "title": "Pani Puri",
+    "difficulty": "Easy",
+    "rating": "4.6",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/1024px-Panipuri_Golgappa_Phuchka_20190527165008.jpg",
+    "description": "Pani Puri, also known as Golgappa or Phuchka, is a beloved street food that has a dedicated fan following in Nepal. It consists of hollow, crispy puris filled with spicy and tangy water, tamarind chutney, chickpeas, and potatoes. Pani Puri is a burst of flavors and a favorite snack for many.",
+    "price": 150
+  },
+  {
+    "title": "Samosa",
+    "difficulty": "Easy",
+    "rating": "4.8",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/1024px-Samosachutney_20190527160823.jpg",
+    "description": "Samosa is a popular Nepali snack that has become a global favorite. These triangular pastries are filled with a delicious mixture of spiced potatoes, peas, and sometimes minced meat. Samosas are deep-fried to golden perfection and are enjoyed as a tea-time snack or a quick bite on the go.",
+    "price": 180
+  },
+  {
+    "title": "Tongba",
+    "difficulty": "Medium",
+    "rating": "4.2",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/Tongba_-_Nepalese_fermented_millet_beer_20190527164931.jpg",
+    "description": "Tongba is a traditional alcoholic beverage from the hilly regions of Nepal, particularly in the Limbu community. It's made by fermenting millet seeds and served in a special bamboo container with a straw. Tongba is a warming and social drink, often enjoyed with friends and family.",
+    "price": 280
+  },
+  {
+    "title": "Samay Baji",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/600px-Samaybaji_20190527164823.JPG",
+    "description": "Samay Baji is a gourmet dish that has been passed on along the generations of Nepali people. It is a platter containing barbecued buffalo meat, boiled egg along with beaten rice and spicy potato salad. It is a traditional dish that is served on auspicious occasions in the Newari culture. This dish is a must try in Nepal, if you are a person who loves perfectly cooked meat and spicy dishes.",
+    "price": 500
+  },
+  {
+    "title": "Laphing",
+    "difficulty": "Medium",
+    "rating": "4.4",
+    "image": "https://myrepublica.nagariknetwork.com/uploads/media/laphing.jpg",
+    "description": "Laphing, a traditional Tibetan cold noodle dish, has gained immense popularity in Nepal. Made from mung bean starch, the chewy noodles are tossed in a spicy sauce and topped with various ingredients like cucumber, soybeans, and sesame oil. Laphing is a refreshing and spicy delight, perfect for hot summer days.",
+    "price": 300
+  },
+  {
+    "title": "Pepperoni Pizza",
+    "description": "Indulge in the classic Pepperoni Pizza, topped with savory pepperoni slices, delicious marinara sauce, and a blend of melted mozzarella and cheddar cheese. It's a timeless favorite for pizza enthusiasts.",
+    "image": "https://api.pizzahut.io/v1/content/en-ca/ca-1/images/pizza/pizza.pepperoni-lovers.69f7bdf7b6f50a87eb2886934fe0be9f.1.jpg",
+    "price": 1320,
+    "rating": 4.7
+  },
+  {
+    "title": "Supreme Pizza",
+    "description": "For a burst of flavors, try the Supreme Pizza. It's loaded with pepperoni, Italian sausage, green peppers, onions, black olives, mushrooms, and a combination of mozzarella and cheddar cheese, all over a tangy marinara sauce.",
+    "image": "https://i.pinimg.com/564x/78/a6/41/78a6417735a2894a30945158222d2893.jpg",
+    "price": 1584,
+    "rating": 4.6
+  },
+  {
+    "title": "Meat Lover's Pizza",
+    "description": "Calling all meat enthusiasts! The Meat Lover's Pizza is topped with pepperoni, Italian sausage, ham, bacon, and beef, all smothered in a rich marinara sauce and a blend of mozzarella and cheddar cheese.",
+    "image": "https://dynl.mktgcdn.com/p/owq4NHla5cOUle69jrTjRx12bI2qvegtseaet1WqO4A/1080x1080.jpg",
+    "price": 1848,
+    "rating": 4.8
+  },
+  {
+    "title": "Veggie Lover's Pizza",
+    "description": "For the veggie lovers, the Veggie Lover's Pizza offers a medley of fresh vegetables, including green peppers, onions, black olives, mushrooms, and tomatoes, all atop a flavorful marinara sauce and a mix of mozzarella and cheddar cheese.",
+    "image": "https://api.pizzahut.io/v1/content/en-ca/ca-1/images/pizza/pizza.veggie-lovers.48ba54d49ff2257671521b477967633a.1.jpg",
+    "price": 1716,
+    "rating": 4.5
+  },
+  {
+    "title": "Cheese Lover's Pizza",
+    "description": "For the ultimate cheese indulgence, try the Cheese Lover's Pizza. It's loaded with a generous amount of mozzarella, cheddar, and parmesan cheese over a savory marinara sauce.",
+    "image": "https://api.pizzahut.io/v1/content/en-ca/ca-1/images/pizza/pizza.cheese-lovers.21455ca09617c38f3618f2b525dfed42.1.jpg",
+    "price": 1452,
+    "rating": 4.4
+  },
+  {
+    "title": "BBQ Chicken Pizza",
+    "description": "Experience a delightful blend of flavors with the BBQ Chicken Pizza. It features tender pieces of grilled chicken, red onions, and a tangy BBQ sauce, all topped with mozzarella and cheddar cheese.",
+    "image": "https://3.bp.blogspot.com/-clBVTebxloE/U3OQ_r-DrhI/AAAAAAAAc7g/0VPDi6VsZUI/s1600/pizza-hut-blakes-smokehouse-bbq-pizza-01.JPG",
+    "price": 1584,
+    "rating": 4.2
+  },
+  {
+    "title": "Hawaiian Pizza",
+    "description": "Embrace the tropical flavors of the Hawaiian Pizza. It's topped with ham, juicy pineapple chunks, and a blend of mozzarella and cheddar cheese over a zesty marinara sauce.",
+    "image": "https://www.thepizzalads.com/wp-content/uploads/2018/04/Hawaiian-Pizza-from-Pizza-Hut-Hawaiian-Pizza-Review.jpg",
+    "price": 1452,
+    "rating": 4.3
+  },
+  {
+    "title": "Chicken Alfredo Pizza",
+    "description": "For a creamy and indulgent choice, try the Chicken Alfredo Pizza. It features grilled chicken, creamy Alfredo sauce, and a blend of mozzarella and cheddar cheese.",
+    "image": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Rich-Chicken-Alfredo-Pizza_exps165518_THCA2916394C11_08_6b(2)_RMS.jpg",
+    "price": 1716,
+    "rating": 4.1
+  },
+  {
+    "title": "Margherita Pizza",
+    "description": "Experience the simplicity of the Margherita Pizza, topped with sliced tomatoes, fresh basil leaves, and a combination of mozzarella and parmesan cheese over a zesty marinara sauce.",
+    "image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/margherita.90f9451fd66871fb6f9cf7d506053f18.1.jpg",
+    "price": 1320,
+    "rating": 4.0
+  },
+  {
+    "title": "Buffalo Chicken Pizza",
+    "description": "For those who crave a bit of heat, the Buffalo Chicken Pizza offers grilled chicken, spicy buffalo sauce, and a blend of mozzarella and cheddar cheese, topped with a drizzle of ranch dressing.",
+    "image": "https://www.bakedbyanintrovert.com/wp-content/uploads/2021/05/Buffalo-Chicken-Pizza-5-1024x1536.jpg",
+    "price": 1584,
+    "rating": 4.2
+  },
+  {
+    "title": "Mediterranean Veggie Pizza",
+    "description": "Discover a burst of Mediterranean flavors with the Mediterranean Veggie Pizza. It's topped with spinach, red onions, black olives, tomatoes, and feta cheese, all over a zesty marinara sauce.",
+    "image": "https://qph.cf2.quoracdn.net/main-qimg-c4fad87198dd9fa621c2d72f47d93bdb-pjlq",
+    "price": 1716,
+    "rating": 4.3
+  },
+  {
+    "title": "Ultimate Cheese Lover's Pizza",
+    "description": "For the cheese connoisseurs, the Ultimate Cheese Lover's Pizza is the perfect choice. It's loaded with mozzarella, cheddar, provolone, and parmesan cheese over a rich marinara sauce.",
+    "image": "https://i.insider.com/59d4f32f2ff6303e008b4a64?width=600&format=jpeg&auto=webp",
+    "price": 1848,
+    "rating": 4.4
+  },
+  {
+    "title": "Super Supreme Pizza",
+    "description": "The Super Supreme Pizza offers an explosion of flavors with pepperoni, Italian sausage, ham, beef, green peppers, onions, black olives, mushrooms, and a blend of mozzarella and cheddar cheese, all on a tangy marinara sauce.",
+    "image": "https://www.thepizzalads.com/wp-content/uploads/2017/08/Super-Supreme-Pizza-Hut-Pizza-Review.jpg",
+    "price": 1980,
+    "rating": 4.6
+  },
+  {
+    "title": "Veggie Supreme Pizza",
+    "description": "For a delightful veggie feast, try the Veggie Supreme Pizza. It's topped with green peppers, onions, black olives, mushrooms, tomatoes, and a blend of mozzarella and cheddar cheese, all over a zesty marinara sauce.",
+    "image": "https://parispizzahat.lk/wp-content/uploads/2021/06/fvg-500x417.png",
+    "price": 1848,
+    "rating": 4.5
+  },
+  {
+    "title": "Chicken Supreme Pizza",
+    "description": "Experience the richness of the Chicken Supreme Pizza, topped with grilled chicken, green peppers, onions, black olives, and a blend of mozzarella and cheddar cheese, all on a tangy marinara sauce.",
+    "image": "https://www.dominos.com.au/ManagedAssets/AU/product/P422/AU_P422_en_hero_8129.jpg",
+    "price": 1980,
+    "rating": 4.3
+  },
+  {
+    "title": "Cheesy Garlic Bread Pizza",
+    "description": "Enjoy the perfect appetizer or side with the Cheesy Garlic Bread Pizza. It's a delightful blend of cheesy goodness and garlic flavor, served with marinara sauce for dipping.",
+    "image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/side/cheese-garlic-bread.58019ad8ec813e53cbf2b7d7f1b7cacc.1.jpg",
+    "price": 1056,
+    "rating": 4.2
+  },
+  {
+    "title": "Stuffed Crust Pepperoni Pizza",
+    "description": "For a crust filled with flavor, try the Stuffed Crust Pepperoni Pizza. It's topped with pepperoni slices and a blend of mozzarella and cheddar cheese, with a mouthwatering stuffed crust.",
+    "image": "https://www.pmq.com/wp-content/uploads/2021/09/StuffedCrustPepperoni_CloseUp_3Quarter_001_3_w1-copy.jpg",
+    "price": 1584,
+    "rating": 4.1
+  },
+  {
+    "title": "Personal Pan Pizza",
+    "description": "A perfectly sized pizza for one, the Personal Pan Pizza comes with your choice of toppings on a crispy, thin crust.",
+    "image": "https://www.allrecipes.com/thmb/jp5tWpdf3uTfJC7ZweMfl6oGIXs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/image001-3bacc25800e94910ada32e8fd81e2853.jpg",
+    "price": 792,
+    "rating": 4.0
+  },
+  {
+    "title": "Tuscani Chicken Alfredo Pasta",
+    "description": "For pasta lovers, the Tuscani Chicken Alfredo Pasta offers tender grilled chicken, fettuccine pasta, and creamy Alfredo sauce.",
+    "image": "https://topsecretrecipes.com/var/images/product/430.430/pizza-hut-alfredo-pasta-copycat-recipe.jpg",
+    "price": 1188,
+    "rating": 4.2
+  },
+  {
+    "title": "Tuscani Meaty Marinara Pasta",
+    "description": "Enjoy a hearty pasta dish with the Tuscani Meaty Marinara Pasta, featuring Italian sausage, beef, and marinara sauce over a bed of pasta.",
+    "image": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/kmpujiwb/1fa8f3ef-892d-4596-a2b9-dff5e77a10c3.jpg",
+    "price": 1320,
+    "rating": 4.3
+  },
+  {
+    "title": "One Night Stand",
+    "description": "A mouthwatering vegan burger made with a plant-based patty, topped with vegan bacon, vegan cheese, lettuce, tomato, and Slutty Vegan special sauce.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/slutty-vegan-burger1-1652364652.jpg?crop=0.869xw:0.801xh;0.131xw,0.0370xh&resize=980:*",
+    "price": 1320,
+    "rating": 4.8
+  },
+  {
+    "title": "Sloppy Toppy",
+    "description": "A delicious vegan burger featuring a plant-based patty, vegan cheese, jalapenos, lettuce, onion, and Slutty Vegan special sauce.",
+    "image": "https://cdn.vox-cdn.com/thumbor/rsBS0_eSNZGPtprljRGOxMYzsIk=/0x0:1440x1440/920x613/filters:focal(605x605:835x835):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/66091919/72621331_2654913698069504_7054118956272975872_o.7.jpg",
+    "price": 1320,
+    "rating": 4.7
+  },
+  {
+    "title": "Dancehall Queen",
+    "description": "A delightful vegan burger with a plant-based patty, vegan cheese, pineapple, vegan bacon, lettuce, and Slutty Vegan special sauce.",
+    "image": "https://scontent.fktm10-1.fna.fbcdn.net/v/t1.6435-9/67831665_2261453413972400_1967423148479479808_n.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=103&ccb=1-7&_nc_sid=2d5d41&_nc_ohc=WOmHijLzpRIAX8HhsyV&_nc_ht=scontent.fktm10-1.fna&oh=00_AfD8iCLYNWoTXrKCcN8pFl0Tuybt_Qdi4DQGl68B-DE3dQ&oe=64F0082F",
+    "price": 1320,
+    "rating": 4.6
+  },
+  {
+    "title": "Menage A Trois",
+    "description": "A tempting vegan burger featuring three plant-based patties, vegan cheese, lettuce, tomato, and Slutty Vegan special sauce.",
+    "image": "https://sluttyveganatl.com/wp-content/uploads/2020/06/SluttyVeganBurger.png",
+    "price": 1716,
+    "rating": 4.9
+  },
+  {
+    "title": "Heaux Boy",
+    "description": "A delightful vegan shrimp po' boy sandwich with lettuce, tomato, and Slutty Vegan special sauce.",
+    "image": "https://sluttyveganatl.com/wp-content/uploads/2020/06/HeauxBoy-SVB-150x150.png",
+    "price": 1452,
+    "rating": 4.5
+  },
+  {
+    "title": "Fussy Hussy",
+    "description": "A delectable vegan burger made with a plant-based patty, vegan cheese, vegan bacon, caramelized onions, lettuce, and Slutty Vegan special sauce.",
+    "image": "https://sluttyveganatl.com/wp-content/uploads/2020/06/FussyHussy-SVB-150x150.png",
+    "price": 1452,
+    "rating": 4.7
+  },
+  {
+    "title": "One Night Stand Fries",
+    "description": "Crispy fries topped with vegan cheese, vegan bacon, and Slutty Vegan special sauce.",
+    "image": "https://www.al.com/resizer/vGmptY-6UP9B5r-FKGjShiPGWn4=/500x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RGLNQ6TC5VGORJFZK3FTOH7UDM.jpeg",
+    "price": 792,
+    "rating": 4.4
+  },
+  {
+    "title": "Big Dawg",
+    "description": "Plant-based bratwurst, sauerkraut, and our Slut Sauce on a vegan pretzel bun.",
+    "image": "https://sluttyveganatl.com/wp-content/uploads/2020/06/BigDawg-SVB-150x150.png",
+    "price": 660,
+    "rating": 4.8
+  },
+  {
+    "title": "Sloppy Toppy Fries",
+    "description": "Crispy fries topped with vegan cheese, jalapenos, and Slutty Vegan special sauce.",
+    "image": "https://images.happycow.net/venues/500/33/64/hcmp336421_2121917.jpeg",
+    "price": 792,
+    "rating": 4.6
+  },
+  {
+    "title": "Heaux Boy Fries",
+    "description": "Crispy fries topped with vegan shrimp, lettuce, tomato, and Slutty Vegan special sauce.",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/48/d8/75/caption.jpg",
+    "price": 1056,
+    "rating": 4.5
+  },
+  {
+    "title": "One Stand Lemonade",
+    "description": "A refreshing lemonade drink with a zesty twist.",
+    "image": "https://edge.ua.edu/wp-content/uploads/2017/09/lemonade-768x463.jpg",
+    "price": 396,
+    "rating": 4.4
+  },
+  {
+    "title": "Chicken Tender Box",
+    "description": "A scrumptious box filled with crispy vegan chicken tenders and a choice of dipping sauces.",
+    "image": "https://www.ajc.com/resizer/xmyBCo3az1MBZ41vgEM8HEAGN-k=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/C3UFC2HTJVBONIQN2KYJ22RXQY.gif",
+    "price": 1320,
+    "rating": 4.3
+  },
+  {
+    "title": "Fussy Hussy",
+    "description": "Crispy topped with vegan cheese, vegan bacon, caramelized onions, and Slutty Vegan special sauce.",
+    "image": "https://media.appfront.app/businesses/5eaa8247725b630e28cc0a51/menu-items/1412bb55d4f7d4c25970393c518d62bc/600-_-contain_v4",
+    "price": 924,
+    "rating": 4.7
+  },
+  {
+    "title": "Goddess Salad",
+    "description": "A delightful and healthy salad made with fresh greens, cherry tomatoes, cucumber, red onions, and a choice of dressing.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/delish-220210-tofu-lettuce-wraps-001-ab-web-1646079642.jpg?crop=0.670xw:1.00xh;0.232xw,0",
+    "price": 1056,
+    "rating": 4.2
+  },
+  {
+    "title": "Super Slut",
+    "description": "An epic vegan burger featuring two plant-based patties, vegan cheese, vegan bacon, caramelized onions, lettuce, and Slutty Vegan special sauce.",
+    "image": "https://sluttyveganatl.com/wp-content/uploads/2020/06/SuperSlut-SVB-150x150.png",
+    "price": 1716,
+    "rating": 4.9
+  },
+  {
+    "title": "Smothered Southern",
+    "description": "A Southern-inspired vegan burger topped with vegan cheese, grilled onions, sautéed mushrooms, and Slutty Vegan special sauce.",
+    "image": "https://s41230.pcdn.co/wp-content/uploads/2020/06/vegan-plant-based-news-southern-food-livekindly-Cropped-1.jpg",
+    "price": 1452,
+    "rating": 4.5
+  },
+  {
+    "title": "Sloppy Toppy Deluxe",
+    "description": "An upgraded version of the Sloppy Toppy burger with additional vegan bacon, jalapenos, lettuce, onion, and Slutty Vegan special sauce.",
+    "image": "https://media.greenmatters.com/brand-img/zrqIxHrws/1024x536/superslutphoto-by-madelynne-boykin-1665516394805.jpg",
+    "price": 1584,
+    "rating": 4.7
+  },
+  {
+    "title": "Hollywood Hooker",
+    "description": "Vegan chopped Philly with jalapeños, bell peppers and caramelized onions, topped with vegan provolone, lettuce, tomato, ketchup and vegan mayo, served on a hoagie roll.",
+    "image": "https://sluttyveganatl.com/wp-content/uploads/2022/12/HollywoodHooker-SVB-5-150x150.png",
+    "price": 1188,
+    "rating": 4.3
+  },
+  {
+    "title": "Hawt Toddy",
+    "description": "Bangin’ bowlful of hearty, vegan chili loaded with beans, peppers, and onions and deliciously seasoned with our signature spice blend.",
+    "image": "https://sluttyveganatl.com/wp-content/uploads/2022/12/HawtToddy_SVWebsiteMenu_2-150x150.png",
+    "price": 1584,
+    "rating": 4.6
+  },
+  {
+    "title": "Hooker Fries",
+    "description": "Vegan chopped Philly with jalapenos, bell peppers, and caramelized onions topped with Slutty Sauce and vegan provolone and cheddar cheese, served over a bed of signature Slutty Fries.",
+    "image": "https://sluttyveganatl.com/wp-content/uploads/2023/06/Hooker-Fries-150.png",
+    "price": 1980,
+    "rating": 4.8
+  },
+  {
+    "title": "Paella",
+    "difficulty": "Medium",
+    "rating": 4.8,
+    "image": "https://spanishsabores.com/wp-content/uploads/2020/05/Seafood-Paella-1837-Blog.jpg",
+    "description": "Paella is a traditional Spanish rice dish, originating in the Valencia region. It is typically made with rice, saffron, vegetables, and a variety of meats such as chicken, rabbit, and sometimes seafood. The dish is cooked in a large shallow pan called a 'paellera,' which gives it its title. Paella is known for its vibrant colors and delicious flavors, making it a popular choice for gatherings and special occasions.",
+    "price": 650
+  },
+  {
+    "title": "Gazpacho",
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "image": "https://lindseyeatsla.com/wp-content/uploads/2022/07/Lindseyeats_Tomato_Melon_Gazpacho-10.jpg",
+    "description": "Gazpacho is a cold tomato-based soup that is perfect for hot summers. It is made with ripe tomatoes, cucumbers, bell peppers, onions, garlic, olive oil, vinegar, and bread crumbs. The ingredients are blended together to create a refreshing and nutritious soup that is typically served chilled. Gazpacho is a classic Andalusian dish and a popular appetizer in Spanish cuisine.",
+    "price": 400
+  },
+  {
+    "title": "Tortilla Española",
+    "difficulty": "Easy",
+    "rating": 4.9,
+    "image": "https://www.seriouseats.com/thmb/jA7G3Zmz0qsWAi9YiPAbTCfTIR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__06__20160603-tortilla-espanola-vicky-wasik-16-08693f341420437d9ed0229f2bcfa251.jpg",
+    "description": "Tortilla Española, also known as Spanish omelette, is a simple and tasty dish made with eggs, potatoes, onions, and olive oil. It is a staple in Spanish households and often served as a tapa or a light meal. The ingredients are cooked together in a frying pan until the eggs are set, creating a delicious and satisfying dish that can be enjoyed at any time of the day.",
+    "price": 350
+  },
+  {
+    "title": "Pulpo a la Gallega",
+    "difficulty": "Medium",
+    "rating": 4.5,
+    "image": "https://www.bascofinefoods.com/wp-content/uploads/2017/04/pulpo_a_la_gallega-e1505552149193-1.jpg",
+    "description": "Pulpo a la Gallega, or Galician-style octopus, is a beloved seafood dish in Spain. Tender octopus is simmered with potatoes, paprika, and olive oil, then sprinkled with coarse sea salt and served on a wooden platter. The dish has a unique combination of textures and flavors, making it a favorite among locals and visitors alike, especially in the coastal regions of Galicia.",
+    "price": 800
+  },
+  {
+    "title": "Churros",
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "image": "https://www.cookingclassy.com/wp-content/uploads/2018/07/churros-3.jpg",
+    "description": "Churros are a popular Spanish dessert made from a simple dough of flour, water, and salt, which is piped into hot oil and fried until golden and crispy. They are often served with a cup of thick hot chocolate for dipping. Churros are a beloved treat in Spain and are commonly enjoyed as a breakfast or snack item.",
+    "price": 250
+  },
+  {
+    "title": "Fabada Asturiana",
+    "difficulty": "Medium",
+    "rating": 4.7,
+    "image": "https://www.saveur.com/uploads/2021/03/02/IPBAMALQRJHURK4JJZBJ22TCD4.jpg?auto=webp",
+    "description": "Fabada Asturiana is a hearty and flavorful bean stew from the Asturias region of Spain. It is made with large white beans, chorizo, black pudding, and other pork products, resulting in a rich and satisfying dish. Fabada is traditionally cooked in a clay pot and enjoyed as a main course, especially during colder months.",
+    "price": 700
+  },
+  {
+    "title": "Sangria",
+    "difficulty": "Easy",
+    "rating": 4.5,
+    "image": "https://minimalistbaker.com/wp-content/uploads/2015/07/SIMPLE-Amazing-Traditional-Red-Sangria-6-ingredients-SO-flavorful-easy-and-delicious-sangria-recipe-wine-summer-recipe-minimalistbaker-vegan.jpg",
+    "description": "Sangria is a popular Spanish drink made from red wine, chopped fruit, sweetener, and a splash of brandy or orange liqueur. It is a refreshing and fruity beverage that is perfect for warm weather and social gatherings. Sangria is often garnished with slices of citrus fruits and served over ice.",
+    "price": 300
+  },
+  {
+    "title": "Cochinillo Asado",
+    "difficulty": "Difficult",
+    "rating": 4.9,
+    "image": "https://img.saboresdehoy.com/receta/639/cochinillo-asado-a-la-segoviana.jpg",
+    "description": "Cochinillo Asado is a traditional Spanish dish of roasted suckling pig. The piglet is seasoned with salt and roasted whole until the skin becomes crispy and golden while the meat remains tender and juicy. This dish is a specialty of Segovia and other regions of Spain, and it is often served during festive occasions and celebrations.",
+    "price": 1200
+  },
+  {
+    "title": "Crema Catalana",
+    "difficulty": "Medium",
+    "rating": 4.6,
+    "image": "https://spanishsabores.com/wp-content/uploads/2016/01/Crema-Catalana-1981-Blog.jpg",
+    "description": "Crema Catalana is a classic Spanish dessert similar to crème brûlée. It is made with a creamy custard flavored with lemon and cinnamon and is typically topped with a layer of caramelized sugar. The sugar on top is torched to create a crunchy caramelized crust, adding a delightful contrast to the smooth custard beneath.",
+    "price": 350
+  },
+  {
+    "title": "Calamari a la Romana",
+    "difficulty": "Medium",
+    "rating": 4.4,
+    "image": "https://www.recipesfromeurope.com/wp-content/uploads/2023/04/spanish-fried-calamari-a-la-romana-recipe.jpg",
+    "description": "Calamari a la Romana is a popular Spanish dish featuring tender rings of squid coated in a light batter and deep-fried until crispy. It is a delicious and simple seafood dish often served as a tapa or appetizer. The calamari is typically accompanied by lemon wedges and mayonnaise or aioli for dipping.",
+    "price": 600
+  },
+  {
+    "title": "Patatas Bravas",
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "image": "https://www.themediterraneandish.com/wp-content/uploads/2022/10/patatas-bravas-recipe-6.jpg",
+    "description": "Patatas Bravas are a popular Spanish tapa consisting of fried potato cubes served with a spicy tomato-based sauce and garlic aioli. The potatoes are crispy on the outside and tender on the inside, and the combination of flavors makes it a favorite dish in bars and restaurants throughout Spain.",
+    "price": 400
+  },
+  {
+    "title": "Gambas al Ajillo",
+    "difficulty": "Easy",
+    "rating": 4.8,
+    "image": "https://www.themediterraneandish.com/wp-content/uploads/2020/11/gambas-al-ajillo-spanish-shrimp-recipe-7.jpg",
+    "description": "Gambas al Ajillo, or garlic shrimp, is a classic Spanish dish that features shrimp cooked in olive oil with lots of garlic and chili peppers. The dish is quick and easy to prepare, and the combination of flavors is simply irresistible. Gambas al Ajillo is often served as a tapa or appetizer with crusty bread for dipping into the flavorful sauce.",
+    "price": 450
+  },
+  {
+    "title": "Tortilla de Patatas",
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "image": "https://spanishsabores.com/wp-content/uploads/2023/07/Tortilla-de-Patatas-Featured.jpg",
+    "description": "Tortilla de Patatas is a Spanish omelette made with eggs and potatoes, and sometimes onions. It is a simple and comforting dish that can be served as a main course, a snack, or sliced into smaller pieces as a tapa. The combination of eggs and potatoes makes it a filling and delicious choice for any time of the day.",
+    "price": 350
+  },
+  {
+    "title": "Gazpacho Andaluz",
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "image": "https://www.alvalle.com/images/librariesprovider4/default-album/gazpacho-pet-brick-alvalle-seleccion9b22b7f68f8049a785d73ed27066fd2b.png?sfvrsn=eb5b08a8_0",
+    "description": "Gazpacho Andaluz is a refreshing cold soup made from ripe tomatoes, cucumbers, bell peppers, onions, garlic, olive oil, vinegar, and bread. It is a popular dish in the Andalusian region of Spain, especially during the hot summer months. Gazpacho is best served chilled and garnished with diced vegetables.",
+    "price": 350
+  },
+  {
+    "title": "Arroz Negro",
+    "difficulty": "Medium",
+    "rating": 4.5,
+    "image": "https://beyondsweetandsavory.com/wp-content/uploads/2019/04/Arroz-negro-squid-ink-paella-Vy-Tran-6-of-20-853x1280-500x500.jpg",
+    "description": "Arroz Negro, also known as black rice, is a flavorful Spanish rice dish made with squid ink, seafood, and vegetables. The squid ink gives the rice its distinctive black color and imparts a unique briny flavor to the dish. Arroz Negro is a favorite among seafood lovers and is a specialty of the coastal regions of Spain.",
+    "price": 700
+  },
+  {
+    "title": "Croquetas",
+    "difficulty": "Medium",
+    "rating": 4.6,
+    "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_730,h_913/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2021-08-Croquetas%2FIMG_4191",
+    "description": "Croquetas are creamy and crispy fried croquettes made with a filling of béchamel sauce and various ingredients such as ham, chicken, fish, or cheese. They are a popular Spanish tapa and can be found in many bars and restaurants throughout the country. Croquetas are a delicious and indulgent treat, perfect for sharing with friends and family.",
+    "price": 550
+  },
+  {
+    "title": "Pisto",
+    "difficulty": "Easy",
+    "rating": 4.4,
+    "image": "https://www.worldfoodstory.co.uk/wp-content/uploads/2021/04/20210405_143715.jpg",
+    "description": "Pisto is a Spanish ratatouille-like dish made with sautéed vegetables such as tomatoes, bell peppers, zucchini, onions, and eggplant. It is often seasoned with garlic, olive oil, and herbs. Pisto can be served as a side dish or as a base for other dishes, and it is a popular choice for vegetarians and vegans.",
+    "price": 300
+  },
+  {
+    "title": "Cordero Asado",
+    "difficulty": "Difficult",
+    "rating": 4.8,
+    "image": "https://www.tasteatlas.com/images/dishes/6321be9af7424d69aa94c0d34df6da8d.jpg",
+    "description": "Cordero Asado is a succulent Spanish roast lamb dish that is often enjoyed during festive occasions and celebrations. The lamb is seasoned with garlic, rosemary, and other herbs, then roasted until tender and flavorful. Cordero Asado is a beloved dish in many regions of Spain and is usually served with roasted vegetables and potatoes.",
+    "price": 1200
+  },
+  {
+    "title": "Horchata",
+    "difficulty": "Easy",
+    "rating": 4.5,
+    "image": "https://tastesbetterfromscratch.com/wp-content/uploads/2023/04/Horchata-1.jpg",
+    "description": "Horchata is a popular Spanish drink made from ground tiger nuts (chufa), water, sugar, and sometimes cinnamon or lemon zest. The mixture is soaked, blended, and then strained to create a refreshing and slightly sweet beverage. Horchata is commonly served cold and is especially popular in the Valencia region of Spain.",
+    "price": 200
+  },
+  {
+    "title": "Leche Frita",
+    "difficulty": "Medium",
+    "rating": 4.7,
+    "image": "https://staticcookist.akamaized.net/wp-content/uploads/sites/22/2023/01/LINK-TRAFFIC-1-4-1200x675.jpg",
+    "description": "Leche Frita, meaning 'fried milk,' is a delightful Spanish dessert made from a thick custard that is coated in flour, egg, and breadcrumbs before being fried until golden and crispy. It is typically flavored with cinnamon and lemon zest and is served warm, sprinkled with sugar and sometimes accompanied by a scoop of ice cream.",
+    "price": 300
+  },
+  {
+    "title": "IPA - India Pale Ale",
+    "description": "India Pale Ale, commonly known as IPA, is a hoppy and bitter beer with higher alcohol content. It originated in England and was originally brewed with extra hops to survive long sea voyages to India. Today, IPAs are popular for their bold and intense flavors, with prominent hoppy and citrusy notes.",
+    "image": "https://prezunic.vtexassets.com/arquivos/ids/168364-800-auto?v=638195078798030000&width=800&height=auto&aspect=true",
+    "price": 660,
+    "rating": 4.2
+  },
+  {
+    "title": "Stout",
+    "description": "Stout is a dark, rich beer with flavors of roasted malt, coffee, and chocolate. It has a creamy and full-bodied texture, making it a favorite among beer enthusiasts. Stouts can range from dry and bitter to sweet and chocolaty. The most famous type of stout is the Irish Dry Stout, with Guinness being a well-known example.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Stadin_Panimo_Double_Oat_Malt_Stout.jpg/1200px-Stadin_Panimo_Double_Oat_Malt_Stout.jpg",
+    "price": 792,
+    "rating": 4.5
+  },
+  {
+    "title": "Wheat Beer",
+    "description": "Wheat beer is a light and refreshing beer brewed with a significant proportion of wheat, in addition to barley. It is often hazy in appearance and has a fruity or citrusy flavor profile. Wheat beers come in various styles, including Hefeweizen, Witbier, and American Wheat.",
+    "image": "https://www.hachettebookgroup.com/wp-content/uploads/2023/02/WEB-Beer4AllSeasons88.jpg?resize=600%2C400",
+    "price": 528,
+    "rating": 4.0
+  },
+  {
+    "title": "Pale Ale",
+    "description": "Pale Ale is a well-balanced and hoppy beer that falls between a lighter Lager and a stronger IPA. It is characterized by its amber to pale golden color and typically features a blend of malt sweetness and hop bitterness. Pale Ales come in various regional styles, such as American Pale Ale, English Pale Ale, and Australian Pale Ale.",
+    "image": "https://i5.walmartimages.com/seo/Sierra-Nevada-Pale-Ale-Craft-Beer-6-pack-12-fl-oz-Bottles-5-5-ABV_13120f58-9aa6-4b53-a863-0531f4e6e746.8cf146ec546ceff9a33cfccf04a74f6d.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "price": 660,
+    "rating": 4.3
+  },
+  {
+    "title": "Porter",
+    "description": "Porter is a dark and malty beer with flavors of caramel, toffee, and chocolate. It was originally a popular drink among London's working class in the 18th century. Today, Porters are enjoyed for their rich and robust character. They can range from dry and hoppy to sweet and chocolatey.",
+    "image": "https://foundersbrewing.com/wp-content/uploads/2017/08/Porter_Featured_Image-1024x630.png",
+    "price": 792,
+    "rating": 4.1
+  },
+  {
+    "title": "Amber Ale",
+    "description": "Amber Ale is a beer with a balanced malt and hop profile, amber in color. It offers a delightful combination of caramel sweetness and hop bitterness, making it a crowd-pleaser for many beer enthusiasts.",
+    "image": "https://bellsbeer.com/wp-content/uploads/2021/12/AmberAle_736px-1.png",
+    "price": 660,
+    "rating": 4.4
+  },
+  {
+    "title": "Saison",
+    "description": "Saison, also known as Farmhouse Ale, is a refreshing beer style that originated in Belgium. It is known for its fruity and spicy flavors, often complemented by a dry and effervescent character. Saisons are brewed with a blend of different grains, including barley, wheat, and sometimes oats.",
+    "image": "https://www.thespruceeats.com/thmb/4G1k2bgsCMQTDgrfGj-J_pJHJdc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/13271193533_95f4faa200_o-56a090325f9b58eba4b19600.jpg",
+    "price": 924,
+    "rating": 4.6
+  },
+  {
+    "title": "Pilsner",
+    "description": "Pilsner, or Pilsener, is a pale, crisp beer with a slightly bitter taste. It originated in the city of Pilsen in the Czech Republic and is known for its clear and golden appearance. Pilsners are well-balanced, with a delicate malt sweetness and a noticeable hop bitterness. The style has become popular worldwide, and you'll find variations such as German Pilsner and American Pilsner.",
+    "image": "https://www.totalwine.com/dynamic/x1000,6pk/media/sys_master/twmmedia/hd1/h63/11941481349150.png",
+    "price": 528,
+    "rating": 4.2
+  },
+  {
+    "title": "Brown Ale",
+    "description": "Brown Ale is a beer with a nutty and caramel flavor profile. It ranges in color from amber to dark brown and has a malt-forward taste. Brown Ales can be found in various substyles, including English Brown Ale and American Brown Ale. They are known for their smooth and easy-drinking nature, making them a favorite among those seeking a balanced and flavorful beer.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Newcastle_Brown_Ale_poured_in_pint_glass.jpg/220px-Newcastle_Brown_Ale_poured_in_pint_glass.jpg",
+    "price": 660,
+    "rating": 4.0
+  },
+  {
+    "title": "Lager",
+    "description": "Lager is a widely popular beer style known for its clean and crisp taste. It is fermented and conditioned at low temperatures, resulting in a smooth and refreshing beer with a light body. Lagers come in various substyles, including American Lager, Helles Lager, and Vienna Lager.",
+    "image": "https://assets.yuengling.com/wp-content/uploads/2017/03/10180407/17_Yueng_Lager_NRDraft_Bottle_w-1-480x800.jpg",
+    "price": 528,
+    "rating": 4.3
+  },
+  {
+    "title": "Double IPA",
+    "description": "Double IPA, also known as Imperial IPA, takes the bold flavors of a traditional IPA and cranks them up to the next level. It is known for its intense hoppy character, higher alcohol content, and rich malt backbone. Double IPAs often showcase tropical fruit, citrus, and resinous hop flavors, making them a favorite among hop-heads.",
+    "image": "https://lakefrontbrewery.com/wp-content/uploads/2019/12/DBL_IPA_BG.png",
+    "price": 1056,
+    "rating": 4.5
+  },
+  {
+    "title": "Belgian Tripel",
+    "description": "Belgian Tripel is a strong and complex beer style that originated in Belgium. It is known for its golden color, fruity esters, and spicy phenols derived from Belgian yeast strains. The flavor profile often includes notes of banana, clove, and a hint of sweetness. Despite its higher alcohol content, Belgian Tripels are surprisingly smooth and easy to drink.",
+    "image": "https://cdn.beeradvocate.com/im/beers/1054.jpg",
+    "price": 924,
+    "rating": 4.4
+  },
+  {
+    "title": "Sour Ale",
+    "description": "Sour Ale is a beer style known for its tart and acidic taste. These beers are intentionally brewed to be sour, and they often undergo fermentation with wild yeast strains or bacteria. Sour Ales can range from mildly tart to intensely sour, with flavors reminiscent of sour fruits, vinegar, and funk.",
+    "image": "https://sierranevada.com/static/7d36bfdb49394de1c5d87fd7a771f240/Cold%20Torpedo%20Pour.jpg",
+    "price": 792,
+    "rating": 4.1
+  },
+  {
+    "title": "Hazy IPA",
+    "description": "Hazy IPA, also known as New England IPA (NEIPA), is a modern beer style known for its hazy appearance and juicy hop flavors. It is typically less bitter than traditional IPAs and focuses on showcasing hoppy aromas and flavors. Hazy IPAs often feature tropical fruit, citrus, and stone fruit notes, creating a delightful and refreshing drinking experience.",
+    "image": "https://d33wubrfki0l68.cloudfront.net/1f5e4c55cd24a4e6c0ac4ea64f601ea8318a2fce/ee742/beers/sierra-nevada-hazy-little-thing.jpg",
+    "price": 792,
+    "rating": 4.3
+  },
+  {
+    "title": "Red Ale",
+    "description": "Red Ale is a beer style that showcases a beautiful reddish-brown color and a balanced flavor profile. It typically features a combination of malt sweetness and hop bitterness, with a focus on caramel and toasty flavors. Red Ales can be found in various regional styles, including Irish Red Ale and American Amber Ale.",
+    "image": "https://products1.imgix.drizly.com/ci-smithwicks-ale-f81d886267fccb83.png?auto=format%2Ccompress&ch=Width%2CDPR&fm=jpg&q=20",
+    "price": 660,
+    "rating": 4.2
+  },
+  {
+    "title": "Belgian Dubbel",
+    "description": "Belgian Dubbel is a strong and rich beer style with origins in Belgium's monastic brewing traditions. It is characterized by its deep amber to dark brown color and complex flavor profile. Belgian Dubbels often showcase dark fruit, caramel, and toffee notes, with a pleasant malt sweetness and mild bitterness.",
+    "image": "https://www.blackflannel.com/wp-content/uploads/bfb-belgian-dubbel-blog-828x1024.jpg",
+    "price": 924,
+    "rating": 4.4
+  },
+  {
+    "title": "Gose",
+    "description": "Gose is a sour and slightly salty beer style that originated in Germany. It is brewed with coriander and salt, which gives it a unique and refreshing taste. Gose beers often feature tartness with subtle citrus and coriander flavors. The addition of salt adds a hint of salinity, making it an intriguing and palate-cleansing choice.",
+    "image": "https://images.squarespace-cdn.com/content/v1/59cafe488a02c7560086e090/1543955726449-METJ0M2GFJW2JK59RKUT/kulshan+gose+sour+ale?format=1000w",
+    "price": 792,
+    "rating": 4.1
+  },
+  {
+    "title": "Barleywine",
+    "description": "Barleywine is a strong and complex beer style known for its rich and malt-forward character. It has a high alcohol content, often exceeding 10% ABV, and is aged for extended periods to develop its flavors. Barleywines can be found in two main variations: American Barleywine, which showcases hop bitterness and citrus notes, and English Barleywine, which emphasizes caramel and toffee flavors.",
+    "image": "https://www.mrbeer.com/media/catalog/product/cache/b17ec3654cdd01479bd70b44a351f4a3/d/a/dangerous-contract-barleywine-beer_logo-600x600.jpg",
+    "price": 1056,
+    "rating": 4.5
+  },
+  {
+    "title": "Schwarzbier",
+    "description": "Schwarzbier, also known as Black Lager, is a dark and smooth beer style that originated in Germany. Despite its dark appearance, Schwarzbier is surprisingly light and drinkable, with a clean and crisp taste. It features a subtle malt sweetness with a touch of roasted malt bitterness, creating a well-balanced and refreshing beer.",
+    "image": "https://assets.kcbier.com/wp-content/uploads/20210108145636/BP6pk-Schwarzbier-500x500.png",
+    "price": 792,
+    "rating": 4.2
+  },
+  {
+    "title": "Fruit Beer",
+    "description": "Fruit Beer is a beer style that incorporates various fruits into the brewing process. The addition of fruits such as berries, citrus, or tropical fruits adds a unique and vibrant twist to the beer. Fruit beers can range from light and refreshing to bold and flavorful, depending on the type and amount of fruit used.",
+    "image": "https://www.foodandwine.com/thmb/PtEyxlMpPVZdGEWYYfom6eVJEJo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/new-glarus-belgian-red-best-fruit-beers-FT-SS0418-3534f87c4ca14d609570d3c080bc7b3a.jpg",
+    "price": 660,
+    "rating": 4.4
+  }
+]

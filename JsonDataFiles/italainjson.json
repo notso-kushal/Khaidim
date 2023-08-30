@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "title": "Margherita Pizza",
+    "difficulty": "Easy",
+    "rating": "4.8",
+    "image": "https://cookieandkate.com/images/2021/07/classic-margherita-pizza.jpg",
+    "description": "Margherita Pizza is a classic Italian dish that features a thin crust topped with tomato sauce, fresh mozzarella cheese, basil leaves, and a drizzle of olive oil. The simplicity of its ingredients allows the flavors to shine, making it a favorite choice for pizza lovers around the world.",
+    "price": 550
+  },
+  {
+    "id": "2",
+    "title": "Spaghetti Carbonara",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://www.allrecipes.com/thmb/Vg2cRidr2zcYhWGvPD8M18xM_WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-ii-DDMFS-4x3-6edea51e421e4457ac0c3269f3be5157.jpg",
+    "description": "Spaghetti Carbonara is a rich and creamy pasta dish made with eggs, Pecorino Romano cheese, pancetta or guanciale, and black pepper. The sauce is created by mixing raw eggs with the hot pasta, creating a velvety texture that coats every strand of spaghetti.",
+    "price": 650
+  },
+  {
+    "id": "3",
+    "title": "Lasagna",
+    "difficulty": "Medium",
+    "rating": "4.6",
+    "image": "https://thecozycook.com/wp-content/uploads/2022/04/Lasagna-Recipe-f.jpg",
+    "description": "Lasagna is a classic Italian casserole made with layers of flat pasta sheets, rich meat sauce, creamy béchamel sauce, and melted cheese. Baked to perfection, each slice of lasagna offers a delightful combination of flavors and textures.",
+    "price": 750
+  },
+  {
+    "id": "4",
+    "title": "Risotto alla Milanese",
+    "difficulty": "Medium",
+    "rating": "4.5",
+    "image": "https://www.allrecipes.com/thmb/kJN_-TjM7aHcrVe04AaC-omMFRU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3985127-472391cb917c4a9395f6745ee754dabc.jpg",
+    "description": "Risotto alla Milanese is a creamy saffron-infused risotto that hails from Milan, Italy. It's made by slowly cooking Arborio rice in a flavorful broth with saffron, onions, and butter, resulting in a luxurious and aromatic dish.",
+    "price": 700
+  },
+  {
+    "id": "5",
+    "title": "Bruschetta",
+    "difficulty": "Easy",
+    "rating": "4.8",
+    "image": "https://joyfoodsunshine.com/wp-content/uploads/2022/04/tomato-bruschetta-recipe-1.jpg",
+    "description": "Bruschetta is a popular Italian appetizer that consists of toasted bread rubbed with garlic, topped with ripe tomatoes, basil, and a drizzle of olive oil. It's a refreshing and flavorful starter that captures the essence of Italian cuisine.",
+    "price": 300
+  },
+  {
+    "id": "6",
+    "title": "Tiramisu",
+    "difficulty": "Medium",
+    "rating": "4.9",
+    "image": "https://www.allrecipes.com/thmb/xDLqDQoPkelZrIwC9ab56tv_eAw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21412-tiramisu-ii-3x2-119-dc2ec77a0d39410195161a3ff98ca000.jpg",
+    "description": "Tiramisu is a beloved Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese, dusted with cocoa powder. The combination of coffee and creamy mascarpone creates a delectable and indulgent treat.",
+    "price": 600
+  },
+  {
+    "id": "7",
+    "title": "Ravioli",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://honest-food.net/wp-content/uploads/2022/05/duck-liver-ravioli-1200.jpg",
+    "description": "Ravioli is a pasta dish that features delicate pockets of pasta filled with various ingredients such as cheese, meat, or vegetables. It's typically served with a savory sauce, making it a comforting and satisfying meal.",
+    "price": 800
+  },
+  {
+    "id": "8",
+    "title": "Ossobuco alla Milanese",
+    "difficulty": "Difficult",
+    "rating": "4.6",
+    "image": "https://i0.wp.com/memoriediangelina.com/wp-content/uploads/2009/11/Ossobuco.jpg?w=839",
+    "description": "Ossobuco alla Milanese is a traditional Milanese specialty made with veal shanks braised in white wine, broth, and vegetables. The dish is typically garnished with gremolata, a mixture of lemon zest, garlic, and parsley, adding a burst of flavor.",
+    "price": 1200
+  },
+  {
+    "id": "9",
+    "title": "Pizza alla Napoletana",
+    "difficulty": "Medium",
+    "rating": "4.8",
+    "image": "https://qph.cf2.quoracdn.net/main-qimg-2ce9281c2e37536e3bd83a809f57b5ad-lq",
+    "description": "Pizza alla Napoletana, or Neapolitan Pizza, is a soft and chewy pizza with a puffy crust, topped with San Marzano tomatoes, buffalo mozzarella, fresh basil, and olive oil. It's a UNESCO-protected culinary masterpiece that originated in Naples, Italy.",
+    "price": 900
+  },
+  {
+    "id": "10",
+    "title": "Panna Cotta",
+    "difficulty": "Easy",
+    "rating": "4.5",
+    "image": "https://assets.epicurious.com/photos/62d6c513077a952f4a8c338c/4:3/w_3668,h_2751,c_limit/PannaCotta_RECIPE_04142022_9822_final.jpg",
+    "description": "Panna Cotta is an elegant Italian dessert made with sweetened cream, gelatin, and flavored with vanilla or other ingredients. It's served chilled and can be paired with various fruit compotes or caramel sauce.",
+    "price": 500
+  },
+  {
+    "id": "11",
+    "title": "Focaccia",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://alexandracooks.com/wp-content/uploads/2021/09/rosemaryfocacciawhole_alexandraskitchen.jpg",
+    "description": "Focaccia is a flavorful Italian flatbread that is seasoned with olive oil, herbs, and sometimes topped with olives or cherry tomatoes. It's a versatile bread that can be enjoyed as an appetizer, snack, or used as a base for sandwiches.",
+    "price": 350
+  },
+  {
+    "id": "12",
+    "title": "Cannoli",
+    "difficulty": "Medium",
+    "rating": "4.6",
+    "image": "https://www.foodandwine.com/thmb/ka7ryhm0iT5OPALkfIlxPjFZnl0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cannoli-FT-RECIPE0223-0afa59fe1a9e43dc84fc7e473b73c825.jpg",
+    "description": "Cannoli is a beloved Italian dessert that consists of fried pastry shells filled with sweetened ricotta cheese and often garnished with chocolate chips or candied fruit. These crispy and creamy treats are a delightful way to end a meal.",
+    "price": 400
+  },
+  {
+    "id": "13",
+    "title": "Gnocchi",
+    "difficulty": "Medium",
+    "rating": "4.8",
+    "image": "https://dishingouthealth.com/wp-content/uploads/2022/08/CornPestoGnocchi_Square.jpg",
+    "description": "Gnocchi are soft and pillowy Italian dumplings made from potatoes, flour, and eggs. They are often served with various sauces, such as tomato sauce, pesto, or creamy cheese sauce, offering a comforting and hearty dish.",
+    "price": 600
+  },
+  {
+    "id": "14",
+    "title": "Pesto Genovese",
+    "difficulty": "Easy",
+    "rating": "4.9",
+    "image": "https://www.giallozafferano.com/images/252-25268/Genoese-pesto-Pesto-alla-genovese_1200x800.jpg",
+    "description": "Pesto Genovese is a vibrant green sauce made with fresh basil, pine nuts, garlic, Parmesan cheese, and olive oil. It's traditionally served with pasta but can also be used as a marinade or a spread for sandwiches.",
+    "price": 450
+  },
+  {
+    "id": "15",
+    "title": "Saltimbocca alla Romana",
+    "difficulty": "Medium",
+    "rating": "4.7",
+    "image": "https://foodal.com/wp-content/uploads/2022/02/Saltimbocca-alla-Romana.jpg",
+    "description": "Saltimbocca alla Romana is a classic Roman dish made with thin veal cutlets topped with prosciutto and sage, then sautéed in butter and white wine. The combination of flavors creates a mouthwatering and tender dish.",
+    "price": 750
+  },
+  {
+    "id": "16",
+    "title": "Minestrone",
+    "difficulty": "Easy",
+    "rating": "4.5",
+    "image": "https://www.ambitiouskitchen.com/wp-content/uploads/2020/02/Classic-Minestrone-Soup-5.jpg",
+    "description": "Minestrone is a hearty Italian vegetable soup made with a variety of seasonal vegetables, beans, and pasta or rice. It's a nutritious and comforting dish, often served with a sprinkle of Parmesan cheese and a drizzle of olive oil.",
+    "price": 400
+  },
+  {
+    "id": "17",
+    "title": "Orecchiette with Broccoli Rabe",
+    "difficulty": "Medium",
+    "rating": "4.6",
+    "image": "https://www.skinnytaste.com/wp-content/uploads/2011/04/Orecchiette-Pasta-with-Chicken-Sausage-_-Broccoli-Rabe-6-500x500.jpg",
+    "description": "Orecchiette with Broccoli Rabe is a simple yet flavorful pasta dish made with small ear-shaped pasta, broccoli rabe, garlic, chili flakes, and grated Pecorino cheese. It's a popular regional specialty from Puglia, Italy.",
+    "price": 550
+  },
+  {
+    "id": "18",
+    "title": "Bistecca alla Fiorentina",
+    "difficulty": "Difficult",
+    "rating": "4.8",
+    "image": "https://images.prismic.io/eataly-us/0b0f3dd1-1302-4da0-9dbc-799e465ba5b9_eataly-osteria-del-mercato-bistecca-fiorentina-steak.jpg?auto=compress,format",
+    "description": "Bistecca alla Fiorentina, or Florentine Steak, is a succulent and thick-cut T-bone steak seasoned with salt, pepper, and olive oil, then grilled to perfection. It's a carnivore's delight and a must-try for meat lovers visiting Florence.",
+    "price": 1200
+  },
+  {
+    "id": "19",
+    "title": "Cacio e Pepe",
+    "difficulty": "Easy",
+    "rating": "4.7",
+    "image": "https://www.gimmesomeoven.com/wp-content/uploads/2020/02/Cacio-e-Pepe-Recipe-5-1.jpg",
+    "description": "Cacio e Pepe is a classic Roman pasta dish made with simple ingredients - Pecorino Romano cheese and black pepper. The creamy and cheesy sauce coats the pasta, creating a flavorful and satisfying meal.",
+    "price": 500
+  },
+  {
+    "id": "20",
+    "title": "Panettone",
+    "difficulty": "Medium",
+    "rating": "4.9",
+    "image": "https://avegtastefromatoz.com/wp-content/uploads/2020/12/vegan-panettone-FI.jpg",
+    "description": "Panettone is a traditional Italian Christmas cake with a light and airy texture, studded with candied fruits and raisins. It's a festive treat that is often enjoyed with a glass of sweet wine or hot cocoa during the holiday season.",
+    "price": 800
+  }
+]

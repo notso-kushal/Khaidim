@@ -1,0 +1,502 @@
+[
+    {
+        "id": "1",
+        "title": "Homemade crispy chilli oil",
+        "difficulty": "Easy",
+        "rating": "4.5",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/1.jpg",
+        "description": "Add a kick of flavor to your dishes with Homemade Crispy Chilli Oil. This aromatic and spicy oil is made by infusing dried chillies, Sichuan peppercorns, and other fragrant spices into hot oil. Drizzle it over your favorite dishes or use it as a dipping sauce for dumplings and noodles. With its rich and intense flavors, this chilli oil will elevate your Chinese cuisine experience.",
+        "price": 250
+    },
+    {
+        "id": "2",
+        "title": "Prawn and lemongrass hot and sour soup",
+        "difficulty": "Easy",
+        "rating": "4.4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/2.jpg",
+        "description": "Warm up with a bowl of Prawn and Lemongrass Hot and Sour Soup. This comforting and tangy soup features succulent prawns, aromatic lemongrass, and a medley of vegetables in a flavorful broth. The combination of spicy, sour, and savory tastes will tantalize your taste buds and leave you feeling satisfied. It's the perfect soup for a cold day or when you crave a zesty and comforting meal.",
+        "price": 320
+    },
+    {
+        "id": "3",
+        "title": "Steamed lap cheong with five treasure fried rice",
+        "difficulty": "Medium",
+        "rating": "4.3",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/3.jpg",
+        "description": "Indulge in the rich and savory flavors of Steamed Lap Cheong with Five Treasure Fried Rice. Lap cheong, Chinese sausage, is steamed to perfection, allowing the flavors to intensify. It's then sliced and served with a fragrant fried rice that includes an array of 'five treasures,' such as shrimp, chicken, vegetables, and more. This dish is a celebration of traditional Chinese ingredients and will delight your palate.",
+        "price": 410
+    },
+    {
+        "id": "4",
+        "title": "Jeremy Pang’s General Tso’s chicken",
+        "difficulty": "Easy",
+        "rating": "4.6",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/4.jpg",
+        "description": "Try your hand at making Jeremy Pang's General Tso's Chicken, a popular and beloved Chinese-American dish. The tender and crispy chicken is coated in a sweet and tangy sauce that's bursting with flavors. This homemade version allows you to adjust the spice level and create the perfect balance of sweet and savory. Serve it with steamed rice and steamed broccoli for a complete and satisfying meal.",
+        "price": 380
+    },
+    {
+        "id": "5",
+        "title": "MiMi Mei Fair’s ‘Hokkien’ noodles",
+        "difficulty": "Easy",
+        "rating": "4.5",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/5.jpg",
+        "description": "Transport yourself to the streets of Asia with MiMi Mei Fair's 'Hokkien' Noodles. This classic Chinese dish features thick and chewy egg noodles stir-fried with succulent prawns, tender chicken, and a flavorful medley of vegetables. The dish is infused with a rich and savory sauce that ties all the ingredients together. Enjoy this hearty and satisfying meal that's packed with authentic Asian flavors.",
+        "price": 290
+    },
+    {
+        "id": "6",
+        "title": "Giant prawn toast",
+        "difficulty": "Easy",
+        "rating": "4.4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/6.jpg",
+        "description": "Upgrade your prawn toast game with the indulgent Giant Prawn Toast. This upscale version features succulent prawns seasoned with aromatic spices and spread on a thick slice of toast before being deep-fried to perfection. The prawns become beautifully crispy on the outside and juicy on the inside, creating an irresistible appetizer. Serve it with a sweet chili dipping sauce and watch it disappear at your next gathering.",
+        "price": 320
+    },
+    {
+        "id": "7",
+        "title": "Wun’s kung pao chicken",
+        "difficulty": "Easy",
+        "rating": "4.5",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/7.jpg",
+        "description": "Embark on a culinary adventure with Wun's Kung Pao Chicken. This iconic Sichuan dish features tender chicken stir-fried with peanuts, vibrant bell peppers, and spicy chili peppers. The Kung Pao sauce is the star of the show, bringing together all the flavors with a perfect balance of sweet, savory, and spicy tastes. Serve it with steamed rice for an unforgettable and satisfying meal.",
+        "price": 380
+    },
+    {
+        "id": "8",
+        "title": "Crispy pork potsticker dumplings",
+        "difficulty": "Easy",
+        "rating": "4.6",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/8.jpg",
+        "description": "Sink your teeth into the irresistible Crispy Pork Potsticker Dumplings. These pan-fried dumplings feature a delicious filling of seasoned ground pork and aromatic vegetables. The dumpling skins are crispy on the bottom and delightfully tender on top, creating a delightful contrast of textures. Serve them with a dipping sauce, and your guests will be amazed by this restaurant-quality dish made in your own kitchen.",
+        "price": 240
+    },
+    {
+        "id": "9",
+        "title": "Hunan-style crispy mushroom noodle salad",
+        "difficulty": "Easy",
+        "rating": "4.4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/9.jpg",
+        "description": "Take your taste buds on a journey with the Hunan-Style Crispy Mushroom Noodle Salad. This vibrant and refreshing salad features crispy fried mushrooms, colorful vegetables, and chewy noodles tossed in a tangy and savory dressing. The combination of textures and flavors makes it a satisfying and delightful dish. Enjoy it as a light meal or a refreshing side dish that's perfect for warm weather.",
+        "price": 270
+    },
+    {
+        "id": "10",
+        "title": "Black bean tofu and baby pak choi",
+        "difficulty": "Easy",
+        "rating": "4.5",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/10.jpg",
+        "description": "Embrace the umami flavors of Black Bean Tofu and Baby Pak Choi. This easy-to-make dish features firm tofu and tender baby pak choi stir-fried in a savory black bean sauce. The dish comes together quickly and delivers bold and satisfying flavors with every bite. It's a great option for vegetarians and tofu enthusiasts. Serve it with steamed rice for a wholesome and satisfying meal.",
+        "price": 310
+    },
+    {
+        "id": "11",
+        "title": "Hot and sour soup",
+        "difficulty": "Easy",
+        "rating": "4.3",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/11.jpg",
+        "description": "Warm your soul with a bowl of Hot and Sour Soup. This classic Chinese soup features a hearty broth filled with tender chicken, velvety tofu, and a medley of vegetables. The soup gets its signature flavors from a combination of hot chili sauce and tangy vinegar, creating a perfect balance of spicy and sour tastes. It's the ultimate comfort food for any time of the year.",
+        "price": 220
+    },
+    {
+        "id": "12",
+        "title": "Vegan tofu stir-fry",
+        "difficulty": "Easy",
+        "rating": "4.3",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/12.jpg",
+        "description": "Enjoy the goodness of plant-based ingredients with Vegan Tofu Stir-Fry. This colorful and nutritious dish features tofu and an abundance of vegetables stir-fried in a savory sauce. The dish is bursting with flavors and textures, making it a delightful and healthy meal option. Whether you're a vegan or just looking to incorporate more vegetables into your diet, this tofu stir-fry won't disappoint.",
+        "price": 260
+    },
+    {
+        "id": "13",
+        "title": "Vegetable and sweet chilli spring rolls",
+        "difficulty": "Easy",
+        "rating": "4.2",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/13.jpg",
+        "description": "Crunch into these delightful Vegetable and Sweet Chilli Spring Rolls. These crispy and golden spring rolls are filled with a delicious mixture of vegetables and aromatic seasonings. The sweet chili dipping sauce complements the savory filling, creating a perfect harmony of flavors. Serve them as an appetizer, snack, or party food that will impress your guests with its delightful taste and presentation.",
+        "price": 180
+    },
+    {
+        "id": "14",
+        "title": "Stir-fried beef in black bean sauce",
+        "difficulty": "Easy",
+        "rating": "4.4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/14.jpg",
+        "description": "Savor the rich and savory flavors of Stir-Fried Beef in Black Bean Sauce. This classic Chinese dish features tender strips of beef stir-fried with vibrant bell peppers and onions in a savory black bean sauce. The sauce infuses the dish with umami and depth, making it a favorite at any Chinese restaurant. Serve it with steamed rice for a complete and satisfying meal.",
+        "price": 380
+    },
+    {
+        "id": "15",
+        "title": "Leftover roast lamb stir-fry",
+        "difficulty": "Easy",
+        "rating": "4.3",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/15.jpg",
+        "description": "Give your leftover roast lamb a new life with this Leftover Roast Lamb Stir-Fry. The tender and flavorful lamb is stir-fried with colorful vegetables in a savory sauce, creating a quick and delicious meal that's perfect for using up leftovers. The combination of tender lamb, crisp vegetables, and savory sauce makes it a satisfying and budget-friendly option for a weeknight dinner.",
+        "price": 350
+    },
+    {
+        "id": "16",
+        "title": "Caramelised apples with sesame",
+        "difficulty": "Easy",
+        "rating": "4.3",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/16.jpg",
+        "description": "Indulge in the sweet and comforting flavors of Caramelised Apples with Sesame. This delightful dessert features tender apple slices caramelized to perfection, creating a luscious and sweet treat. The addition of sesame seeds adds a nutty and aromatic touch to the dish. Serve it warm with a scoop of vanilla ice cream for a delightful ending to your Chinese-inspired meal.",
+        "price": 180
+    },
+    {
+        "id": "17",
+        "title": "Ken Hom’s crispy fish spring rolls",
+        "difficulty": "Easy",
+        "rating": "4.5",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/17.jpg",
+        "description": "Get ready for a delightful culinary experience with Ken Hom's Crispy Fish Spring Rolls. These delectable spring rolls feature flaky white fish, crunchy vegetables, and aromatic seasonings, all wrapped in a crispy shell. The combination of textures and flavors will leave you craving for more. Serve them with a dipping sauce or sweet chili sauce for an irresistible appetizer or snack.",
+        "price": 320
+    },
+    {
+        "id": "18",
+        "title": "Stuffed bitter melon with black bean sauce",
+        "difficulty": "Medium",
+        "rating": "4.2",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/18.jpg",
+        "description": "Challenge your taste buds with Stuffed Bitter Melon in Black Bean Sauce. Bitter melon, a unique and slightly bitter vegetable, is stuffed with a flavorful mixture of ground meat and aromatic seasonings. The dish is then simmered in a savory black bean sauce that balances the bitterness of the melon. This dish is a celebration of bold flavors and textures, making it a unique addition to your Chinese-inspired menu.",
+        "price": 290
+    },
+    {
+        "id": "19",
+        "title": "Ken Hom’s steamed chicken with Chinese sausage",
+        "difficulty": "Easy",
+        "rating": "4.4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/19.jpg",
+        "description": "Discover the classic flavors of Ken Hom's Steamed Chicken with Chinese Sausage. This traditional dish features tender steamed chicken and savory Chinese sausage, creating a delightful combination of tastes and textures. The dish is steamed to perfection, allowing the flavors to meld together and creating a succulent and flavorful meal. Serve it with steamed rice for a satisfying and wholesome dinner.",
+        "price": 320
+    },
+    {
+        "id": "20",
+        "title": "Ken Hom’s chicken on crispy noodles",
+        "difficulty": "Easy",
+        "rating": "4.5",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/20.jpg",
+        "description": "Elevate your noodle game with Ken Hom's Chicken on Crispy Noodles. This delightful dish features tender chicken and colorful vegetables stir-fried in a savory sauce, served over a bed of crispy fried noodles. The contrast of textures between the crunchy noodles and the succulent chicken is a delight to the palate. Enjoy this restaurant-quality dish made right in your own kitchen.",
+        "price": 340
+    },
+    {
+        "id": "21",
+        "title": "Speedy Chilli Turkey Stir-Fry",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/21.jpg",
+        "description": "Continue your Chinese-inspired culinary journey with the Speedy Chilli Turkey Stir-Fry. This flavorful stir-fry features succulent turkey strips and vibrant vegetables in a spicy chili sauce. The dish comes together in no time, making it perfect for busy weeknights or when you're craving a satisfying meal without much fuss. The secret to this dish lies in the balance of flavors. The chili sauce adds a kick of heat, while the savory and umami-rich sauce brings depth to the dish. The tender turkey absorbs all the flavors, creating a delightful explosion of tastes in every bite. Serve the Speedy Chilli Turkey Stir-Fry over a bed of steamed rice or noodles to soak up the delectable sauce. If you prefer a lighter option, you can serve it with cauliflower rice or zucchini noodles for a low-carb twist. With its bold flavors and quick preparation, this stir-fry is sure to become a favorite go-to recipe in your kitchen. Plus, it's a fantastic way to add more excitement to your weekday meals without spending hours in the kitchen."
+    },
+    {
+        "id": "22",
+        "title": "Kung Pao Cauliflower",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/22.jpg",
+        "description": "For a delightful vegetarian take on a classic Chinese dish, try the Kung Pao Cauliflower. This recipe elevates humble cauliflower into a flavor-packed, zesty, and slightly spicy delight that will have your taste buds dancing with joy. The Kung Pao sauce is the star of this dish, boasting a perfect blend of tangy, sweet, and spicy notes. Cauliflower florets are roasted to golden perfection and then tossed in the mouthwatering sauce, creating a delightful contrast of textures and flavors. The dish is often garnished with chopped peanuts or cashews, adding a satisfying crunch. Serve the Kung Pao Cauliflower over steamed rice or noodles, and you'll have a crowd-pleasing, restaurant-quality meal right at home. Whether you're a vegetarian or simply looking to add more veggies to your diet, this dish is a winner that will keep you coming back for more."
+    },
+    {
+        "id": "23",
+        "title": "Spicy Prawn Toasts",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/23.jpg",
+        "description": "Spicy Prawn Toasts are a delightful Chinese appetizer that will tantalize your taste buds with their irresistible flavors and textures. In this dish, succulent prawns are seasoned with a blend of aromatic spices and then minced into a flavorful paste. The prawn paste is generously spread onto slices of bread and then coated with sesame seeds before being fried to a golden crisp. The result is a deliciously crunchy and savory toast with a hint of heat from the spices. Spicy Prawn Toasts are commonly served as an appetizer or snack at Chinese restaurants, and they are guaranteed to be a hit at any gathering or party. Enjoy them on their own or with a side of sweet chili sauce for dipping. These delectable toasts are easy to make and will impress your guests with their gourmet taste and presentation."
+    },
+    {
+        "id": "24",
+        "title": "Bang Bang Tofu Salad",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/24.jpg",
+        "description": "Bang Bang Tofu Salad is a fresh and vibrant dish that brings together a delightful combination of flavors and textures. In this salad, crispy cubes of tofu are coated in a tangy and slightly spicy dressing made with soy sauce, sesame oil, rice vinegar, and chili paste. The tofu is then served over a bed of crisp lettuce and colorful vegetables, such as cucumber, bell peppers, and shredded carrots. Garnished with chopped scallions and cilantro, this salad offers a burst of freshness in every bite. The name 'Bang Bang' comes from the rhythmic sound of the dressing being mixed into the tofu, and it adds an element of fun to the dish. Whether you're a tofu enthusiast or looking to incorporate more plant-based options into your diet, this Bang Bang Tofu Salad is a must-try that will leave you satisfied and craving more."
+    },
+    {
+        "id": "25",
+        "title": "Baked Venison Puffs",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/25.jpg",
+        "description": "Baked Venison Puffs are a delectable Chinese pastry that combines the richness of venison with the flaky, buttery goodness of puff pastry. The tender and succulent venison is marinated in a savory sauce infused with aromatic Chinese spices, adding depth and flavor to the filling. The puff pastry is carefully folded around the venison, creating a delightful pocket that puffs up beautifully when baked. The result is a heavenly combination of tender meat encased in layers of golden, crispy pastry. Baked Venison Puffs are often served as a dim sum dish or enjoyed as a savory snack. Whether you're hosting a party, planning a special meal, or simply looking for a delightful treat, these puffs will undoubtedly impress your guests and leave them wanting more. Enjoy the perfect harmony of flavors and textures in every mouthful!"
+    },
+    {
+        "id": "26",
+        "title": "Fragrant Maple Pineapple with Coconut Ice Cream",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/26.jpg",
+        "description": "End your Chinese feast on a sweet and tropical note with Fragrant Maple Pineapple served with Coconut Ice Cream. This dessert is a beautiful blend of flavors and textures that will transport your taste buds to a sunny paradise. Ripe pineapple slices are grilled to perfection, enhancing their natural sweetness and infusing them with a delightful smokiness. The pineapple is then drizzled with fragrant maple syrup, adding a touch of rich caramel-like sweetness. To complete the dessert, serve the maple pineapple with a scoop of creamy coconut ice cream that perfectly complements the tropical flavors. The contrast of warm, juicy pineapple with the cold and luscious ice cream creates a memorable dessert experience. This refreshing and indulgent treat is a delightful way to end any Chinese meal or to enjoy on its own as a tropical escape. Treat yourself to this heavenly dessert, and savor the magic of pineapple and coconut in every spoonful."
+    },
+    {
+        "id": "27",
+        "title": "Sweet and Smoky Red-Cooked Cod (Hong Sao Yu)",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/27.jpg",
+        "description": "Sweet and Smoky Red-Cooked Cod, known as Hong Sao Yu in Chinese, is a classic dish that celebrates the delicate flavors of fresh cod fish. In this recipe, the cod is gently simmered in a savory and aromatic broth made with soy sauce, ginger, garlic, and warming spices. As the fish cooks, it absorbs all the wonderful flavors of the broth, becoming tender and infused with rich umami notes. The dish gets its name from the reddish-brown color that the fish takes on during the cooking process. The sweet and smoky flavor comes from the combination of dark soy sauce and sugar, creating a delightful balance of taste. Served with a sprinkle of fresh scallions and cilantro, this Red-Cooked Cod is as visually appealing as it is delicious. Enjoy this dish with steamed rice and a side of vegetables for a satisfying and comforting meal that will transport you to the heart of Chinese cuisine."
+    },
+    {
+        "id": "28",
+        "title": "Noodles in a Spinach and Garlic Sauce",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/28.jpg",
+        "description": "Noodles in a Spinach and Garlic Sauce is a simple yet delightful Chinese dish that showcases the wonderful flavors of fresh spinach and garlic. The tender noodles are tossed in a luscious sauce made with pureed spinach, garlic, and a touch of soy sauce for umami. The result is a dish that's both comforting and packed with nutrients. The vibrant green color of the spinach sauce adds an element of visual appeal to the plate. This dish is often served as a vegetarian option, and it can be customized with additional vegetables or protein, such as tofu or mushrooms, for a more substantial meal. Whether you're looking for a quick and healthy lunch or a light dinner, Noodles in a Spinach and Garlic Sauce is a fantastic choice that will leave you feeling satisfied and nourished."
+    },
+    {
+        "id": "29",
+        "title": "Pork, Celery, and Water Chestnut Wontons with Ma La Chilli Oil",
+        "difficulty": "Medium",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/29.jpg",
+        "description": "Indulge in the delightful flavors of Pork, Celery, and Water Chestnut Wontons, served with Ma La Chilli Oil for an added kick. Wontons are a classic Chinese dish made with delicate wrappers that are filled with a savory and aromatic mixture of minced pork, crunchy celery, and water chestnuts. The wontons are expertly folded into intricate shapes, making them as visually appealing as they are delicious. The Ma La Chilli Oil adds a burst of spicy, numbing heat to the dish, creating a mouthwatering experience that leaves a lingering tingle on the palate. The combination of the tender wonton wrappers and the flavorful filling, coupled with the fiery chili oil, makes this dish an unforgettable treat. Whether you serve them as an appetizer, a side dish, or a main course, these wontons are sure to be a hit at any meal."
+    },
+    {
+        "id": "30",
+        "title": "Wok-Fried Fragrant Scallops",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/30.jpg",
+        "description": "For an elegant seafood dish that bursts with flavor, try the Wok-Fried Fragrant Scallops. Plump and succulent scallops are quickly stir-fried to perfection, allowing their natural sweetness to shine. The dish gets its enticing aroma from a medley of fragrant ingredients, including garlic, ginger, and scallions. A dash of soy sauce, oyster sauce, and sesame oil adds depth to the flavors while highlighting the freshness of the scallops. The vibrant colors of the vegetables and the glossy appearance of the scallops make this dish as visually appealing as it is delectable. Serve the Wok-Fried Fragrant Scallops over a bed of steamed jasmine rice or noodles for a complete and satisfying meal that's ready in minutes. This dish is perfect for impressing guests at a dinner party or for treating yourself to a restaurant-quality seafood experience at home."
+    },
+    {
+        "id": "31",
+        "title": "Ginger Chicken Congee (Rice Porridge) with Kimchi",
+        "difficulty": "Medium",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/31.jpg",
+        "description": "Warm your soul with a comforting bowl of Ginger Chicken Congee, a Chinese rice porridge known for its nourishing and soothing properties. This dish starts with the gentle simmering of rice in chicken broth until it reaches a smooth and creamy consistency. The addition of ginger brings a subtle spiciness and a burst of flavor to the congee, while tender chunks of chicken add heartiness to the dish. To elevate the taste further, the congee is garnished with fresh scallions and a dollop of tangy kimchi, which complements the creamy porridge with its vibrant and spicy notes. Ginger Chicken Congee is a popular choice for breakfast, especially during cooler months or when you're feeling under the weather. It's a heartwarming and nourishing dish that's bound to make you feel comforted and cared for with every spoonful."
+    },
+    {
+        "id": "32",
+        "title": "Chicken, Ginger, and Oyster Sauce Stir-Fry",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/32.jpg",
+        "description": "Elevate your weeknight dinner with a delightful Chicken, Ginger, and Oyster Sauce Stir-Fry that's packed with flavor. In this dish, tender chicken strips are marinated in a savory sauce that includes oyster sauce, soy sauce, and fragrant ginger. The chicken is then stir-fried along with colorful vegetables like bell peppers, broccoli, and carrots, creating a vibrant and nutritious meal. The oyster sauce adds a depth of umami and a glossy sheen to the stir-fry, making it both visually appealing and delicious. Serve the Chicken, Ginger, and Oyster Sauce Stir-Fry over a bed of steamed jasmine rice or noodles for a satisfying and wholesome dinner that the whole family will love. With its quick preparation and mouthwatering taste, this stir-fry is sure to become a go-to recipe in your weekly meal rotation."
+    },
+    {
+        "id": "33",
+        "title": "Sticky Sesame and Soy Chicken Traybake",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/33.jpg",
+        "description": "For a fuss-free and flavor-packed meal, try the Sticky Sesame and Soy Chicken Traybake. This recipe takes the hassle out of cooking while ensuring a delicious result. Chicken pieces are marinated in a tantalizing blend of soy sauce, honey, garlic, and sesame oil, infusing them with a wonderful combination of sweet and savory notes. The chicken is then baked on a tray with a medley of colorful vegetables, such as bell peppers, zucchini, and snap peas. As the chicken cooks, it becomes tender and juicy, while the glaze caramelizes, creating a sticky and irresistible coating. Garnish with toasted sesame seeds and chopped scallions for an added touch of nutty and fresh flavors. This traybake is not only a breeze to prepare, but it's also a crowd-pleaser that's perfect for busy weeknights or when you're entertaining guests. Enjoy the delightful flavors of this Sticky Sesame and Soy Chicken Traybake and indulge in a fuss-free culinary experience."
+    },
+    {
+        "id": "34",
+        "title": "Singapore Pork and Prawn Noodles",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/34.jpg",
+        "description": "Singapore Pork and Prawn Noodles, also known as Singapore Mei Fun, is a popular and delightful dish that brings together a mix of tender pork, succulent prawns, and flavorful noodles. In this recipe, thin rice noodles are stir-fried with aromatic spices, vegetables, and a medley of tender pork and juicy prawns. The dish gets its unique flavor from a blend of curry powder, soy sauce, and oyster sauce, infusing the noodles with a delightful balance of savory and spiced notes. The vibrant colors and enticing aroma of the Singapore Pork and Prawn Noodles make it as visually appealing as it is delicious. Whether you're a noodle lover or simply looking to try a dish with an exciting blend of flavors, this Singapore Mei Fun is a fantastic choice that's sure to satisfy your taste buds."
+    },
+    {
+        "id": "35",
+        "title": "Prawn Toast Scotch Eggs",
+        "difficulty": "Medium",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/35.jpg",
+        "description": "Prawn Toast Scotch Eggs are a creative fusion of two beloved dishes: Prawn Toast and Scotch Eggs. In this recipe, boiled eggs are encased in a layer of minced prawn mixture and then coated with breadcrumbs before being deep-fried to a golden crisp. The result is a delightful combination of creamy boiled egg and flavorful prawn toast, offering a harmonious contrast of textures and tastes. These eggs are typically served with a side of sweet chili sauce for dipping, which adds a tangy and spicy element to the dish. Prawn Toast Scotch Eggs make for an impressive and delicious appetizer or party snack that's sure to be a hit with guests. Whether you're a fan of prawn toast or Scotch eggs, this creative fusion dish will exceed your expectations and leave you craving more."
+    },
+    {
+        "id": "36",
+        "title": "Tofu with Caramel and Sichuan Pepper",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/36.jpg",
+        "description": "Tofu with Caramel and Sichuan Pepper is a delightful Chinese dish that highlights the versatility of tofu and the unique flavors of Sichuan pepper. In this recipe, cubes of tofu are gently caramelized to achieve a slightly sweet and crispy exterior. The dish gets its signature touch from the addition of Sichuan pepper, which imparts a distinctive numbing and citrusy flavor to the tofu. The combination of sweet and spicy notes creates a perfect harmony of tastes. Tofu with Caramel and Sichuan Pepper is often served as a side dish or appetizer, and it pairs wonderfully with steamed rice or noodles. Whether you're a tofu enthusiast or looking to explore the bold flavors of Sichuan cuisine, this dish is a must-try that will leave you pleasantly surprised and eager to enjoy it again."
+    },
+    {
+        "id": "37",
+        "title": "Prawn, Cabbage, and Sichuan Pepper Stir-Fry",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/37.jpg",
+        "description": "Prawn, Cabbage, and Sichuan Pepper Stir-Fry is a quick and delicious Chinese dish that's bursting with flavor and textures. In this stir-fry, succulent prawns are combined with crisp cabbage and aromatic vegetables such as garlic and ginger. The star of the show is the Sichuan pepper, which adds a unique and tingling sensation to the dish. The stir-fry is completed with a savory sauce made from soy sauce, oyster sauce, and a touch of sweetness. The combination of umami, spiciness, and tanginess creates a wonderful balance of taste. Prawn, Cabbage, and Sichuan Pepper Stir-Fry is perfect for weeknight dinners when you want something satisfying and easy to prepare. Serve it over steamed rice or noodles, and you'll have a delightful meal that's sure to be a hit with the whole family."
+    },
+    {
+        "id": "38",
+        "title": "Bao Buns with Orange and Pomegranate Glazed Lamb",
+        "difficulty": "Medium",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/38.jpg",
+        "description": "Bao Buns with Orange and Pomegranate Glazed Lamb are a delightful and unique twist on traditional Chinese steamed buns. In this recipe, tender and flavorful lamb is marinated in a glaze made from orange juice, pomegranate molasses, and aromatic spices. The lamb is then slow-cooked until it's fork-tender and infused with the sweet and tangy flavors of the glaze. The soft and pillowy bao buns serve as the perfect vessel for the succulent lamb, and they add an element of fun and novelty to the dish. Garnish the bao buns with fresh cilantro and pomegranate arils for an added burst of freshness and color. Bao Buns with Orange and Pomegranate Glazed Lamb are a fantastic choice for a special dinner or a unique party dish that will impress your guests with its delightful flavors and presentation."
+    },
+    {
+        "id": "39",
+        "title": "Tofu and Broccoli with Hoisin and Sesame",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/39.jpg",
+        "description": "Tofu and Broccoli with Hoisin and Sesame is a quick and tasty Chinese dish that's perfect for a nutritious and satisfying meal. In this recipe, cubes of tofu are pan-fried until they develop a crispy texture on the outside while remaining soft and creamy on the inside. The tofu is then stir-fried with vibrant broccoli florets and coated in a flavorful sauce made with hoisin sauce, soy sauce, and a sprinkle of sesame seeds. The result is a delectable blend of sweet and savory tastes with a delightful nutty aroma. Tofu and Broccoli with Hoisin and Sesame is a fantastic way to enjoy the goodness of plant-based protein and the nutritional benefits of broccoli. Serve it over steamed rice or noodles, and you'll have a well-rounded meal that's both tasty and nourishing."
+    },
+    {
+        "id": "40",
+        "title": "Five-Spice Crispy Duck",
+        "difficulty": "Medium",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/40.jpg",
+        "description": "Five-Spice Crispy Duck is a show-stopping Chinese dish that's sure to impress your guests with its incredible flavors and crispy texture. In this recipe, duck is seasoned with a blend of aromatic Chinese five-spice powder, salt, and pepper, infusing it with a medley of warm and savory notes. The duck is then air-dried to achieve a crisp skin before being roasted to perfection. The result is a succulent and flavorful duck with a crispy exterior that's simply irresistible. Five-Spice Crispy Duck is often served with pancakes, spring onions, and hoisin sauce, allowing you to assemble delicious duck wraps bursting with taste. This dish is perfect for special occasions, holiday celebrations, or whenever you want to indulge in a gourmet Chinese delicacy. Treat yourself and your loved ones to the sumptuous delight of Five-Spice Crispy Duck and create lasting memories with this exceptional dish."
+    },
+    {
+        "id": "41",
+        "title": "Chow Mein with Char Siu Pork",
+        "difficulty": "Medium",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/41.jpg",
+        "description": "Chow Mein with Char Siu Pork is a delicious and hearty Chinese noodle dish that's sure to satisfy your cravings. In this recipe, succulent Char Siu Pork is stir-fried with a medley of colorful vegetables such as carrots, bean sprouts, and bok choy. The dish gets its signature flavor from a savory and slightly sweet sauce made with oyster sauce, soy sauce, and Chinese five-spice powder. The combination of tender pork, crisp vegetables, and chewy noodles creates a delightful harmony of textures. Chow Mein with Char Siu Pork is a popular choice at Chinese restaurants and is a fantastic way to enjoy the goodness of vegetables along with the rich taste of Char Siu Pork. Whether you're a noodle enthusiast or a fan of Char Siu, this dish is a must-try that will leave you coming back for more."
+    },
+    {
+        "id": "42",
+        "title": "Beef in Black Bean Sauce",
+        "difficulty": "Medium",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/42.jpg",
+        "description": "Beef in Black Bean Sauce is a classic Chinese dish that's hearty, flavorful, and easy to prepare. In this recipe, tender beef strips are marinated in a mixture of soy sauce, oyster sauce, and aromatic black bean sauce. The beef is then stir-fried along with colorful bell peppers and onions, allowing the flavors to meld together beautifully. The black bean sauce adds a rich and savory taste that complements the beef and vegetables perfectly. Beef in Black Bean Sauce is often served with steamed jasmine rice, and it's a fantastic choice for a satisfying and comforting meal that the whole family will enjoy. Whether you're a beef lover or simply looking for a delicious Chinese dish to add to your repertoire, this Beef in Black Bean Sauce is a winner that will have everyone asking for seconds."
+    },
+    {
+        "id": "43",
+        "title": "Kung Pao Chicken",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/43.jpg",
+        "description": "Kung Pao Chicken is a beloved Chinese dish known for its bold flavors and the delightful kick of heat from dried red chili peppers. In this recipe, tender chicken pieces are stir-fried with vibrant vegetables like bell peppers and zucchini, along with crunchy peanuts. The star of the dish is the Kung Pao sauce, which is a perfect balance of sweet, salty, and spicy tastes. The sauce is made with soy sauce, vinegar, sugar, and a generous amount of dried red chili peppers, creating a harmonious blend of flavors. Kung Pao Chicken is often served with steamed rice, and it's a popular choice at Chinese restaurants around the world. Whether you're a fan of spicy food or just looking for a new twist on a classic stir-fry, this Kung Pao Chicken is a must-try that will have you reaching for seconds."
+    },
+    {
+        "id": "44",
+        "title": "Beef and Broccoli Stir-Fry",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/44.jpg",
+        "description": "Beef and Broccoli Stir-Fry is a classic Chinese dish that's beloved for its simple preparation and delicious taste. In this recipe, tender strips of beef are marinated in a savory sauce made with soy sauce, oyster sauce, and a touch of honey for sweetness. The beef is then stir-fried along with crisp broccoli florets, allowing the flavors to meld together beautifully. The dish is often garnished with toasted sesame seeds or sliced scallions for an added touch of flavor and presentation. Beef and Broccoli Stir-Fry is perfect for a quick and satisfying weeknight dinner when you want something wholesome and delicious. Serve it over steamed jasmine rice, and you'll have a complete meal that's sure to be a hit with the whole family."
+    },
+    {
+        "id": "45",
+        "title": "Sweet and Sour Pork",
+        "difficulty": "Medium",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/45.jpg",
+        "description": "Sweet and Sour Pork is a classic Chinese dish that's popular around the world for its delightful combination of flavors. In this recipe, tender pieces of pork are coated in a light batter and then deep-fried until they're crispy and golden. The pork is then stir-fried with a medley of colorful bell peppers, onions, and pineapple chunks, creating a vibrant and visually appealing dish. The sweet and sour sauce is the star of this dish, made with a blend of sugar, vinegar, ketchup, and soy sauce, creating a perfect balance of sweet and tangy tastes. Sweet and Sour Pork is often served with steamed rice, and it's a favorite choice at Chinese restaurants and takeout menus. Whether you're a fan of pork dishes or simply looking for a delicious and crowd-pleasing meal, this Sweet and Sour Pork is a fantastic choice that will leave you wanting more."
+    },
+    {
+        "id": "46",
+        "title": "Chinese-style Braised Beef",
+        "difficulty": "Medium",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/46.jpg",
+        "description": "Chinese-style Braised Beef is a comforting and flavorful dish that's perfect for a hearty and satisfying meal. In this recipe, beef chunks are seared to develop a rich crust before being simmered in a fragrant and savory sauce made with soy sauce, ginger, garlic, and warming spices like star anise and cinnamon. The slow cooking process allows the beef to become tender and infused with the wonderful flavors of the sauce. The dish is often garnished with chopped scallions or cilantro for an added touch of freshness. Chinese-style Braised Beef is typically served with steamed rice or noodles, and it's a popular choice during colder months or whenever you crave a comforting and nourishing meal. Whether you're hosting a dinner party or looking for a flavorful dish to enjoy with your loved ones, this Chinese-style Braised Beef is a winner that will warm your heart and delight your taste buds."
+    },
+    {
+        "id": "47",
+        "title": "Lemon Chicken",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/47.jpg",
+        "description": "Lemon Chicken is a popular Chinese takeout dish known for its crisp and tangy goodness. In this recipe, tender chicken pieces are coated in a light and flavorful batter before being deep-fried until they're golden and crispy. The dish gets its signature tangy taste from a delightful lemon sauce made with fresh lemon juice, sugar, and a touch of honey. The sauce is the perfect balance of sweet and sour, complementing the crispy chicken beautifully. Lemon Chicken is often garnished with lemon slices and chopped scallions for an added burst of citrusy and fresh flavors. Whether you're a fan of Chinese takeout or simply looking to try a classic Chinese dish, this Lemon Chicken is a must-try that will have you savoring every mouthful."
+    },
+    {
+        "id": "48",
+        "title": "Cashew Chicken",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/48.jpg",
+        "description": "Cashew Chicken is a delightful and comforting Chinese dish that's loved for its tender chicken, crunchy cashews, and savory sauce. In this recipe, tender chicken breast is stir-fried with colorful bell peppers, onions, and crunchy cashew nuts. The dish gets its signature taste from a savory sauce made with oyster sauce, soy sauce, and a touch of honey for sweetness. The cashews add a delightful nutty flavor and a satisfying crunch, creating a wonderful contrast of textures. Cashew Chicken is often served with steamed jasmine rice, and it's a fantastic choice for a quick and satisfying weeknight dinner. Whether you're a fan of nutty dishes or simply looking for a tasty and wholesome meal, this Cashew Chicken is a winner that will leave you feeling satisfied and content."
+    },
+    {
+        "id": "49",
+        "title": "Szechuan Beef",
+        "difficulty": "Medium",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/49.jpg",
+        "description": "Szechuan Beef is a boldly flavored Chinese dish that's loved for its spicy and savory taste. In this recipe, tender beef strips are stir-fried with vibrant vegetables such as bell peppers, onions, and green beans. The star of the dish is the Szechuan sauce, which is made with a mix of chili paste, soy sauce, vinegar, and garlic, creating a fiery and aromatic blend of flavors. The dish is often garnished with sesame seeds and sliced scallions for an added touch of flavor and presentation. Szechuan Beef is typically served with steamed rice, and it's a popular choice for those who enjoy spicy food and bold tastes. Whether you're a fan of Szechuan cuisine or simply looking for a flavorful and exciting dish, this Szechuan Beef is a must-try that will leave you craving more."
+    },
+    {
+        "id": "50",
+        "title": "Hoisin Glazed Meatballs",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/50.jpg",
+        "description": "Hoisin Glazed Meatballs are a delectable appetizer or party snack that's bursting with savory and sweet flavors. In this recipe, tender meatballs are made with a blend of ground meat, breadcrumbs, and aromatic spices. The meatballs are then coated in a luscious glaze made with hoisin sauce, soy sauce, honey, and garlic, creating a perfect balance of tastes. The hoisin glaze adds a delightful umami-rich and slightly sweet taste that complements the meatballs beautifully. Hoisin Glazed Meatballs are often garnished with chopped scallions and sesame seeds for an added touch of freshness and nuttiness. Whether you're hosting a gathering or simply looking for a tasty snack, these meatballs are a crowd-pleaser that will disappear quickly from the plate."
+    },
+    {
+        "id": "51",
+        "title": "Pork and Shrimp Wontons in a Flavorful Broth",
+        "difficulty": "Medium",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/51.jpg",
+        "description": "Pork and Shrimp Wontons in a Flavorful Broth, also known as 'Hun Dun' in Chinese, are a beloved and comforting Chinese soup dumpling that's perfect for warming up on a chilly day. In this recipe, wonton wrappers are filled with a savory mixture of minced pork, succulent shrimp, and aromatic seasonings. The wontons are folded into intricate shapes, making them as visually appealing as they are delicious. The wontons are then cooked in a flavorful and aromatic broth made with chicken or pork, ginger, garlic, and green onions. The dish is often garnished with fresh cilantro and a drizzle of sesame oil for added aroma and taste. Pork and Shrimp Wontons in a Flavorful Broth are a popular choice at dim sum restaurants and are a fantastic choice for an appetizer or a light meal that's both nourishing and satisfying."
+    }
+					{
+        "id": "52",
+        "title": "Sesame Noodles with Vegetables",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/52.jpg",
+        "description": "Sesame Noodles with Vegetables are a delightful and easy-to-make Chinese noodle dish that's perfect for a quick and tasty meal. In this dish, cooked noodles are tossed in a flavorful sesame sauce made with soy sauce, sesame oil, garlic, and ginger. The dish is then topped with a colorful mix of sautéed vegetables, such as broccoli, bell peppers, and carrots, adding a nutritious and crunchy element to the dish. Garnish with toasted sesame seeds and green onions for an extra burst of flavor and presentation. Enjoy these sesame noodles as a satisfying lunch or dinner option!"
+    },
+    {
+        "id": "53",
+        "title": "Battered Prawns with Spiced Herb Relish",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/53.jpg",
+        "description": "Battered Prawns with Spiced Herb Relish is a delectable Chinese seafood dish that will surely impress your taste buds. Succulent prawns are coated in a light and crispy batter, seasoned with Chinese spices for an added kick. These prawns are fried to perfection until golden and crunchy. The dish is served with a zesty herb relish made from a blend of fresh cilantro, mint, and Thai basil, mixed with garlic, ginger, and red chili for a burst of flavors. The combination of the crispy prawns and the aromatic herb relish creates a harmonious balance of textures and tastes that will leave you wanting more!"
+    },
+    {
+        "id": "54",
+        "title": "Chicken Fried Rice",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/54.jpg",
+        "description": "Chicken Fried Rice is a classic and popular Chinese dish that's incredibly satisfying and easy to prepare. Tender pieces of chicken are marinated in soy sauce and stir-fried with fluffy jasmine rice, creating a delicious blend of flavors. The dish also features an assortment of colorful vegetables like carrots, peas, and green onions, adding both nutrition and vibrancy to the dish. For an authentic touch, eggs are scrambled and mixed into the rice, enhancing the texture and taste. Garnish with additional green onions and a drizzle of sesame oil for an irresistible aroma. Whether served as a main course or as a side dish, this chicken fried rice is sure to please any palate!"
+    },
+    {
+        "id": "55",
+        "title": "Tofu Stir-Fry",
+        "difficulty": "Easy",
+        "rating": "3",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/55.jpg",
+        "description": "Tofu Stir-Fry is a delightful and wholesome Chinese vegan dish that celebrates the versatility of tofu. Cubes of firm tofu are marinated in a savory sauce made from soy sauce, hoisin sauce, garlic, and ginger, infusing the tofu with incredible flavors. The marinated tofu is then stir-fried with a colorful medley of vegetables such as bell peppers, broccoli, and snap peas, creating a visually appealing and nutritious dish. This tofu stir-fry is not only packed with plant-based protein but also bursts with umami and texture. Serve it over steamed rice or noodles for a complete and satisfying meal that will please both vegans and non-vegans alike."
+    },
+    {
+        "id": "56",
+        "title": "Natasha Corrett’s Grilled Aubergine Miso Salad",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/56.jpg",
+        "description": "Natasha Corrett’s Grilled Aubergine Miso Salad is a fusion of Chinese and Japanese flavors, resulting in a mouthwatering salad that's both refreshing and hearty. Slices of grilled aubergine (eggplant) are coated in a flavorful miso dressing, which adds depth and umami to the dish. The grilled aubergine is then paired with fresh salad greens, cherry tomatoes, and cucumber, adding crispness and a burst of colors to the plate. Topped with toasted sesame seeds and chopped spring onions, this salad is a celebration of textures and tastes. Whether served as a light lunch or a side dish, this grilled aubergine miso salad will leave you craving for more."
+    },
+    {
+        "id": "57",
+        "title": "Green Noodle and Tofu Salad with Ginger and Tamari Dressing",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/57.jpg",
+        "description": "Green Noodle and Tofu Salad with Ginger and Tamari Dressing is a vibrant and wholesome Chinese-inspired salad that's perfect for warm weather or as a light meal. The salad features green noodles made from a mix of spinach and wheat flour, giving them their beautiful color and adding nutritional value. Cubes of tofu are pan-fried until golden and tossed into the salad, providing a good source of plant-based protein. The salad is then drizzled with a zesty dressing made from ginger, tamari (gluten-free soy sauce), sesame oil, and rice vinegar, creating a delightful harmony of flavors. Garnished with sesame seeds and fresh cilantro, this salad is a delightful treat for your taste buds."
+    },
+    {
+        "id": "58",
+        "title": "Singapore Style Stir Fried Noodles",
+        "difficulty": "Medium",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/58.jpg",
+        "description": "Singapore Style Stir Fried Noodles is an exciting and flavorful dish that showcases the best of Chinese and Southeast Asian cuisine. These stir-fried noodles are infused with a mix of aromatic spices such as curry powder, turmeric, and chili, resulting in a vibrant yellow hue and a burst of flavors. The dish features a medley of vegetables like bell peppers, bean sprouts, and scallions, creating a colorful and nutritious combination. For added protein and texture, you can include shrimp, chicken, or tofu. Serve this delicious and spicy noodle dish as a main course or a side dish for a taste of Singapore in the comfort of your home."
+    },
+    {
+        "id": "59",
+        "title": "Brown Sugar and Chilli Chicken Wings",
+        "difficulty": "Easy",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/59.jpg",
+        "description": "Brown Sugar and Chilli Chicken Wings are a delectable Chinese appetizer or finger food that's perfect for parties and gatherings. These crispy and sticky chicken wings are first marinated in a combination of soy sauce, brown sugar, garlic, and Chinese five-spice powder, infusing them with sweet and savory flavors. The wings are then baked until golden and caramelized, giving them a delightful texture and taste. For an added kick, chopped red chili adds a touch of spiciness and freshness to the wings. Whether served as an appetizer or as part of the main course, these brown sugar and chili chicken wings will be a crowd-pleaser."
+    },
+    {
+        "id": "60",
+        "title": "Chinese-Style Sticky Pork Ribs",
+        "difficulty": "Medium",
+        "rating": "4",
+        "image": "https://apipics.s3.amazonaws.com/chinese_recipes_api/60.jpg",
+        "description": "Chinese-Style Sticky Pork Ribs are an irresistible and succulent dish that's full of Chinese flavors. The tender pork ribs are marinated in a luscious sauce made from hoisin sauce, honey, soy sauce, garlic, and ginger, infusing them with rich and sweet flavors. After marinating, the ribs are roasted until they become beautifully caramelized and sticky. The result is a finger-licking good dish that's bursting with umami and depth. Serve these Chinese-style sticky pork ribs as a delightful appetizer or as part of a lavish meal. Prepare to get your hands messy as you savor every morsel of these delicious ribs."
+    }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Whopper",
+    "description": "The classic Whopper - flame-grilled beef patty, fresh lettuce, ripe tomatoes, creamy mayo, ketchup, crunchy pickles, and sliced onions, all served on a toasted sesame seed bun. It's the burger that made Burger King famous and a true treat for burger enthusiasts.",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/whooper-cz-2x1-230126-d64a1c.jpg",
+    "price": 660,
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "title": "Cheeseburger",
+    "description": "A classic Cheeseburger with a flame-grilled beef patty, topped with melted American cheese, ketchup, mustard, and pickles, all served on a soft, sesame seed bun. It's a simple yet delicious burger that never disappoints.",
+    "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/3/2023/07/11180305/358101373_292422893350341_630677683818333789_n.jpeg",
+    "price": 396,
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "title": "Double Whopper",
+    "description": "Double the patty, double the delight! The Double Whopper features two flame-grilled beef patties, fresh lettuce, ripe tomatoes, creamy mayo, ketchup, crunchy pickles, and sliced onions, all on a toasted sesame seed bun.",
+    "image": "https://burgerking.com.cy/sites/default/files/Double%20Whopper-01_2.png",
+    "price": 924,
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "title": "Bacon King",
+    "description": "For the bacon lovers, the Bacon King is a true delight. This burger comes with two flame-grilled beef patties, thick-cut smoked bacon, melted American cheese, ketchup, and creamy mayo, all served on a soft, sesame seed bun.",
+    "image": "https://burgerking.at/005_at/products/_NEW%20VI/image-thumb__29524__product_detail/BK_Beef_Bacon-King.png",
+    "price": 792,
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "title": "BBQ Bacon King",
+    "description": "Indulge in the rich flavors of the BBQ Bacon King - two flame-grilled beef patties, topped with crispy bacon, American cheese, and savory BBQ sauce, all served on a soft, sesame seed bun.",
+    "image": "https://burgerkingec.com/wp-content/uploads/2020/04/bbq-bacon-king-img.png",
+    "price": 924,
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "title": "Whopper Jr.",
+    "description": "A smaller version of the classic Whopper, the Whopper Jr. features a flame-grilled beef patty, fresh lettuce, ripe tomatoes, creamy mayo, ketchup, crunchy pickles, and sliced onions, all on a soft, sesame seed bun.",
+    "image": "https://bk-apac-prd.s3.amazonaws.com/sites/burgerking.com.fj/files/Untitled-3-02_0.png",
+    "price": 528,
+    "rating": 4.3
+  },
+  {
+    "id": 7,
+    "title": "Bacon Cheeseburger",
+    "description": "Enjoy the smoky goodness of the Bacon Cheeseburger, featuring a flame-grilled beef patty, melted American cheese, crispy bacon, ketchup, and mustard, all served on a soft, sesame seed bun.",
+    "image": "https://www.fastfoodpost.com/wp-content/uploads/2021/01/Review-Burger-King-New-1-Bacon-Cheeseburger.jpg",
+    "price": 528,
+    "rating": 4.2
+  },
+  {
+    "id": 8,
+    "title": "Double Cheeseburger",
+    "description": "Double the cheese, double the delight! The Double Cheeseburger comes with two flame-grilled beef patties, each topped with melted American cheese, ketchup, mustard, and pickles, all on a soft, sesame seed bun.",
+    "image": "https://burgerking.com.my/upload/image/Product/56/Cheeseburger%20%28Double%29%20Ala%20Carte.png",
+    "price": 660,
+    "rating": 4.4
+  },
+  {
+    "id": 9,
+    "title": "Impossible Whopper",
+    "description": "For the plant-based enthusiasts, the Impossible Whopper offers a delicious alternative. It features a flame-grilled Impossible patty, fresh lettuce, ripe tomatoes, creamy mayo, ketchup, crunchy pickles, and sliced onions, all on a toasted sesame seed bun.",
+    "image": "https://images.ctfassets.net/hhv516v5f7sj/kfMvWEibUxvFONGy8VMT6/a235c98107c31be9b84a2253c644789e/BK-Croissanwich-Whopper-1098x1000-v5.jpg?fm=webp&q=90&w=640",
+    "price": 792,
+    "rating": 4.1
+  },
+  {
+    "id": 10,
+    "title": "Impossible Cheeseburger",
+    "description": "An exciting plant-based option, the Impossible Cheeseburger comes with a flame-grilled Impossible patty, topped with melted American cheese, ketchup, and mustard, all on a soft, sesame seed bun.",
+    "image": "https://www.foodandwine.com/thmb/xuf3dQPeLzk4mUpRrCryLlVguLA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Burger-King-Expands-Impossible-Offerings-FT-2-BLOG0622-fb9480719e644e0bafccd32229ad2cb3.jpg",
+    "price": 660,
+    "rating": 4.0
+  },
+  {
+    "id": 11,
+    "title": "Chicken Sandwich",
+    "description": "For chicken lovers, the Chicken Sandwich is a must-try. It features a tender, crispy chicken fillet, lettuce, and creamy mayo, all served on a soft, sesame seed bun.",
+    "image": "https://thegoldenlamb.com/wp-content/uploads/2022/04/burger-king-original-chicken-sandwich.jpg",
+    "price": 660,
+    "rating": 4.2
+  },
+  {
+    "id": 12,
+    "title": "Crispy Chicken Jr.",
+    "description": "A smaller version of the classic Chicken Sandwich, the Crispy Chicken Jr. features a tender, crispy chicken fillet, lettuce, and creamy mayo, all served on a soft, sesame seed bun.",
+    "image": "https://burgerking.fi/wp-content/uploads/BK_Menukuvat_nettisivuille_Crispy_Chicken_1080x1080px_0620213-768x768.png",
+    "price": 396,
+    "rating": 4.3
+  },
+  {
+    "id": 13,
+    "title": "Spicy Chicken Jr.",
+    "description": "For those who crave a kick of heat, the Spicy Chicken Jr. offers a tender, spicy chicken fillet, lettuce, and creamy mayo, all served on a soft, sesame seed bun.",
+    "image": "https://i.pinimg.com/564x/78/fe/0c/78fe0c95ee0245afa0e6a0ce6e2d82d7.jpg",
+    "price": 396,
+    "rating": 4.1
+  },
+  {
+    "id": 14,
+    "title": "Big Fish Sandwich",
+    "description": "For seafood lovers, the Big Fish Sandwich is a delightful choice. It features a crispy fish fillet, tartar sauce, and shredded lettuce, all served on a soft, sesame seed bun.",
+    "image": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_744,ar_5:4/v1/img/recipes/44/44/73/picm9f08k.jpg",
+    "price": 660,
+    "rating": 4.4
+  },
+  {
+    "id": 15,
+    "title": "Chicken Fries",
+    "description": "A fun and flavorful option, Chicken Fries are crispy strips of tender chicken, perfect for dipping in your favorite sauce.",
+    "image": "https://i.insider.com/57d30d8c077dcc21008b4b40?width=300&format=jpeg&auto=webp",
+    "price": 528,
+    "rating": 4.3
+  },
+  {
+    "id": 16,
+    "title": "Whopper Jr. Meal",
+    "description": "Get the classic Whopper Jr. in a satisfying meal. The meal includes a Whopper Jr., small fries, and a small drink.",
+    "image": "https://bk-apac-prd.s3.amazonaws.com/sites/burgerking.com.fj/files/Update_WHOPPER%20JR_detail.png",
+    "price": 924,
+    "rating": 4.2
+  },
+  {
+    "id": 17,
+    "title": "Bacon King Meal",
+    "description": "Enjoy the rich flavors of the Bacon King in a delicious meal. The meal includes a Bacon King, small fries, and a small drink.",
+    "image": "https://www.burgerking.ee/images/optimized/products/meals-bacon-king-desktop-36372c7e791bce34bb2da0536a3ba42b.png",
+    "price": 1056,
+    "rating": 4.7
+  },
+  {
+    "id": 18,
+    "title": "Impossible Whopper Meal",
+    "description": "Satisfy your plant-based cravings with the Impossible Whopper Meal. The meal includes an Impossible Whopper, small fries, and a small drink.",
+    "image": "https://foodgressing.com/wp-content/uploads/2021/03/impossible-whopper.jpg",
+    "price": 1056,
+    "rating": 4.5
+  },
+  {
+    "id": 19,
+    "title": "Chicken Fries Meal",
+    "description": "Enjoy the fun and flavorful Chicken Fries in a satisfying meal. The meal includes Chicken Fries, small fries, and a small drink.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/delish-221219-burger-king-chicken-fries-0133-eb-1672788323.jpg?resize=980:*",
+    "price": 792,
+    "rating": 4.3
+  },
+  {
+    "id": 20,
+    "title": "Big Fish Meal",
+    "description": "For seafood lovers, the Big Fish Meal offers a delightful combination. The meal includes a Big Fish Sandwich, small fries, and a small drink.",
+    "image": "https://s.hdnux.com/photos/34/71/14/7574288/6/800x0.jpg",
+    "price": 792,
+    "rating": 4.4
+  }
+]

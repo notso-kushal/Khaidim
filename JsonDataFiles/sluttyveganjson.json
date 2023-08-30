@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "One Night Stand",
+    "description": "A mouthwatering vegan burger made with a plant-based patty, topped with vegan bacon, vegan cheese, lettuce, tomato, and Slutty Vegan special sauce.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/slutty-vegan-burger1-1652364652.jpg?crop=0.869xw:0.801xh;0.131xw,0.0370xh&resize=980:*",
+    "price": 1320,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "title": "Sloppy Toppy",
+    "description": "A delicious vegan burger featuring a plant-based patty, vegan cheese, jalapenos, lettuce, onion, and Slutty Vegan special sauce.",
+    "image": "https://cdn.vox-cdn.com/thumbor/rsBS0_eSNZGPtprljRGOxMYzsIk=/0x0:1440x1440/920x613/filters:focal(605x605:835x835):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/66091919/72621331_2654913698069504_7054118956272975872_o.7.jpg",
+    "price": 1320,
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "title": "Dancehall Queen",
+    "description": "A delightful vegan burger with a plant-based patty, vegan cheese, pineapple, vegan bacon, lettuce, and Slutty Vegan special sauce.",
+    "image": "https://scontent.fktm10-1.fna.fbcdn.net/v/t1.6435-9/67831665_2261453413972400_1967423148479479808_n.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=103&ccb=1-7&_nc_sid=2d5d41&_nc_ohc=WOmHijLzpRIAX8HhsyV&_nc_ht=scontent.fktm10-1.fna&oh=00_AfD8iCLYNWoTXrKCcN8pFl0Tuybt_Qdi4DQGl68B-DE3dQ&oe=64F0082F",
+    "price": 1320,
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "title": "Menage A Trois",
+    "description": "A tempting vegan burger featuring three plant-based patties, vegan cheese, lettuce, tomato, and Slutty Vegan special sauce.",
+    "image": "https://sluttyveganatl.com/wp-content/uploads/2020/06/SluttyVeganBurger.png",
+    "price": 1716,
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "title": "Heaux Boy",
+    "description": "A delightful vegan shrimp po' boy sandwich with lettuce, tomato, and Slutty Vegan special sauce.",
+    "image": "https://sluttyveganatl.com/wp-content/uploads/2020/06/HeauxBoy-SVB-150x150.png",
+    "price": 1452,
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "title": "Fussy Hussy",
+    "description": "A delectable vegan burger made with a plant-based patty, vegan cheese, vegan bacon, caramelized onions, lettuce, and Slutty Vegan special sauce.",
+    "image": "https://sluttyveganatl.com/wp-content/uploads/2020/06/FussyHussy-SVB-150x150.png",
+    "price": 1452,
+    "rating": 4.7
+  },
+  {
+    "id": 7,
+    "title": "One Night Stand Fries",
+    "description": "Crispy fries topped with vegan cheese, vegan bacon, and Slutty Vegan special sauce.",
+    "image": "https://www.al.com/resizer/vGmptY-6UP9B5r-FKGjShiPGWn4=/500x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RGLNQ6TC5VGORJFZK3FTOH7UDM.jpeg",
+    "price": 792,
+    "rating": 4.4
+  },
+  {
+    "id": 8,
+    "title": "Big Dawg",
+    "description": "Plant-based bratwurst, sauerkraut, and our Slut Sauce on a vegan pretzel bun.",
+    "image": "https://sluttyveganatl.com/wp-content/uploads/2020/06/BigDawg-SVB-150x150.png",
+    "price": 660,
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "title": "Sloppy Toppy Fries",
+    "description": "Crispy fries topped with vegan cheese, jalapenos, and Slutty Vegan special sauce.",
+    "image": "https://images.happycow.net/venues/500/33/64/hcmp336421_2121917.jpeg",
+    "price": 792,
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "title": "Heaux Boy Fries",
+    "description": "Crispy fries topped with vegan shrimp, lettuce, tomato, and Slutty Vegan special sauce.",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/48/d8/75/caption.jpg",
+    "price": 1056,
+    "rating": 4.5
+  },
+  {
+    "id": 11,
+    "title": "One Stand Lemonade",
+    "description": "A refreshing lemonade drink with a zesty twist.",
+    "image": "https://edge.ua.edu/wp-content/uploads/2017/09/lemonade-768x463.jpg",
+    "price": 396,
+    "rating": 4.4
+  },
+  {
+    "id": 12,
+    "title": "Chicken Tender Box",
+    "description": "A scrumptious box filled with crispy vegan chicken tenders and a choice of dipping sauces.",
+    "image": "https://www.ajc.com/resizer/xmyBCo3az1MBZ41vgEM8HEAGN-k=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/C3UFC2HTJVBONIQN2KYJ22RXQY.gif",
+    "price": 1320,
+    "rating": 4.3
+  },
+  {
+    "id": 13,
+    "title": "Fussy Hussy",
+    "description": "Crispy topped with vegan cheese, vegan bacon, caramelized onions, and Slutty Vegan special sauce.",
+    "image": "https://media.appfront.app/businesses/5eaa8247725b630e28cc0a51/menu-items/1412bb55d4f7d4c25970393c518d62bc/600-_-contain_v4",
+    "price": 924,
+    "rating": 4.7
+  },
+  {
+    "id": 14,
+    "title": "Goddess Salad",
+    "description": "A delightful and healthy salad made with fresh greens, cherry tomatoes, cucumber, red onions, and a choice of dressing.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/delish-220210-tofu-lettuce-wraps-001-ab-web-1646079642.jpg?crop=0.670xw:1.00xh;0.232xw,0",
+    "price": 1056,
+    "rating": 4.2
+  },
+  {
+    "id": 15,
+    "title": "Super Slut",
+    "description": "An epic vegan burger featuring two plant-based patties, vegan cheese, vegan bacon, caramelized onions, lettuce, and Slutty Vegan special sauce.",
+    "image": "https://sluttyveganatl.com/wp-content/uploads/2020/06/SuperSlut-SVB-150x150.png",
+    "price": 1716,
+    "rating": 4.9
+  },
+  {
+    "id": 16,
+    "title": "Smothered Southern",
+    "description": "A Southern-inspired vegan burger topped with vegan cheese, grilled onions, sautéed mushrooms, and Slutty Vegan special sauce.",
+    "image": "https://s41230.pcdn.co/wp-content/uploads/2020/06/vegan-plant-based-news-southern-food-livekindly-Cropped-1.jpg",
+    "price": 1452,
+    "rating": 4.5
+  },
+  {
+    "id": 17,
+    "title": "Sloppy Toppy Deluxe",
+    "description": "An upgraded version of the Sloppy Toppy burger with additional vegan bacon, jalapenos, lettuce, onion, and Slutty Vegan special sauce.",
+    "image": "https://media.greenmatters.com/brand-img/zrqIxHrws/1024x536/superslutphoto-by-madelynne-boykin-1665516394805.jpg",
+    "price": 1584,
+    "rating": 4.7
+  },
+  {
+    "id": 18,
+    "title": "Hollywood Hooker",
+    "description": "Vegan chopped Philly with jalapeños, bell peppers and caramelized onions, topped with vegan provolone, lettuce, tomato, ketchup and vegan mayo, served on a hoagie roll.",
+    "image": "https://sluttyveganatl.com/wp-content/uploads/2022/12/HollywoodHooker-SVB-5-150x150.png",
+    "price": 1188,
+    "rating": 4.3
+  },
+  {
+    "id": 19,
+    "title": "Hawt Toddy",
+    "description": "Bangin’ bowlful of hearty, vegan chili loaded with beans, peppers, and onions and deliciously seasoned with our signature spice blend.",
+    "image": "https://sluttyveganatl.com/wp-content/uploads/2022/12/HawtToddy_SVWebsiteMenu_2-150x150.png",
+    "price": 1584,
+    "rating": 4.6
+  },
+  {
+    "id": 20,
+    "title": "Hooker Fries",
+    "description": "Vegan chopped Philly with jalapenos, bell peppers, and caramelized onions topped with Slutty Sauce and vegan provolone and cheddar cheese, served over a bed of signature Slutty Fries.",
+    "image": "https://sluttyveganatl.com/wp-content/uploads/2023/06/Hooker-Fries-150.png",
+    "price": 1980,
+    "rating": 4.8
+  }
+]

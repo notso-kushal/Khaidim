@@ -1,0 +1,1301 @@
+[
+	{
+		"id": "1",
+		"title": "Pressure cooker refried beans",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/4.jpg",
+		"description": "Indulge in the comforting flavors of homemade refried beans with this easy pressure cooker recipe. Using simple ingredients like pinto beans, onions, garlic, and spices, these refried beans are creamy, flavorful, and incredibly delicious. The pressure cooker method reduces cooking time significantly, making it perfect for busy weeknights or impromptu gatherings.",
+		"price": 400
+	},
+	{
+		"id": "2",
+		"title": "Black bean chilli soup with corn dumplings",
+		"difficulty": "Easy",
+		"rating": "2",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/2.jpg",
+		"description": "Warm your soul with a bowl of this hearty black bean chili soup featuring delectable corn dumplings.",
+		"price": 350
+	},
+	{
+		"id": "3",
+		"title": "Fishcake tacos",
+		"difficulty": "Easy",
+		"rating": "3",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/3.jpg",
+		"description": "Embrace the fusion of flavors with these scrumptious fishcake tacos that offer a delightful twist on traditional fish tacos. Crispy and flavorful fishcakes made from fresh fish, herbs, and spices take center stage in this Mexican-inspired dish.",
+		"price": 300
+	},
+	{
+		"id": "4",
+		"title": "Black bean and chicken burritos",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/4.jpg",
+		"description": "Elevate your burrito game with these delectable black bean and chicken burritos. Tender, seasoned chicken combines harmoniously with savory black beans, creating a satisfying and protein-packed filling for soft flour tortillas. Add a burst of freshness with diced tomatoes, shredded lettuce, and a sprinkle of cheese. Roll them up and enjoy the perfect handheld meal for lunch, dinner, or on-the-go indulgence.",
+		"price": 550
+	},
+	{
+		"id": "5",
+		"title": "Pork tacos with sweetcorn and feta",
+		"difficulty": "Easy",
+		"rating": "5",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/5.jpg",
+		"description": "Prepare your taste buds for an explosion of flavors with these succulent pork tacos topped with sweetcorn and crumbled feta cheese. Slow-cooked and seasoned to perfection, the tender pulled pork forms the foundation of these mouthwatering tacos. The combination of sweetcorn's natural sweetness and the tanginess of feta cheese creates an exciting contrast that complements the rich, smoky pork.",
+		"price": 500
+	},
+	{
+		"id": "6",
+		"title": "Taco slaw with pink pickled onions",
+		"difficulty": "Easy",
+		"rating": "2",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/6.jpg",
+		"description": "Add a burst of color and flavor to your Mexican dishes with this crunchy and refreshing taco slaw, complete with tangy pink pickled onions. Thinly sliced cabbage and carrots are tossed with a zesty dressing, creating a vibrant and crunchy slaw that pairs perfectly with tacos, enchiladas, and grilled meats. The pink pickled onions add a delightful pop of color and tang to the dish, enhancing the overall taste experience.",
+		"price": 400
+	},
+	{
+		"id": "7",
+		"title": "Smoky chipotle tofu with tomatoes and avocado",
+		"difficulty": "Easy",
+		"rating": "3",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/7.jpg",
+		"description": "Discover a burst of flavors with this smoky chipotle tofu dish, served with juicy tomatoes and creamy avocado. Cubes of tofu are marinated in a spicy and smoky chipotle sauce, creating a deliciously seasoned and protein-rich centerpiece for this Mexican-inspired recipe.",
+		"price": 250
+	},
+	{
+		"id": "8",
+		"title": "Chilaquiles with fresh tomatillo salsa",
+		"difficulty": "Medium",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/8.jpg",
+		"description": "Transport yourself to the streets of Mexico with this flavorful and hearty dish of chilaquiles topped with a zesty fresh tomatillo salsa.",
+		"price": 300
+	},
+	{
+		"id": "9",
+		"title": "Chipotle baked eggs",
+		"difficulty": "Easy",
+		"rating": "5",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/9.jpg",
+		"description": "Start your day with a burst of flavor and spice with these chipotle baked eggs. Baked in a rich and smoky chipotle tomato sauce and topped with gooey melted cheese, these eggs are a delight for breakfast or brunch.",
+		"price": 200
+	},
+	{
+		"id": "10",
+		"title": "Venison tacos with grilled spring onions and peanut salsa",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/10.jpg",
+		"description": "Take your taste buds on an adventurous journey with these flavorful venison tacos featuring grilled spring onions and a unique peanut salsa. The tender and savory venison, marinated with Mexican spices, offers a delectable twist on traditional taco fillings.",
+		"price": 500
+	},
+	{
+		"id": "11",
+		"title": "Easy huevos rancheros",
+		"difficulty": "Medium",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/11.jpg",
+		"description": "Savor the authentic flavors of Mexico with this classic breakfast favorite - huevos rancheros. Fried eggs are served atop crispy corn tortillas and smothered in a zesty tomato-chili sauce, creating a hearty and satisfying morning meal. A side of flavorful beans, creamy avocado slices, and a sprinkle of fresh cilantro complete this traditional dish.",
+		"price": 350
+	},
+	{
+		"id": "12",
+		"title": "Turkey pozole",
+		"difficulty": "Easy",
+		"rating": "2",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/12.jpg",
+		"description": "Embrace the comforting and rich flavors of turkey pozole, a traditional Mexican soup that delights the senses. Tender chunks of turkey, hominy, and a medley of aromatic spices simmer together, creating a hearty and flavorful broth. Topped with shredded cabbage, sliced radishes, and a squeeze of lime juice, this pozole is a delightful balance of textures and tastes.",
+		"price": 300
+	},
+	{
+		"id": "13",
+		"title": "Mexican-style barbecued beef brisket with quick-pickled onions",
+		"difficulty": "Medium",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/13.jpg",
+		"description": "Prepare to be delighted with this mouthwatering Mexican-style barbecued beef brisket, complete with tangy quick-pickled onions. The beef brisket is slow-cooked to perfection with a smoky and spicy barbecue marinade, resulting in tender and flavorful meat that falls apart with every forkful. The quick-pickled onions add a bright and zesty element that cuts through the richness of the brisket, creating a well-balanced and satisfying taste experience.",
+		"price": 550
+	},
+	{
+		"id": "14",
+		"title": "Frozen mango margarita",
+		"difficulty": "Easy",
+		"rating": "3",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/14.jpg",
+		"description": "Cool off and unwind with a refreshing frozen mango margarita, the perfect tropical twist on the classic cocktail. Blended with frozen mango chunks, tequila, triple sec, and lime juice, this delightful drink brings a burst of sunshine and sweetness to your glass.",
+		"price": 250
+	},
+	{
+		"id": "15",
+		"title": "Raspberry margarita",
+		"difficulty": "Easy",
+		"rating": "5",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/15.jpg",
+		"description": "Indulge in the sweet and tangy flavors of a raspberry margarita, a delightful variation of the classic cocktail. This vibrant and colorful drink combines fresh raspberries, tequila, triple sec, and lime juice to create a perfectly balanced and refreshing libation.",
+		"price": 300
+	},
+	{
+		"id": "16",
+		"title": "Enchiladas verdes",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/16.jpg",
+		"description": "Satisfy your cravings for a classic Mexican dish with these enchiladas verdes, a delightful and easy-to-make recipe. Corn tortillas are filled with tender shredded chicken and smothered in a vibrant green tomatillo sauce, creating a harmonious combination of flavors.",
+		"price": 450
+	},
+	{
+		"id": "17",
+		"title": "Margarita cheesecake with tequila strawberries",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/17.jpg",
+		"description": "Indulge in a delightful and boozy dessert with this margarita cheesecake topped with tequila-infused strawberries. This creamy and tangy cheesecake is flavored with lime juice and zest, creating a zesty and refreshing twist on the classic dessert. The graham cracker crust adds a delightful crunch to every bite.",
+		"price": 500
+	},
+	{
+		"id": "18",
+		"title": "Bolognese quesadilla",
+		"difficulty": "Easy",
+		"rating": "5",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/18.jpg",
+		"description": "Take a culinary trip around the world with this fusion dish that combines the flavors of Italy and Mexico in a delightful bolognese quesadilla. Savory bolognese sauce, traditionally used in Italian pasta dishes, meets the warm embrace of a flour tortilla, bringing forth a new level of comfort and taste.",
+		"price": 400
+	},
+	{
+		"id": "19",
+		"title": "Sausage burritos with pea and avocado guacamole",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/19.jpg",
+		"description": "Elevate your burrito game with these mouthwatering sausage burritos filled with a delightful pea and avocado guacamole. Spiced sausage crumbles are combined with scrambled eggs and wrapped in a warm tortilla, creating a satisfying and protein-packed breakfast or brunch option. The pea and avocado guacamole adds a unique twist to the traditional guacamole, offering a fresh and vibrant flavor to each bite.",
+		"price": 550
+	},
+	{
+		"id": "20",
+		"title": "Taco traybake",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/20.jpg",
+		"description": "Simplify your taco night with this hassle-free and flavorful taco traybake that serves up all the beloved taco components in a single dish. A medley of seasoned ground beef, beans, and colorful bell peppers is roasted to perfection, infusing the dish with enticing aromas. Topped with a generous layer of melted cheese, the traybake achieves the ultimate comfort food status.",
+		"price": 300
+	},
+	{
+		"id": "21",
+		"title": "Slow-cooked chipotle chicken",
+		"difficulty": "Easy",
+		"rating": "2",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/21.jpg",
+		"description": "Indulge in tender and flavorful slow-cooked chipotle chicken, a dish that boasts the perfect balance of smokiness and spice. The chicken is marinated in a chipotle-infused sauce, allowing the flavors to permeate the meat and create a mouthwatering experience. As it simmers away in the slow cooker, the chicken becomes fork-tender and incredibly juicy, making it the ideal filling for tacos, burritos, or enchiladas. Whether you're preparing a family dinner or hosting a festive gathering, this easy-to-make chipotle chicken is sure to please. Pair it with your favorite Mexican-inspired sides and salsas for a delightful and satisfying meal that captures the essence of traditional Mexican cuisine."
+	},
+	{
+		"id": "22",
+		"title": "Beef burrito bowls",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/22.jpg",
+		"description": "Savor the flavors of a classic beef burrito in a convenient and customizable bowl format with these beef burrito bowls. Seasoned ground beef, sautéed with onions and garlic, forms the hearty base of this dish. Layer it over a bed of fluffy rice, and top it with black beans, fresh lettuce, diced tomatoes, shredded cheese, and tangy salsa. Customize your bowl with your favorite toppings like avocado, sour cream, or cilantro for a personalized experience. Quick and easy to prepare, these beef burrito bowls are perfect for busy weeknights or for feeding a crowd. Experience the joy of building your own burrito bowl, savoring each bite of this Mexican-inspired delight."
+	},
+	{
+		"id": "23",
+		"title": "Classic margarita cocktail",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/23.jpg",
+		"description": "Raise your glass and celebrate with the timeless and refreshing classic margarita cocktail. Combining the tangy flavors of fresh lime juice, the sweetness of triple sec, and the boldness of tequila, this cocktail is a harmonious balance of tastes. Whether you prefer it shaken or blended with ice, the classic margarita is a crowd-pleasing favorite that's perfect for any occasion. Rim your glass with salt for an added touch of flavor or go for a spicy kick with a chili-salt rim. Sip and savor the vibrant flavors of Mexico in this iconic cocktail that's sure to liven up your festivities and add a touch of fiesta to any gathering."
+	},
+	{
+		"id": "24",
+		"title": "Ensenada fish tacos",
+		"difficulty": "Easy",
+		"rating": "5",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/24.jpg",
+		"description": "Treat your taste buds to the fresh and coastal flavors of Ensenada fish tacos, a true Mexican culinary delight. Crispy beer-battered fish, such as cod or halibut, is the star of the show, offering a satisfying crunch with each bite. Served in warm tortillas and topped with tangy cabbage slaw, zesty salsa, and a drizzle of creamy chipotle sauce, these fish tacos bring together a symphony of textures and tastes. Whether you're hosting a taco night or simply craving a taste of the sea, Ensenada fish tacos are a fantastic choice for a satisfying and flavorful meal. Gather your friends and family, and transport yourself to the beaches of Ensenada with this authentic and delicious seafood delight."
+	},
+	{
+		"id": "25",
+		"title": "Tex-Mex enchilada bake",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/25.jpg",
+		"description": "Experience the comforting and bold flavors of Tex-Mex cuisine with this enchilada bake. Layers of corn tortillas, shredded chicken, black beans, and a rich enchilada sauce come together in a casserole dish, creating a hearty and flavorful dish that's perfect for feeding a crowd. The gooey melted cheese on top adds a delightful finishing touch that's sure to satisfy any cheese lover. Customize your enchilada bake with your favorite toppings like diced avocado, fresh cilantro, or jalapeño slices for an extra kick. Whether you're hosting a potluck or simply looking for a delicious and comforting dinner option, this Tex-Mex enchilada bake is a winning choice that will keep everyone coming back for seconds."
+	},
+	{
+		"id": "26",
+		"title": "Scampi tacos with jalapeño tartare sauce and avocado",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/26.jpg",
+		"description": "Embark on a seafood adventure with these scrumptious scampi tacos featuring zesty jalapeño tartare sauce and creamy avocado. Succulent scampi, coated in a crispy and seasoned batter, takes center stage in this unique and flavorful taco recipe. The addition of jalapeño tartare sauce adds a spicy and tangy twist, perfectly complementing the delicate flavors of the scampi. Topped with sliced avocado and fresh cilantro, these tacos offer a delightful contrast of textures and tastes with each bite. Whether you're planning a seafood feast or a fun taco night, scampi tacos are an unexpected yet delightful addition to your Mexican-inspired culinary repertoire."
+	},
+	{
+		"id": "27",
+		"title": "Crispy tacos with charred veg and refried beans",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/27.jpg",
+		"description": "Experience the delicious combination of crispy tacos filled with charred vegetables and flavorful refried beans. The vegetables, such as bell peppers, onions, and zucchini, are grilled to perfection, adding a smoky and sweet essence to the dish. The refried beans bring a rich and comforting element to the tacos, making them a satisfying and hearty meal. Top the tacos with shredded lettuce, diced tomatoes, grated cheese, and a dollop of sour cream to complete the taste experience. Whether you're seeking a satisfying vegetarian meal or simply want to explore new taco fillings, these crispy tacos with charred veg and refried beans are sure to leave your taste buds dancing with delight."
+	},
+	{
+		"id": "28",
+		"title": "Slow-cooked chicken tinga tacos with pickled onions",
+		"difficulty": "Medium",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/28.jpg",
+		"description": "Elevate your taco game with these delectable slow-cooked chicken tinga tacos, featuring tangy pickled onions. The chicken tinga is a juicy and flavorful concoction of shredded chicken cooked in a smoky and spicy tomato-chipotle sauce, creating a mouthwatering filling for your tacos. The pickled onions add a zesty and refreshing element that balances the richness of the chicken tinga perfectly. Top your tacos with crumbled queso fresco, fresh cilantro, and a squeeze of lime juice for an authentic Mexican flavor explosion. While this recipe may require a bit more effort, the end result is a truly satisfying taco experience that will transport you straight to the streets of Mexico."
+	},
+	{
+		"id": "29",
+		"title": "Mexican chicken and red rice burrito bowls",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/29.jpg",
+		"description": "Bring the vibrant colors and flavors of Mexico to your table with these Mexican chicken and red rice burrito bowls. Succulent and seasoned chicken is paired with fragrant and flavorful red rice, creating a hearty and wholesome base for your burrito bowl. Layer on your favorite toppings like black beans, roasted corn, diced tomatoes, avocado slices, and a dollop of tangy salsa for a well-rounded and satisfying meal. Customize your burrito bowl to suit your taste preferences and dietary needs, making it the perfect option for a quick and easy weeknight dinner. Experience the joy of a burrito in a bowl, savoring the harmonious blend of ingredients and textures with every mouthful."
+	},
+	{
+		"id": "30",
+		"title": "Cornbread with Mexican-style salad",
+		"difficulty": "Easy",
+		"rating": "2",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/30.jpg",
+		"description": "Add a twist to your cornbread experience with this delightful recipe that pairs it with a fresh and zesty Mexican-style salad. The cornbread, with its soft and crumbly texture, is the ideal complement to the crunchy and flavorful salad. The salad features a medley of colorful vegetables like cherry tomatoes, bell peppers, red onions, and cucumbers, all tossed in a tangy lime dressing with a hint of chili for a touch of spice. Whether you're serving it as a side dish or a light meal, the cornbread with Mexican-style salad brings a burst of refreshing flavors and a satisfying contrast of textures to your palate. Enjoy this unique and delicious fusion of southern comfort and Mexican flair at your next gathering."
+	},
+	{
+		"id": "31",
+		"title": "Sweet potato and black bean nachos",
+		"difficulty": "Easy",
+		"rating": "2",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/31.jpg",
+		"description": "Treat yourself to a guilt-free indulgence with these sweet potato and black bean nachos, a healthier take on a beloved Mexican classic. Crispy sweet potato chips serve as the base for a flavorful and protein-rich topping of black beans, melted cheese, diced tomatoes, and sliced jalapeños. The combination of sweet and savory flavors creates a delightful balance that's sure to please your taste buds. Garnish with fresh cilantro and a dollop of Greek yogurt or avocado for added creaminess. Whether you're hosting a game night or simply craving a satisfying snack, these sweet potato and black bean nachos are a delicious and nutritious option that won't disappoint."
+	},
+	{
+		"id": "32",
+		"title": "Za’atar-spiced lamb tacos",
+		"difficulty": "Easy",
+		"rating": "2",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/32.jpg",
+		"description": "Embark on a culinary journey with these za'atar-spiced lamb tacos, a fusion of Middle Eastern and Mexican flavors that's sure to excite your taste buds. Tender and flavorful ground lamb is seasoned with za'atar, a spice blend consisting of thyme, sumac, sesame seeds, and other aromatic herbs. The za'atar-spiced lamb is then nestled in warm tortillas and topped with a refreshing cucumber-tomato salsa and a drizzle of tahini sauce. The result is a tantalizing combination of earthy, herby, and tangy tastes that create a unique taco experience. Whether you're hosting a dinner party or looking to experiment with new flavors, these za'atar-spiced lamb tacos are a wonderful addition to your Mexican-inspired culinary repertoire."
+	},
+	{
+		"id": "33",
+		"title": "Perfect guacamole",
+		"difficulty": "Easy",
+		"rating": "2",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/33.jpg",
+		"description": "Elevate your Mexican meals with the perfect guacamole, a classic and creamy dip that's bursting with fresh flavors. Mashed avocados serve as the base for this delectable dip, and are enhanced with diced tomatoes, finely chopped onions, minced garlic, lime juice, and a sprinkle of salt and cilantro. Customize the level of spiciness to your liking by adding jalapeño or serrano peppers. Whether you're enjoying it with tortilla chips, using it as a topping for tacos, or spreading it on toast, this guacamole recipe is a versatile and flavorful addition to any meal. With the perfect guacamole at your fingertips, you'll have a crowd-pleasing dip that's sure to disappear quickly at every gathering."
+	},
+	{
+		"id": "34",
+		"title": "Steak and pepper fajitas",
+		"difficulty": "Easy",
+		"rating": "2",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/34.jpg",
+		"description": "Treat yourself to a sizzling and flavorful fiesta with these steak and pepper fajitas. Tender strips of marinated steak are sautéed to perfection with a colorful medley of bell peppers and onions, creating a mouthwatering filling for your fajitas. The aroma of sizzling spices will entice everyone to the table, ready to build their own fajitas with their favorite toppings and sauces. Whether you prefer a classic combo of sour cream, guacamole, and salsa, or you're feeling adventurous with some pickled jalapeños and cotija cheese, these steak and pepper fajitas are a fun and interactive meal that brings people together. With each bite, you'll savor the blend of flavors and textures that make fajitas a beloved Mexican favorite."
+	},
+	{
+		"id": "35",
+		"title": "Jalapeño, bacon and crispy potato frittata",
+		"difficulty": "Easy",
+		"rating": "2",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/35.jpg",
+		"description": "Start your day with a spicy and hearty kick with this jalapeño, bacon, and crispy potato frittata. Sliced jalapeños bring a fiery touch to this frittata, adding a zesty and flavorful dimension to the dish. Crispy bacon and golden brown potatoes lend a satisfying crunch and a rich taste to every bite. The frittata is further enriched with creamy and melted cheese, creating a sumptuous and satisfying breakfast or brunch option. Serve it with a side of fresh salsa or sliced avocado for an extra burst of freshness. Perfect for feeding a hungry crowd or enjoying a leisurely brunch at home, this frittata is a delightful and filling way to start any day."
+	},
+	{
+		"id": "36",
+		"title": "Paloma cocktail",
+		"difficulty": "Easy",
+		"rating": "2",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/36.jpg",
+		"description": "Transport yourself to a sunny beach with the refreshing and citrusy Paloma cocktail. This tequila-based drink is a delightful combination of grapefruit soda, fresh lime juice, and a sprinkle of salt, creating a harmonious blend of sweet, tart, and savory flavors. Served over ice and garnished with a slice of grapefruit or lime, the Paloma is the perfect thirst-quencher for warm days or as a complement to your Mexican-inspired meals. Whether you're hosting a summer gathering or simply unwinding after a long day, this classic Paloma cocktail is sure to put a smile on your face and make you feel like you're on a Mexican vacation."
+	},
+	{
+		"id": "37",
+		"title": "Mexican-style prawn rice with avocado salsa",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/37.jpg",
+		"description": "Treat your taste buds to a burst of coastal flavors with this Mexican-style prawn rice featuring a zesty avocado salsa. Succulent prawns are sautéed with a medley of aromatic spices and then combined with fluffy rice, creating a satisfying and protein-rich meal. The avocado salsa adds a creamy and refreshing element, perfectly complementing the bold flavors of the prawns and rice. Garnish with fresh cilantro and a squeeze of lime for an added touch of freshness. Whether you're enjoying it as a main course or as a side dish for a seafood feast, this Mexican-style prawn rice is a delightful and flavorful option that's quick and easy to prepare."
+	},
+	{
+		"id": "38",
+		"title": "Fish and chip tacos with pea guacamole",
+		"difficulty": "Medium",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/38.jpg",
+		"description": "Combine the best of British and Mexican cuisines with these fish and chip tacos featuring a delightful pea guacamole. Crispy beer-battered fish takes center stage in this fusion dish, offering a delicious and satisfying crunch. The pea guacamole brings a unique twist to the classic avocado dip, incorporating sweet peas for a vibrant green color and a hint of sweetness. The marriage of flavors and textures is further enhanced with a sprinkle of malt vinegar, capturing the essence of traditional fish and chips. Whether you're hosting a themed dinner party or simply exploring new flavor combinations, these fish and chip tacos are a tasty and exciting choice that will leave everyone wanting more."
+	},
+	{
+		"id": "39",
+		"title": "Sweet potato, pea and cheese quesadillas",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/39.jpg",
+		"description": "Embrace the perfect fusion of comfort and health with these sweet potato, pea, and cheese quesadillas. Roasted sweet potato brings a natural sweetness and creamy texture to the quesadilla, while the peas add a burst of freshness. The melted cheese holds everything together, offering a satisfying and gooey bite. Serve with your favorite salsa or guacamole for dipping, or enjoy them as is for a quick and nutritious meal. Whether you're seeking a tasty lunch option or looking for a family-friendly dinner idea, these sweet potato, pea, and cheese quesadillas are sure to please even the pickiest eaters while delivering a delightful dose of Mexican-inspired goodness."
+	},
+	{
+		"id": "40",
+		"title": "Taco salad bowls with prawns",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/40.jpg",
+		"description": "Elevate your salad game with these taco salad bowls featuring succulent prawns as the star of the show. The prawns are seasoned with a medley of spices and sautéed to perfection, bringing a burst of flavor to your salad. Layer the salad with crunchy lettuce, black beans, roasted corn, cherry tomatoes, sliced avocado, and a sprinkle of grated cheese. Top it off with a drizzle of tangy lime dressing for a refreshing and zesty finish. Whether you're enjoying it for lunch or as a light dinner option, these taco salad bowls with prawns are a wholesome and satisfying meal that's both nutritious and delicious."
+	},
+	{
+		"id": "41",
+		"title": "Chicken and pepper pie with tortilla crisps",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/41.jpg",
+		"description": "Indulge in a delightful fusion of flavors with this Mexican-inspired chicken and pepper pie topped with crunchy tortilla crisps. Tender and juicy chicken is combined with a medley of colorful bell peppers, onions, and a zesty blend of spices, creating a mouthwatering filling for the pie. The flaky and buttery pastry crust adds a comforting touch, and the tortilla crisps provide a fun and unique twist to the traditional pie topping. Bake to perfection until golden brown and serve as a hearty and satisfying meal for the whole family. Whether you're looking for a comforting weeknight dinner or a crowd-pleasing party dish, this chicken and pepper pie with tortilla crisps is sure to impress with its delightful taste and creative presentation."
+	},
+	{
+		"id": "42",
+		"title": "Mexican-style pork carnitas",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/42.jpg",
+		"description": "Treat your taste buds to the succulent and flavorful experience of Mexican-style pork carnitas. Slow-cooked to perfection, the pork becomes tender and juicy, infused with a delectable blend of spices and seasonings. The result is melt-in-your-mouth meat that's perfect for assembling your own tacos, burritos, or quesadillas. Pair the pork carnitas with your favorite salsa, guacamole, and a sprinkle of fresh cilantro for a burst of authentic Mexican flavors. Whether you're hosting a fiesta with friends or simply craving a hearty and satisfying meal, these Mexican-style pork carnitas are a delicious and fuss-free option that will transport your taste buds to the heart of Mexico."
+	},
+	{
+		"id": "43",
+		"title": "Sweet potato chilli nachos",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/43.jpg",
+		"description": "Take your nachos to the next level with these sweet potato chilli nachos that are bursting with flavor and wholesome goodness. Roasted sweet potatoes add a delightful sweetness and a creamy texture to the nachos, while the vegetarian chilli brings a satisfying and hearty element to the dish. Load the nachos with melted cheese, black beans, sliced jalapeños, and a dollop of creamy sour cream. Finish off with a sprinkle of fresh cilantro for a burst of freshness. Whether you're enjoying them as a shareable appetizer or a filling meal, these sweet potato chilli nachos are a delicious and nutritious twist on a classic favorite that everyone will love."
+	},
+	{
+		"id": "44",
+		"title": "Easy Mexican chicken traybake",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/44.jpg",
+		"description": "Simplify your dinner prep with this easy Mexican chicken traybake that delivers a symphony of flavors with minimal effort. Succulent chicken pieces are marinated in a savory blend of Mexican spices, then roasted alongside vibrant bell peppers, onions, and juicy cherry tomatoes. The result is a colorful and delicious one-pan meal that's bursting with authentic Mexican taste. Serve the chicken with warm tortillas or fluffy rice, and garnish with fresh cilantro and a squeeze of lime for an extra burst of freshness. Whether you're looking for a fuss-free weeknight dinner or a crowd-pleasing dish for a gathering, this easy Mexican chicken traybake is sure to satisfy your craving for delicious and wholesome Mexican cuisine."
+	},
+	{
+		"id": "45",
+		"title": "Sweet potato, red pepper and turkey enchiladas",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/45.jpg",
+		"description": "Elevate your enchilada game with this delightful combination of sweet potato, red pepper, and tender turkey. The enchiladas feature a rich and flavorful filling made with sautéed sweet potatoes, red bell peppers, and seasoned ground turkey. Wrapped in soft tortillas and smothered in a zesty and smoky enchilada sauce, these enchiladas are baked to perfection, allowing the flavors to meld together. Top with melted cheese and a dollop of sour cream for a creamy finish. Whether you're serving them for a special occasion or a cozy family dinner, these sweet potato, red pepper, and turkey enchiladas offer a wholesome and satisfying twist on a classic Mexican favorite."
+	},
+	{
+		"id": "46",
+		"title": "Breakfast burrito",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/46.jpg",
+		"description": "Kickstart your day with a hearty and delicious breakfast burrito that's loaded with all your favorite morning ingredients. Scrambled eggs serve as the protein-rich base, complemented by savory bacon or sausage, sautéed vegetables, and creamy melted cheese. Add a spoonful of zesty salsa or guacamole for an extra burst of flavor. Roll it all up in a soft tortilla for a portable and filling breakfast on the go. Whether you're preparing a quick breakfast before work or a leisurely brunch on the weekend, this breakfast burrito is a satisfying and flavorful way to start your day with a touch of Mexican-inspired goodness."
+	},
+	{
+		"id": "47",
+		"title": "Mexican chicken and tortilla stew",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/47.jpg",
+		"description": "Warm up with a comforting bowl of Mexican chicken and tortilla stew, a hearty and flavorful dish that's perfect for chilly days. Tender pieces of chicken are simmered in a rich and aromatic broth with a medley of vegetables and a blend of Mexican spices. The addition of crunchy tortilla strips adds a delightful texture and a hint of corn flavor to the stew. Top it off with your favorite garnishes like diced avocado, shredded cheese, and fresh cilantro for a burst of colors and flavors. Whether you're seeking a satisfying weeknight dinner or a nourishing lunch option, this Mexican chicken and tortilla stew is sure to warm your soul and please your taste buds."
+	},
+	{
+		"id": "48",
+		"title": "Black bean, sweetcorn and red pepper chimichangas",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/48.jpg",
+		"description": "Delight your palate with these black bean, sweetcorn, and red pepper chimichangas, a scrumptious and crispy treat that's packed with Mexican-inspired goodness. The chimichangas are filled with a savory mixture of black beans, sweetcorn, and vibrant red bell peppers, seasoned with a blend of spices for an irresistible taste. Roll the filling in flour tortillas and deep-fry until golden brown and crispy. Serve with your favorite toppings like salsa, guacamole, and sour cream for a fiesta of flavors. Whether you're hosting a Mexican-themed dinner party or simply want to enjoy a flavorful and satisfying meal, these black bean, sweetcorn, and red pepper chimichangas are a delicious and crowd-pleasing option that will leave everyone asking for seconds."
+	},
+	{
+		"id": "49",
+		"title": "Real black bean chilli con carne with avocado and lime salsa",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/49.jpg",
+		"description": "Savor the rich and comforting flavors of real black bean chilli con carne, a hearty and satisfying dish that's perfect for a cozy dinner. This chili con carne is made with tender black beans, savory ground beef, and a medley of vegetables, all simmered in a robust and aromatic tomato-based sauce. The addition of smoky spices adds depth and complexity to the dish, while the avocado and lime salsa brings a refreshing and tangy element to balance the richness. Serve the chili con carne with fluffy rice or warm tortillas and garnish with chopped cilantro for a burst of freshness. Whether you're feeding a hungry crowd or preparing a comforting meal for yourself, this real black bean chilli con carne will warm your heart and delight your taste buds with every spoonful."
+	},
+	{
+		"id": "50",
+		"title": "Cheesy quesadillas with tomato, red pepper, and avocado salsa",
+		"difficulty": "Easy",
+		"rating": "4",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/50.jpg",
+		"description": "Indulge in the ultimate comfort food with these cheesy quesadillas featuring a vibrant and flavorful tomato, red pepper, and avocado salsa. The quesadillas are loaded with melted cheese that oozes out of the tortillas, creating a gooey and satisfying bite with every mouthful. The fresh and zesty salsa, made with ripe tomatoes, sweet red peppers, creamy avocado, and a hint of lime, perfectly complements the cheesy goodness of the quesadillas. Whether you're serving them as a quick snack, appetizer, or a light meal, these cheesy quesadillas with tomato, red pepper, and avocado salsa are a delectable and crowd-pleasing option that's both easy to make and full of Mexican-inspired flavors."
+	},
+	{
+		"id": "51",
+		"title": "Prawn tacos",
+		"difficulty": "Easy",
+		"rating": "3",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/51.jpg",
+		"description": "Delight in the flavors of the sea with these prawn tacos that showcase succulent and seasoned prawns in a soft and warm tortilla. The prawns are marinated in a blend of spices, sautéed to perfection, and then layered with crunchy shredded lettuce, tangy pickled onions, and creamy avocado slices. Top with a drizzle of zesty lime crema or a dollop of spicy salsa for a burst of flavor. Whether you're hosting a summer cookout or simply craving a light and refreshing meal, these prawn tacos are a delicious and satisfying way to enjoy the taste of the ocean with a touch of Mexican flair."
+	},
+	{
+		"id": "52",
+		"title": "Mexican chicken taco salad",
+		"difficulty": "Easy",
+		"rating": "3",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/52.jpg",
+		"description": "Take your salad game up a notch with this Mexican chicken taco salad, a wholesome and flavor-packed meal that's perfect for lunch or dinner. Tender and seasoned chicken is the star of this salad, accompanied by a colorful array of vegetables like crisp lettuce, juicy tomatoes, creamy avocado, and crunchy corn kernels. The salad is further enhanced with the addition of black beans, shredded cheese, and tortilla strips for a delightful texture. Drizzle the salad with a zesty lime dressing or your favorite salsa for an extra burst of Mexican-inspired goodness. Whether you're looking for a light and nutritious meal or a satisfying salad to share with friends, this Mexican chicken taco salad is a delicious and wholesome option that will leave you feeling satisfied and energized."
+	},
+	{
+		"id": "53",
+		"title": "Nachos with pulled pork and sweetcorn salsa",
+		"difficulty": "Medium",
+		"rating": "3",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/53.jpg",
+		"description": "Treat yourself to the ultimate indulgence with these loaded nachos featuring tender pulled pork and a vibrant sweetcorn salsa. The pulled pork is slow-cooked to perfection, infused with a savory and smoky flavor that pairs perfectly with the crunchy tortilla chips. The sweetcorn salsa, made with juicy corn kernels, colorful bell peppers, and zesty lime juice, adds a refreshing and tangy contrast to the richness of the pulled pork. Top the nachos with melted cheese, diced jalapeños, and a dollop of sour cream for a truly decadent treat. Whether you're hosting a game night with friends or simply enjoying a movie night at home, these nachos with pulled pork and sweetcorn salsa are a delectable and satisfying option that's worth every bite."
+	},
+	{
+		"id": "54",
+		"title": "Crispy Mexican tortilla rice bowl",
+		"difficulty": "Easy",
+		"rating": "3",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/54.jpg",
+		"description": "Experience a delightful explosion of flavors and textures with this crispy Mexican tortilla rice bowl that's as visually stunning as it is delicious. The base of the bowl features fluffy and aromatic Mexican rice, topped with crispy tortilla strips that bring a delightful crunch to every bite. Layer the rice with your favorite proteins like seasoned ground beef or shredded chicken, and add a medley of colorful vegetables such as juicy cherry tomatoes, creamy avocado slices, and crunchy bell peppers. Garnish with fresh cilantro and a drizzle of zesty lime crema or salsa for a burst of Mexican-inspired goodness. Whether you're customizing it to your taste or preparing a build-your-own rice bowl station for a party, this crispy Mexican tortilla rice bowl is a versatile and tasty option that's sure to please everyone at the table."
+	},
+	{
+		"id": "55",
+		"title": "Charred corn and chicken tacos",
+		"difficulty": "Easy",
+		"rating": "3",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/55.jpg",
+		"description": "Savor the taste of summer with these charred corn and chicken tacos that celebrate the sweetness and smokiness of grilled corn. The chicken is marinated in a savory blend of spices and grilled to perfection, while the corn is charred on the grill to bring out its natural sweetness. Load the tacos with the juicy grilled chicken, charred corn kernels, creamy avocado slices, and a sprinkle of tangy feta cheese. Drizzle with a zesty lime crema or your favorite salsa for an extra burst of flavor. Whether you're enjoying them at a backyard barbecue or a weeknight dinner, these charred corn and chicken tacos are a delicious and refreshing option that will transport your taste buds to a sun-filled Mexican beach."
+	},
+	{
+		"id": "56",
+		"title": "Mexican chicken burgers",
+		"difficulty": "Easy",
+		"rating": "3",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/56.jpg",
+		"description": "Give your burger night a Mexican twist with these flavorful and juicy Mexican chicken burgers that are sure to be a hit with everyone. The chicken patties are seasoned with a blend of Mexican spices, adding a zesty and aromatic touch to the burgers. Top the patties with melted cheese, fresh tomato slices, crisp lettuce, and creamy guacamole for a burst of authentic Mexican flavors. Serve the burgers on soft burger buns or brioche rolls for a comforting and satisfying meal. Whether you're grilling them up for a summer cookout or simply want to switch up your burger game, these Mexican chicken burgers are a tasty and crowd-pleasing option that will take your burger experience to the next level."
+	},
+	{
+		"id": "57",
+		"title": "Mexican fish tacos",
+		"difficulty": "Easy",
+		"rating": "3",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/57.jpg",
+		"description": "Transport your taste buds to the sunny shores of Mexico with these Mexican fish tacos that feature tender and flaky fish seasoned with a delightful blend of spices. The fish is pan-seared to perfection, creating a crispy and golden exterior that's complemented by the tender and moist flesh inside. Load the tacos with shredded cabbage, tangy pickled onions, and a drizzle of zesty lime crema for a burst of freshness. Top with sliced jalapeños or your favorite salsa for an extra kick of flavor. Whether you're enjoying them for a beach-themed party or simply want to indulge in a light and flavorful meal, these Mexican fish tacos are a delicious and refreshing option that's perfect for seafood lovers and taco enthusiasts alike."
+	},
+	{
+		"id": "58",
+		"title": "Brazilian black bean soup with raw corn salsa",
+		"difficulty": "Easy",
+		"rating": "3",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/58.jpg",
+		"description": "Experience the rich and comforting flavors of Brazilian black bean soup, a hearty and nourishing dish that's sure to satisfy your appetite. This soup features black beans cooked to perfection in a savory and aromatic broth, seasoned with smoky spices and a hint of heat. The raw corn salsa adds a refreshing and crunchy element to the soup, with its juicy corn kernels, colorful bell peppers, and zesty lime dressing. Top the soup with a dollop of creamy sour cream and a sprinkle of fresh cilantro for a delightful finish. Whether you're seeking a comforting meal on a chilly day or a wholesome dish to enjoy with friends and family, this Brazilian black bean soup with raw corn salsa is a delicious and satisfying option that will warm your heart and please your taste buds."
+	},
+	{
+		"id": "59",
+		"title": "Cornbread with deep-fried crispy onions",
+		"difficulty": "Easy",
+		"rating": "3",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/59.jpg",
+		"description": "Elevate your cornbread game with this delectable and savory cornbread featuring deep-fried crispy onions for an irresistible twist. The cornbread is moist and flavorful, with a delicate sweetness that pairs perfectly with the savory and crunchy onions. The deep-fried onions add a delightful texture and a burst of flavor that takes this cornbread to a whole new level of deliciousness. Whether you're serving it as a side dish for a hearty Mexican feast or enjoying it on its own as a snack, this cornbread with deep-fried crispy onions is a scrumptious and creative option that will have everyone asking for the recipe."
+	},
+	{
+		"id": "60",
+		"title": "Corned beef and bean hash with chimichurri",
+		"difficulty": "Easy",
+		"rating": "3",
+		"image": "https://apipics.s3.amazonaws.com/mexican_api/60.jpg",
+		"description": "Enjoy a fusion of flavors with this corned beef and bean hash served with a vibrant and zesty chimichurri sauce. The hash features tender and flavorful corned beef, combined with a medley of beans and colorful bell peppers, all sautéed to perfection. The chimichurri sauce, made with fresh herbs, garlic, tangy vinegar, and a hint of spice, adds a bright and herbaceous element to the dish, balancing the richness of the corned beef and beans. Whether you're preparing a hearty breakfast or a satisfying dinner, this corned beef and bean hash with chimichurri is a delicious and unique option that's sure to please your taste buds with its delightful combination of flavors."
+	}
+]
+
+
+
+
+
+
+
+{
+	"id": "61",
+	"title": "Slow-cooked duck tacos with pineapple salsa",
+	"difficulty": "Medium",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/61.jpg"
+},
+{
+	"id": "62",
+	"title": "Mexican picadillo pasties",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/62.jpg"
+},
+{
+	"id": "63",
+	"title": "Smoky pork and black bean stew with kale",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/63.jpg"
+},
+{
+	"id": "64",
+	"title": "Mexican veggie and tortilla soup",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/64.jpg"
+},
+{
+	"id": "65",
+	"title": "Smoky sausage chilli",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/65.jpg"
+},
+{
+	"id": "66",
+	"title": "Vegan chilli with rice",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/66.jpg"
+},
+{
+	"id": "67",
+	"title": "Easy shakshuka",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/67.jpg"
+},
+{
+	"id": "68",
+	"title": "Spicy ancho chilli, chicken and chorizo hotpot",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/68.jpg"
+},
+{
+	"id": "69",
+	"title": "Harissa-spiced lamb tacos",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/69.jpg"
+},
+{
+	"id": "70",
+	"title": "Smoked-lentil tacos with pico de gallo",
+	"difficulty": "Medium",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/70.jpg"
+},
+{
+	"id": "71",
+	"title": "Green veg and chicken tacos with pea guacamole",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/71.jpg"
+},
+{
+	"id": "72",
+	"title": "Smoky bean and sweet potato tortillas with lime-pickled onions",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/72.jpg"
+},
+{
+	"id": "73",
+	"title": "Smoky coriander beef fajitas",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/73.jpg"
+},
+{
+	"id": "74",
+	"title": "Chipotle chicken chilli with avocado",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/74.jpg"
+},
+{
+	"id": "75",
+	"title": "Braised beef chilli",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/75.jpg"
+},
+{
+	"id": "76",
+	"title": "Veggie chilli with nachos",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/76.jpg"
+},
+{
+	"id": "77",
+	"title": "Red pepper and courgette enchiladas",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/77.jpg"
+},
+{
+	"id": "78",
+	"title": "Beef enchiladas",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/78.jpg"
+},
+{
+	"id": "79",
+	"title": "Fried kale with black bean chilli and guacamole",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/79.jpg"
+},
+{
+	"id": "80",
+	"title": "Spicy turkey enchiladas",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/80.jpg"
+},
+{
+	"id": "81",
+	"title": "Cheddar, jalapeño, chilli and sweetcorn muffins",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/81.jpg"
+},
+{
+	"id": "82",
+	"title": "Parmesan taco shells",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/82.jpg"
+},
+{
+	"id": "83",
+	"title": "Beef fajitas with avocado and sweetcorn salsa",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/83.jpg"
+},
+{
+	"id": "84",
+	"title": "Vegetarian huevos rancheros",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/84.jpg"
+},
+{
+	"id": "85",
+	"title": "Lighter chicken enchiladas",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/85.jpg"
+},
+{
+	"id": "86",
+	"title": "Smoky sweetcorn fritters with tarragon yogurt",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/86.jpg"
+},
+{
+	"id": "87",
+	"title": "Ultimate chilli",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/87.jpg"
+},
+{
+	"id": "88",
+	"title": "Spicy guacamole",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/88.jpg"
+},
+{
+	"id": "89",
+	"title": "Tomato salsa salad",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/89.jpg"
+},
+{
+	"id": "90",
+	"title": "Spicy Mexican tortilla soup with avocado salsa",
+	"difficulty": "Easy",
+	"rating": "5",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/90.jpg"
+},
+{
+	"id": "91",
+	"title": "Quick chilli con carne",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/91.jpg"
+},
+{
+	"id": "92",
+	"title": "Tres leches cake with white russian syrup",
+	"difficulty": "Medium",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/92.jpg"
+},
+{
+	"id": "93",
+	"title": "Ernesto’s winning chilli",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/93.jpg"
+},
+{
+	"id": "94",
+	"title": "Beef chilli with dark chocolate",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/94.jpg"
+},
+{
+	"id": "95",
+	"title": "Smoky beef chilli with black beans",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/95.jpg"
+},
+{
+	"id": "96",
+	"title": "Drunken caterpillar chilli con carne",
+	"difficulty": "Medium",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/96.jpg"
+},
+{
+	"id": "97",
+	"title": "Barbecue sweet potatoes with garlic and herb dressing",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/97.jpg"
+},
+{
+	"id": "98",
+	"title": "Griddled cheesy cornbreads",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/98.jpg"
+},
+{
+	"id": "99",
+	"title": "Leftover chicken quesadillas",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/99.jpg"
+},
+{
+	"id": "100",
+	"title": "Sweetcorn salsa",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/100.jpg"
+},
+{
+	"id": "101",
+	"title": "Mexican lamb wraps with guacamole",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/101.jpg"
+},
+{
+	"id": "102",
+	"title": "Mexican mole rojo",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/102.jpg"
+},
+{
+	"id": "103",
+	"title": "Diana Henry’s Mexican chicken and pumpkin with pepita pesto",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/103.jpg"
+},
+{
+	"id": "104",
+	"title": "Vegetarian chilli",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/104.jpg"
+},
+{
+	"id": "105",
+	"title": "One-pan chilli eggs with guacamole",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/105.jpg"
+},
+{
+	"id": "106",
+	"title": "Quick steak fajitas with pickled red onions",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/106.jpg"
+},
+{
+	"id": "107",
+	"title": "Mexican baked beans",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/107.jpg"
+},
+{
+	"id": "108",
+	"title": "Chilli con carne with avocado and chilli salsa",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/108.jpg"
+},
+{
+	"id": "109",
+	"title": "Maple and chilli pork wraps with smoky mayo",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/109.jpg"
+},
+{
+	"id": "110",
+	"title": "Mojito tin-can cupcakes",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/110.jpg"
+},
+{
+	"id": "111",
+	"title": "Nachos with oxtail chilli",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/111.jpg"
+},
+{
+	"id": "112",
+	"title": "Chicken fajitas with corn salsa",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/112.jpg"
+},
+{
+	"id": "113",
+	"title": "Chunky chilli chicken soup",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/113.jpg"
+},
+{
+	"id": "114",
+	"title": "Mexican-style pork wraps",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/114.jpg"
+},
+{
+	"id": "115",
+	"title": "Tex-Mex beef burritos",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/115.jpg"
+},
+{
+	"id": "116",
+	"title": "Chipotle black bean chilli with guacamole",
+	"difficulty": "Easy",
+	"rating": "3",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/116.jpg"
+},
+{
+	"id": "117",
+	"title": "Smokin’ hot cocktail",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/117.jpg"
+},
+{
+	"id": "118",
+	"title": "Black bean burger with seared halloumi",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/118.jpg"
+},
+{
+	"id": "119",
+	"title": "Spiced sweetcorn and potato fritters with guacamole",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/119.jpg"
+},
+{
+	"id": "120",
+	"title": "Beef nachos",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/120.jpg"
+},
+{
+	"id": "121",
+	"title": "Griddled chicken with mango and red onion salsa",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/121.jpg"
+},
+{
+	"id": "122",
+	"title": "Mexican breakfast tortillas with avocado",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/122.jpg"
+},
+{
+	"id": "123",
+	"title": "Mexican sweetcorn with smoky chilli, cheese and lime",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/123.jpg"
+},
+{
+	"id": "124",
+	"title": "Blackened fish with mango salsa",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/124.jpg"
+},
+{
+	"id": "125",
+	"title": "Harissa lamb tacos",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/125.jpg"
+},
+{
+	"id": "126",
+	"title": "Mexican steak and bean salad recipe",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/126.jpg"
+},
+{
+	"id": "127",
+	"title": "Refried beans",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/127.jpg"
+},
+{
+	"id": "128",
+	"title": "Sweet and spicy chicken quesadillas recipe",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/128.jpg"
+},
+{
+	"id": "129",
+	"title": "Chicken enchiladas",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/129.jpg"
+},
+{
+	"id": "130",
+	"title": "Spicy Mexican bean burgers",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/130.jpg"
+},
+{
+	"id": "131",
+	"title": "Baja-style deep-fried mackerel tacos",
+	"difficulty": "Medium",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/131.jpg"
+},
+{
+	"id": "132",
+	"title": "A real Mexican chilli",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/132.jpg"
+},
+{
+	"id": "133",
+	"title": "Chicken with a salsa salad",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/133.jpg"
+},
+{
+	"id": "134",
+	"title": "Smoky chicken wraps",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/134.jpg"
+},
+{
+	"id": "135",
+	"title": "Lime and coriander guacamole salad",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/135.jpg"
+},
+{
+	"id": "136",
+	"title": "Cheat’s beef tacos",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/136.jpg"
+},
+{
+	"id": "137",
+	"title": "Classic chilli con carne",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/137.jpg"
+},
+{
+	"id": "138",
+	"title": "Fresh guacamole",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/138.jpg"
+},
+{
+	"id": "139",
+	"title": "Home-made tortilla chips",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/139.jpg"
+},
+{
+	"id": "140",
+	"title": "Lemon chilli chicken fajitas",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/140.jpg"
+},
+{
+	"id": "141",
+	"title": "Sticky chipotle lamb with caramelised corn",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/141.jpg"
+},
+{
+	"id": "142",
+	"title": "Michelada cocktail",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/142.jpg"
+},
+{
+	"id": "143",
+	"title": "Chilli burritos with tomato relish",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/143.jpg"
+},
+{
+	"id": "144",
+	"title": "Quick spicy quesadillas",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/144.jpg"
+},
+{
+	"id": "145",
+	"title": "Huevos rancheros",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/145.jpg"
+},
+{
+	"id": "146",
+	"title": "White chilli",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/146.jpg"
+},
+{
+	"id": "147",
+	"title": "Tex Mex beef",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/147.jpg"
+},
+{
+	"id": "148",
+	"title": "Cheat’s vegetable chilli jackets",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/148.jpg"
+},
+{
+	"id": "149",
+	"title": "Spiced beef chilli",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/149.jpg"
+},
+{
+	"id": "150",
+	"title": "Avocado and cheese quesadillas",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/150.jpg"
+},
+{
+	"id": "151",
+	"title": "Tuna steaks with avocado and red onion salsa",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/151.jpg"
+},
+{
+	"id": "152",
+	"title": "Chicken and chilli chocolate stew",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/152.jpg"
+},
+{
+	"id": "153",
+	"title": "Mexican-style pork with sweet potatoes and lime yogurt",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/153.jpg"
+},
+{
+	"id": "154",
+	"title": "Tomato and spicy sausage baked eggs with cornbread",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/154.jpg"
+},
+{
+	"id": "155",
+	"title": "Spicy steak and black bean chilli",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/155.jpg"
+},
+{
+	"id": "156",
+	"title": "One-pot chilli",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/156.jpg"
+},
+{
+	"id": "157",
+	"title": "Sweetcorn cakes with avocado salsa",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/157.jpg"
+},
+{
+	"id": "158",
+	"title": "Mexican beef and polenta cobbler",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/158.jpg"
+},
+{
+	"id": "159",
+	"title": "Quick chilli with rice",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/159.jpg"
+},
+{
+	"id": "160",
+	"title": "Spiced salmon with pineapple salsa",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/160.jpg"
+},
+{
+	"id": "161",
+	"title": "Mexican-style bean and chorizo salad",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/161.jpg"
+},
+{
+	"id": "162",
+	"title": "Quorn chilli",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/162.jpg"
+},
+{
+	"id": "163",
+	"title": "Nachos with avocado salsa",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/163.jpg"
+},
+{
+	"id": "164",
+	"title": "Smoked salmon and guacamole shots",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/164.jpg"
+},
+{
+	"id": "165",
+	"title": "Quick vegetarian quesadillas",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/165.jpg"
+},
+{
+	"id": "166",
+	"title": "Quick beef steak chilli con carne",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/166.jpg"
+},
+{
+	"id": "167",
+	"title": "Chicken fajitas with tomato salsa",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/167.jpg"
+},
+{
+	"id": "168",
+	"title": "Mexican chicken skewers with guacamole",
+	"difficulty": "Easy",
+	"rating": "2",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/168.jpg"
+},
+{
+	"id": "169",
+	"title": "Instant chicken salad with tortilla chips",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/169.jpg"
+},
+{
+	"id": "170",
+	"title": "Chicken and smoked mozzarella quesadillas",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/170.jpg"
+},
+{
+	"id": "171",
+	"title": "Prawn and guacamole wraps",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/171.jpg"
+},
+{
+	"id": "172",
+	"title": "Chilli steak fajitas",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/172.jpg"
+},
+{
+	"id": "173",
+	"title": "Guacamole salad",
+	"difficulty": "Easy",
+	"rating": "4",
+	"image": "https://apipics.s3.amazonaws.com/mexican_api/173.jpg"
+}
+]

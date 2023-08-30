@@ -1,0 +1,182 @@
+[
+    {
+        "id": "1",
+        "title": "Momo",
+        "difficulty": "Medium",
+        "rating": "4.5",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/1515644556794_20190527160433.jpeg",
+        "description": "Momo is a beloved Nepali dumpling dish that has captured the hearts and taste buds of people worldwide. These delectable dumplings are filled with seasoned minced meat or vegetables, wrapped in delicate dough, and then steamed or fried to perfection. Served with a spicy sauce, momo is a popular street food and a must-try delicacy in Nepal.",
+        "price": 250
+    },
+    {
+        "id": "2",
+        "title": "Dal Bhat",
+        "difficulty": "Easy",
+        "rating": "4.8",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/Dal_Bhat_TarkariNepal_20190527155929.JPG",
+        "description": "Dal Bhat is the quintessential Nepali meal and a staple in every household. It consists of steamed rice (bhat) served with lentil soup (dal) and a variety of accompaniments such as vegetables, curries, pickles, and papad. This simple and wholesome dish reflects the essence of Nepali culture and is a symbol of hospitality.",
+        "price": 200
+    },
+    {
+        "id": "3",
+        "title": "Gundruk",
+        "difficulty": "Easy",
+        "rating": "4.3",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/1280px-Gundruk_Achar_02_20190527161400.jpg",
+        "description": "Gundruk is a traditional Nepali fermented leafy green vegetable dish that is full of unique flavors. The process involves fermenting greens such as mustard leaves, spinach, or radish leaves, which are then sun-dried and stored for later use. The tangy and slightly sour taste of gundruk complements many Nepali dishes and adds a distinct touch to the cuisine.",
+        "price": 350
+    },
+    {
+        "id": "4",
+        "title": "Sel Roti",
+        "difficulty": "Medium",
+        "rating": "4.6",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/Sel_Roti_20190527160708.jpg",
+        "description": "Sel Roti is a traditional ring-shaped rice-based bread that holds a special place in Nepali festivals and celebrations. Made from rice flour, sugar, ghee, and sometimes bananas, the batter is deep-fried to achieve a crispy exterior while maintaining a soft and chewy interior. Sel Roti's sweet and aromatic flavor makes it a favorite among locals and visitors alike.",
+        "price": 300
+    },
+    {
+        "id": "5",
+        "title": "Dhido",
+        "difficulty": "Medium",
+        "rating": "4.2",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/dhido-gundruk-nepalese_20190527161300.jpg",
+        "description": "Dhido is a traditional Nepali dish prepared by cooking a mixture of buckwheat or millet flour and hot water. The resulting dough is kneaded to a smooth consistency and shaped into a round, flat mass. Dhido is typically enjoyed with various side dishes like vegetables, pickles, curries, or meat. It's a hearty and filling meal often relished in rural areas.",
+        "price": 400
+    },
+    {
+        "id": "6",
+        "title": "Yomari",
+        "difficulty": "Medium",
+        "rating": "4.7",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/4161421771_e960601403_b_20190527161149.jpg",
+        "description": "Yomari is a Newari delicacy and a festive treat that holds cultural significance in Nepal. These sweet dumplings are made from rice flour dough filled with a mixture of molasses, sesame seeds, and grated coconut. Yomari is shaped into a crescent and steamed until it becomes soft and chewy. It's a symbol of good luck and prosperity.",
+        "price": 250
+    },
+    {
+        "id": "7",
+        "title": "Kwati",
+        "difficulty": "Medium",
+        "rating": "4.4",
+        "image": "https://www.wvi.org/sites/default/files/shorthand/stories/DMp6YHaHZW/494656a4-aea1-41e0-98f8-1339f5d91480/assets/HcegQFHH3p/kwati-soup-2560x3026.jpeg",
+        "description": "Kwati is a flavorful and nutritious soup prepared with a mix of nine different sprouted beans and lentils. The beans and lentils are soaked and allowed to sprout before being cooked together with spices like ginger, garlic, and fenugreek seeds. Kwati is a traditional dish often enjoyed during special occasions and festivals in Nepal.",
+        "price": 300
+    },
+    {
+        "id": "8",
+        "title": "Gorkhali Lamb",
+        "difficulty": "Medium",
+        "rating": "4.5",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/gorkhalifinal2_20190527161515.jpg",
+        "description": "Gorkhali Lamb, also known as Khasiko Masu, is a flavorful Nepali lamb curry that celebrates the richness of Nepali spices. Tender pieces of lamb are marinated with ginger, garlic, and various spices like cumin, coriander, and cardamom before being slow-cooked to perfection. Gorkhali Lamb is often served with rice or bread and enjoyed at celebrations.",
+        "price": 400
+    },
+    {
+        "id": "9",
+        "title": "Sekuwa",
+        "difficulty": "Medium",
+        "rating": "4.3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWBdGxM5C-JG8rq5XNH8MAx5-bss-Six45vv16D9PDEgtZVO29M_ojWyPxolSak52AxWY&usqp=CAU",
+        "description": "Sekuwa is a popular Nepali dish of grilled and skewered meat, such as chicken, pork, or lamb. The meat is marinated in a mix of spices, including cumin, coriander, turmeric, and chili, and then grilled to perfection. Sekuwa is often enjoyed as a delicious street food snack or as an appetizer at Nepali restaurants.",
+        "price": 450
+    },
+    {
+        "id": "10",
+        "title": "Chatamari",
+        "difficulty": "Easy",
+        "rating": "4.6",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/1024px-Meat_Chatamari_20190527164331.jpg",
+        "description": "Chatamari is a savory rice crepe that originated in the Newari community of Nepal. It's made from rice flour and topped with a variety of ingredients like minced meat, eggs, vegetables, and spices. Chatamari's unique blend of flavors and textures makes it a favorite among locals and tourists alike.",
+        "price": 500
+    },
+    {
+        "id": "11",
+        "title": "Thukpa",
+        "difficulty": "Easy",
+        "rating": "4.2",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/Nepalese_Thuppa_20190527164416.jpg",
+        "description": "Thukpa is a comforting Nepali noodle soup that warms the soul, especially during chilly weather. It's made with wheat or rice noodles, vegetables, and often includes meat or eggs. The flavorful broth is seasoned with various spices and herbs, making it a satisfying and wholesome dish.",
+        "price": 350
+    },
+    {
+        "id": "12",
+        "title": "Choyla",
+        "difficulty": "Medium",
+        "rating": "4.7",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/DSC05193-1024x681_20190527164856.jpg",
+        "description": "Choyla is a popular Newari dish that features marinated and grilled meat, usually made with buffalo, chicken, or soy chunks for vegetarians. The meat is marinated with spices, oil, and sometimes beaten rice, giving it a unique taste and texture. Choyla is often served as an appetizer or a snack with drinks.",
+        "price": 400
+    },
+    {
+        "id": "13",
+        "title": "Juju Dhau",
+        "difficulty": "Easy",
+        "rating": "4.5",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/KathmanduJujudhau_20190527161728.jpg",
+        "description": "Juju Dhau, also known as 'King of Yogurt,' is a creamy and sweet yogurt that hails from the Bhaktapur region of Nepal. Made using traditional methods and served in clay pots, Juju Dhau has a distinct taste and texture that sets it apart. It's a delightful dessert enjoyed on special occasions and festivals.",
+        "price": 300
+    },
+    {
+        "id": "14",
+        "title": "Kheer",
+        "difficulty": "Easy",
+        "rating": "4.4",
+        "image": "https://static.toiimg.com/thumb/93600918.cms?imgsize=134188&width=800&height=800",
+        "description": "Kheer is a beloved Nepali rice pudding that is prepared with rice, milk, sugar, and flavored with cardamom, saffron, and nuts. It's a popular dessert served during festivals, celebrations, and religious ceremonies. The creamy and aromatic Kheer is a comfort food that brings joy to every palate.",
+        "price": 250
+    },
+    {
+        "id": "15",
+        "title": "Bara",
+        "difficulty": "Easy",
+        "rating": "4.3",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/10228709285_3d91d4d886_c_20190527160601.jpg",
+        "description": "Bara is a traditional Newari lentil pancake that is enjoyed as a popular snack or appetizer. Made from black lentils and flavored with spices, Bara is often served with a side of spicy meat or vegetable curry. Its crispy texture and rich taste make it a favorite among locals and tourists.",
+        "price": 200
+    },
+    {
+        "id": "16",
+        "title": "Pani Puri",
+        "difficulty": "Easy",
+        "rating": "4.6",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/1024px-Panipuri_Golgappa_Phuchka_20190527165008.jpg",
+        "description": "Pani Puri, also known as Golgappa or Phuchka, is a beloved street food that has a dedicated fan following in Nepal. It consists of hollow, crispy puris filled with spicy and tangy water, tamarind chutney, chickpeas, and potatoes. Pani Puri is a burst of flavors and a favorite snack for many.",
+        "price": 150
+    },
+    {
+        "id": "17",
+        "title": "Samosa",
+        "difficulty": "Easy",
+        "rating": "4.8",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/1024px-Samosachutney_20190527160823.jpg",
+        "description": "Samosa is a popular Nepali snack that has become a global favorite. These triangular pastries are filled with a delicious mixture of spiced potatoes, peas, and sometimes minced meat. Samosas are deep-fried to golden perfection and are enjoyed as a tea-time snack or a quick bite on the go.",
+        "price": 180
+    },
+    {
+        "id": "18",
+        "title": "Tongba",
+        "difficulty": "Medium",
+        "rating": "4.2",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/Tongba_-_Nepalese_fermented_millet_beer_20190527164931.jpg",
+        "description": "Tongba is a traditional alcoholic beverage from the hilly regions of Nepal, particularly in the Limbu community. It's made by fermenting millet seeds and served in a special bamboo container with a straw. Tongba is a warming and social drink, often enjoyed with friends and family.",
+        "price": 280
+    },
+    {
+        "id": "19",
+        "title": "Samay Baji",
+        "difficulty": "Medium",
+        "rating": "4.7",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/600px-Samaybaji_20190527164823.JPG",
+        "description": "Samay Baji is a gourmet dish that has been passed on along the generations of Nepali people. It is a platter containing barbecued buffalo meat, boiled egg along with beaten rice and spicy potato salad. It is a traditional dish that is served on auspicious occasions in the Newari culture. This dish is a must try in Nepal, if you are a person who loves perfectly cooked meat and spicy dishes.",
+        "price": 500
+    },
+    {
+        "id": "20",
+        "title": "Laphing",
+        "difficulty": "Medium",
+        "rating": "4.4",
+        "image": "https://myrepublica.nagariknetwork.com/uploads/media/laphing.jpg",
+        "description": "Laphing, a traditional Tibetan cold noodle dish, has gained immense popularity in Nepal. Made from mung bean starch, the chewy noodles are tossed in a spicy sauce and topped with various ingredients like cucumber, soybeans, and sesame oil. Laphing is a refreshing and spicy delight, perfect for hot summer days.",
+        "price": 300
+    }
+]

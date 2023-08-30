@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Pepperoni Pizza",
+    "description": "Indulge in the classic Pepperoni Pizza, topped with savory pepperoni slices, delicious marinara sauce, and a blend of melted mozzarella and cheddar cheese. It's a timeless favorite for pizza enthusiasts.",
+    "image": "https://api.pizzahut.io/v1/content/en-ca/ca-1/images/pizza/pizza.pepperoni-lovers.69f7bdf7b6f50a87eb2886934fe0be9f.1.jpg",
+    "price": 1320,
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "title": "Supreme Pizza",
+    "description": "For a burst of flavors, try the Supreme Pizza. It's loaded with pepperoni, Italian sausage, green peppers, onions, black olives, mushrooms, and a combination of mozzarella and cheddar cheese, all over a tangy marinara sauce.",
+    "image": "https://i.pinimg.com/564x/78/a6/41/78a6417735a2894a30945158222d2893.jpg",
+    "price": 1584,
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "title": "Meat Lover's Pizza",
+    "description": "Calling all meat enthusiasts! The Meat Lover's Pizza is topped with pepperoni, Italian sausage, ham, bacon, and beef, all smothered in a rich marinara sauce and a blend of mozzarella and cheddar cheese.",
+    "image": "https://dynl.mktgcdn.com/p/owq4NHla5cOUle69jrTjRx12bI2qvegtseaet1WqO4A/1080x1080.jpg",
+    "price": 1848,
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "title": "Veggie Lover's Pizza",
+    "description": "For the veggie lovers, the Veggie Lover's Pizza offers a medley of fresh vegetables, including green peppers, onions, black olives, mushrooms, and tomatoes, all atop a flavorful marinara sauce and a mix of mozzarella and cheddar cheese.",
+    "image": "https://api.pizzahut.io/v1/content/en-ca/ca-1/images/pizza/pizza.veggie-lovers.48ba54d49ff2257671521b477967633a.1.jpg",
+    "price": 1716,
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "title": "Cheese Lover's Pizza",
+    "description": "For the ultimate cheese indulgence, try the Cheese Lover's Pizza. It's loaded with a generous amount of mozzarella, cheddar, and parmesan cheese over a savory marinara sauce.",
+    "image": "https://api.pizzahut.io/v1/content/en-ca/ca-1/images/pizza/pizza.cheese-lovers.21455ca09617c38f3618f2b525dfed42.1.jpg",
+    "price": 1452,
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "title": "BBQ Chicken Pizza",
+    "description": "Experience a delightful blend of flavors with the BBQ Chicken Pizza. It features tender pieces of grilled chicken, red onions, and a tangy BBQ sauce, all topped with mozzarella and cheddar cheese.",
+    "image": "https://3.bp.blogspot.com/-clBVTebxloE/U3OQ_r-DrhI/AAAAAAAAc7g/0VPDi6VsZUI/s1600/pizza-hut-blakes-smokehouse-bbq-pizza-01.JPG",
+    "price": 1584,
+    "rating": 4.2
+  },
+  {
+    "id": 7,
+    "title": "Hawaiian Pizza",
+    "description": "Embrace the tropical flavors of the Hawaiian Pizza. It's topped with ham, juicy pineapple chunks, and a blend of mozzarella and cheddar cheese over a zesty marinara sauce.",
+    "image": "https://www.thepizzalads.com/wp-content/uploads/2018/04/Hawaiian-Pizza-from-Pizza-Hut-Hawaiian-Pizza-Review.jpg",
+    "price": 1452,
+    "rating": 4.3
+  },
+  {
+    "id": 8,
+    "title": "Chicken Alfredo Pizza",
+    "description": "For a creamy and indulgent choice, try the Chicken Alfredo Pizza. It features grilled chicken, creamy Alfredo sauce, and a blend of mozzarella and cheddar cheese.",
+    "image": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Rich-Chicken-Alfredo-Pizza_exps165518_THCA2916394C11_08_6b(2)_RMS.jpg",
+    "price": 1716,
+    "rating": 4.1
+  },
+  {
+    "id": 9,
+    "title": "Margherita Pizza",
+    "description": "Experience the simplicity of the Margherita Pizza, topped with sliced tomatoes, fresh basil leaves, and a combination of mozzarella and parmesan cheese over a zesty marinara sauce.",
+    "image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/margherita.90f9451fd66871fb6f9cf7d506053f18.1.jpg",
+    "price": 1320,
+    "rating": 4.0
+  },
+  {
+    "id": 10,
+    "title": "Buffalo Chicken Pizza",
+    "description": "For those who crave a bit of heat, the Buffalo Chicken Pizza offers grilled chicken, spicy buffalo sauce, and a blend of mozzarella and cheddar cheese, topped with a drizzle of ranch dressing.",
+    "image": "https://www.bakedbyanintrovert.com/wp-content/uploads/2021/05/Buffalo-Chicken-Pizza-5-1024x1536.jpg",
+    "price": 1584,
+    "rating": 4.2
+  },
+  {
+    "id": 11,
+    "title": "Mediterranean Veggie Pizza",
+    "description": "Discover a burst of Mediterranean flavors with the Mediterranean Veggie Pizza. It's topped with spinach, red onions, black olives, tomatoes, and feta cheese, all over a zesty marinara sauce.",
+    "image": "https://qph.cf2.quoracdn.net/main-qimg-c4fad87198dd9fa621c2d72f47d93bdb-pjlq",
+    "price": 1716,
+    "rating": 4.3
+  },
+  {
+    "id": 12,
+    "title": "Ultimate Cheese Lover's Pizza",
+    "description": "For the cheese connoisseurs, the Ultimate Cheese Lover's Pizza is the perfect choice. It's loaded with mozzarella, cheddar, provolone, and parmesan cheese over a rich marinara sauce.",
+    "image": "https://i.insider.com/59d4f32f2ff6303e008b4a64?width=600&format=jpeg&auto=webp",
+    "price": 1848,
+    "rating": 4.4
+  },
+  {
+    "id": 13,
+    "title": "Super Supreme Pizza",
+    "description": "The Super Supreme Pizza offers an explosion of flavors with pepperoni, Italian sausage, ham, beef, green peppers, onions, black olives, mushrooms, and a blend of mozzarella and cheddar cheese, all on a tangy marinara sauce.",
+    "image": "https://www.thepizzalads.com/wp-content/uploads/2017/08/Super-Supreme-Pizza-Hut-Pizza-Review.jpg",
+    "price": 1980,
+    "rating": 4.6
+  },
+  {
+    "id": 14,
+    "title": "Veggie Supreme Pizza",
+    "description": "For a delightful veggie feast, try the Veggie Supreme Pizza. It's topped with green peppers, onions, black olives, mushrooms, tomatoes, and a blend of mozzarella and cheddar cheese, all over a zesty marinara sauce.",
+    "image": "https://parispizzahat.lk/wp-content/uploads/2021/06/fvg-500x417.png",
+    "price": 1848,
+    "rating": 4.5
+  },
+  {
+    "id": 15,
+    "title": "Chicken Supreme Pizza",
+    "description": "Experience the richness of the Chicken Supreme Pizza, topped with grilled chicken, green peppers, onions, black olives, and a blend of mozzarella and cheddar cheese, all on a tangy marinara sauce.",
+    "image": "https://www.dominos.com.au/ManagedAssets/AU/product/P422/AU_P422_en_hero_8129.jpg",
+    "price": 1980,
+    "rating": 4.3
+  },
+  {
+    "id": 16,
+    "title": "Cheesy Garlic Bread Pizza",
+    "description": "Enjoy the perfect appetizer or side with the Cheesy Garlic Bread Pizza. It's a delightful blend of cheesy goodness and garlic flavor, served with marinara sauce for dipping.",
+    "image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/side/cheese-garlic-bread.58019ad8ec813e53cbf2b7d7f1b7cacc.1.jpg",
+    "price": 1056,
+    "rating": 4.2
+  },
+  {
+    "id": 17,
+    "title": "Stuffed Crust Pepperoni Pizza",
+    "description": "For a crust filled with flavor, try the Stuffed Crust Pepperoni Pizza. It's topped with pepperoni slices and a blend of mozzarella and cheddar cheese, with a mouthwatering stuffed crust.",
+    "image": "https://www.pmq.com/wp-content/uploads/2021/09/StuffedCrustPepperoni_CloseUp_3Quarter_001_3_w1-copy.jpg",
+    "price": 1584,
+    "rating": 4.1
+  },
+  {
+    "id": 18,
+    "title": "Personal Pan Pizza",
+    "description": "A perfectly sized pizza for one, the Personal Pan Pizza comes with your choice of toppings on a crispy, thin crust.",
+    "image": "https://www.allrecipes.com/thmb/jp5tWpdf3uTfJC7ZweMfl6oGIXs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/image001-3bacc25800e94910ada32e8fd81e2853.jpg",
+    "price": 792,
+    "rating": 4.0
+  },
+  {
+    "id": 19,
+    "title": "Tuscani Chicken Alfredo Pasta",
+    "description": "For pasta lovers, the Tuscani Chicken Alfredo Pasta offers tender grilled chicken, fettuccine pasta, and creamy Alfredo sauce.",
+    "image": "https://topsecretrecipes.com/var/images/product/430.430/pizza-hut-alfredo-pasta-copycat-recipe.jpg",
+    "price": 1188,
+    "rating": 4.2
+  },
+  {
+    "id": 20,
+    "title": "Tuscani Meaty Marinara Pasta",
+    "description": "Enjoy a hearty pasta dish with the Tuscani Meaty Marinara Pasta, featuring Italian sausage, beef, and marinara sauce over a bed of pasta.",
+    "image": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/kmpujiwb/1fa8f3ef-892d-4596-a2b9-dff5e77a10c3.jpg",
+    "price": 1320,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Paella",
+    "difficulty": "Medium",
+    "rating": 4.8,
+    "image": "https://spanishsabores.com/wp-content/uploads/2020/05/Seafood-Paella-1837-Blog.jpg",
+    "description": "Paella is a traditional Spanish rice dish, originating in the Valencia region. It is typically made with rice, saffron, vegetables, and a variety of meats such as chicken, rabbit, and sometimes seafood. The dish is cooked in a large shallow pan called a 'paellera,' which gives it its name. Paella is known for its vibrant colors and delicious flavors, making it a popular choice for gatherings and special occasions.",
+    "price": 650
+  },
+  {
+    "id": 2,
+    "title": "Gazpacho",
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "image": "https://lindseyeatsla.com/wp-content/uploads/2022/07/Lindseyeats_Tomato_Melon_Gazpacho-10.jpg",
+    "description": "Gazpacho is a cold tomato-based soup that is perfect for hot summers. It is made with ripe tomatoes, cucumbers, bell peppers, onions, garlic, olive oil, vinegar, and bread crumbs. The ingredients are blended together to create a refreshing and nutritious soup that is typically served chilled. Gazpacho is a classic Andalusian dish and a popular appetizer in Spanish cuisine.",
+    "price": 400
+  },
+  {
+    "id": 3,
+    "title": "Tortilla Española",
+    "difficulty": "Easy",
+    "rating": 4.9,
+    "image": "https://www.seriouseats.com/thmb/jA7G3Zmz0qsWAi9YiPAbTCfTIR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__06__20160603-tortilla-espanola-vicky-wasik-16-08693f341420437d9ed0229f2bcfa251.jpg",
+    "description": "Tortilla Española, also known as Spanish omelette, is a simple and tasty dish made with eggs, potatoes, onions, and olive oil. It is a staple in Spanish households and often served as a tapa or a light meal. The ingredients are cooked together in a frying pan until the eggs are set, creating a delicious and satisfying dish that can be enjoyed at any time of the day.",
+    "price": 350
+  },
+  {
+    "id": 4,
+    "title": "Pulpo a la Gallega",
+    "difficulty": "Medium",
+    "rating": 4.5,
+    "image": "https://www.bascofinefoods.com/wp-content/uploads/2017/04/pulpo_a_la_gallega-e1505552149193-1.jpg",
+    "description": "Pulpo a la Gallega, or Galician-style octopus, is a beloved seafood dish in Spain. Tender octopus is simmered with potatoes, paprika, and olive oil, then sprinkled with coarse sea salt and served on a wooden platter. The dish has a unique combination of textures and flavors, making it a favorite among locals and visitors alike, especially in the coastal regions of Galicia.",
+    "price": 800
+  },
+  {
+    "id": 5,
+    "title": "Churros",
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "image": "https://www.cookingclassy.com/wp-content/uploads/2018/07/churros-3.jpg",
+    "description": "Churros are a popular Spanish dessert made from a simple dough of flour, water, and salt, which is piped into hot oil and fried until golden and crispy. They are often served with a cup of thick hot chocolate for dipping. Churros are a beloved treat in Spain and are commonly enjoyed as a breakfast or snack item.",
+    "price": 250
+  },
+  {
+    "id": 6,
+    "title": "Fabada Asturiana",
+    "difficulty": "Medium",
+    "rating": 4.7,
+    "image": "https://www.saveur.com/uploads/2021/03/02/IPBAMALQRJHURK4JJZBJ22TCD4.jpg?auto=webp",
+    "description": "Fabada Asturiana is a hearty and flavorful bean stew from the Asturias region of Spain. It is made with large white beans, chorizo, black pudding, and other pork products, resulting in a rich and satisfying dish. Fabada is traditionally cooked in a clay pot and enjoyed as a main course, especially during colder months.",
+    "price": 700
+  },
+  {
+    "id": 7,
+    "title": "Sangria",
+    "difficulty": "Easy",
+    "rating": 4.5,
+    "image": "https://minimalistbaker.com/wp-content/uploads/2015/07/SIMPLE-Amazing-Traditional-Red-Sangria-6-ingredients-SO-flavorful-easy-and-delicious-sangria-recipe-wine-summer-recipe-minimalistbaker-vegan.jpg",
+    "description": "Sangria is a popular Spanish drink made from red wine, chopped fruit, sweetener, and a splash of brandy or orange liqueur. It is a refreshing and fruity beverage that is perfect for warm weather and social gatherings. Sangria is often garnished with slices of citrus fruits and served over ice.",
+    "price": 300
+  },
+  {
+    "id": 8,
+    "title": "Cochinillo Asado",
+    "difficulty": "Difficult",
+    "rating": 4.9,
+    "image": "https://img.saboresdehoy.com/receta/639/cochinillo-asado-a-la-segoviana.jpg",
+    "description": "Cochinillo Asado is a traditional Spanish dish of roasted suckling pig. The piglet is seasoned with salt and roasted whole until the skin becomes crispy and golden while the meat remains tender and juicy. This dish is a specialty of Segovia and other regions of Spain, and it is often served during festive occasions and celebrations.",
+    "price": 1200
+  },
+  {
+    "id": 9,
+    "title": "Crema Catalana",
+    "difficulty": "Medium",
+    "rating": 4.6,
+    "image": "https://spanishsabores.com/wp-content/uploads/2016/01/Crema-Catalana-1981-Blog.jpg",
+    "description": "Crema Catalana is a classic Spanish dessert similar to crème brûlée. It is made with a creamy custard flavored with lemon and cinnamon and is typically topped with a layer of caramelized sugar. The sugar on top is torched to create a crunchy caramelized crust, adding a delightful contrast to the smooth custard beneath.",
+    "price": 350
+  },
+  {
+    "id": 10,
+    "title": "Calamari a la Romana",
+    "difficulty": "Medium",
+    "rating": 4.4,
+    "image": "https://www.recipesfromeurope.com/wp-content/uploads/2023/04/spanish-fried-calamari-a-la-romana-recipe.jpg",
+    "description": "Calamari a la Romana is a popular Spanish dish featuring tender rings of squid coated in a light batter and deep-fried until crispy. It is a delicious and simple seafood dish often served as a tapa or appetizer. The calamari is typically accompanied by lemon wedges and mayonnaise or aioli for dipping.",
+    "price": 600
+  },
+  {
+    "id": 11,
+    "title": "Patatas Bravas",
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "image": "https://www.themediterraneandish.com/wp-content/uploads/2022/10/patatas-bravas-recipe-6.jpg",
+    "description": "Patatas Bravas are a popular Spanish tapa consisting of fried potato cubes served with a spicy tomato-based sauce and garlic aioli. The potatoes are crispy on the outside and tender on the inside, and the combination of flavors makes it a favorite dish in bars and restaurants throughout Spain.",
+    "price": 400
+  },
+  {
+    "id": 12,
+    "title": "Gambas al Ajillo",
+    "difficulty": "Easy",
+    "rating": 4.8,
+    "image": "https://www.themediterraneandish.com/wp-content/uploads/2020/11/gambas-al-ajillo-spanish-shrimp-recipe-7.jpg",
+    "description": "Gambas al Ajillo, or garlic shrimp, is a classic Spanish dish that features shrimp cooked in olive oil with lots of garlic and chili peppers. The dish is quick and easy to prepare, and the combination of flavors is simply irresistible. Gambas al Ajillo is often served as a tapa or appetizer with crusty bread for dipping into the flavorful sauce.",
+    "price": 450
+  },
+  {
+    "id": 13,
+    "title": "Tortilla de Patatas",
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "image": "https://spanishsabores.com/wp-content/uploads/2023/07/Tortilla-de-Patatas-Featured.jpg",
+    "description": "Tortilla de Patatas is a Spanish omelette made with eggs and potatoes, and sometimes onions. It is a simple and comforting dish that can be served as a main course, a snack, or sliced into smaller pieces as a tapa. The combination of eggs and potatoes makes it a filling and delicious choice for any time of the day.",
+    "price": 350
+  },
+  {
+    "id": 14,
+    "title": "Gazpacho Andaluz",
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "image": "https://www.alvalle.com/images/librariesprovider4/default-album/gazpacho-pet-brick-alvalle-seleccion9b22b7f68f8049a785d73ed27066fd2b.png?sfvrsn=eb5b08a8_0",
+    "description": "Gazpacho Andaluz is a refreshing cold soup made from ripe tomatoes, cucumbers, bell peppers, onions, garlic, olive oil, vinegar, and bread. It is a popular dish in the Andalusian region of Spain, especially during the hot summer months. Gazpacho is best served chilled and garnished with diced vegetables.",
+    "price": 350
+  },
+  {
+    "id": 15,
+    "title": "Arroz Negro",
+    "difficulty": "Medium",
+    "rating": 4.5,
+    "image": "https://beyondsweetandsavory.com/wp-content/uploads/2019/04/Arroz-negro-squid-ink-paella-Vy-Tran-6-of-20-853x1280-500x500.jpg",
+    "description": "Arroz Negro, also known as black rice, is a flavorful Spanish rice dish made with squid ink, seafood, and vegetables. The squid ink gives the rice its distinctive black color and imparts a unique briny flavor to the dish. Arroz Negro is a favorite among seafood lovers and is a specialty of the coastal regions of Spain.",
+    "price": 700
+  },
+  {
+    "id": 16,
+    "title": "Croquetas",
+    "difficulty": "Medium",
+    "rating": 4.6,
+    "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_730,h_913/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2021-08-Croquetas%2FIMG_4191",
+    "description": "Croquetas are creamy and crispy fried croquettes made with a filling of béchamel sauce and various ingredients such as ham, chicken, fish, or cheese. They are a popular Spanish tapa and can be found in many bars and restaurants throughout the country. Croquetas are a delicious and indulgent treat, perfect for sharing with friends and family.",
+    "price": 550
+  },
+  {
+    "id": 17,
+    "title": "Pisto",
+    "difficulty": "Easy",
+    "rating": 4.4,
+    "image": "https://www.worldfoodstory.co.uk/wp-content/uploads/2021/04/20210405_143715.jpg",
+    "description": "Pisto is a Spanish ratatouille-like dish made with sautéed vegetables such as tomatoes, bell peppers, zucchini, onions, and eggplant. It is often seasoned with garlic, olive oil, and herbs. Pisto can be served as a side dish or as a base for other dishes, and it is a popular choice for vegetarians and vegans.",
+    "price": 300
+  },
+  {
+    "id": 18,
+    "title": "Cordero Asado",
+    "difficulty": "Difficult",
+    "rating": 4.8,
+    "image": "https://www.tasteatlas.com/images/dishes/6321be9af7424d69aa94c0d34df6da8d.jpg",
+    "description": "Cordero Asado is a succulent Spanish roast lamb dish that is often enjoyed during festive occasions and celebrations. The lamb is seasoned with garlic, rosemary, and other herbs, then roasted until tender and flavorful. Cordero Asado is a beloved dish in many regions of Spain and is usually served with roasted vegetables and potatoes.",
+    "price": 1200
+  },
+  {
+    "id": 19,
+    "title": "Horchata",
+    "difficulty": "Easy",
+    "rating": 4.5,
+    "image": "https://tastesbetterfromscratch.com/wp-content/uploads/2023/04/Horchata-1.jpg",
+    "description": "Horchata is a popular Spanish drink made from ground tiger nuts (chufa), water, sugar, and sometimes cinnamon or lemon zest. The mixture is soaked, blended, and then strained to create a refreshing and slightly sweet beverage. Horchata is commonly served cold and is especially popular in the Valencia region of Spain.",
+    "price": 200
+  },
+  {
+    "id": 20,
+    "title": "Leche Frita",
+    "difficulty": "Medium",
+    "rating": 4.7,
+    "image": "https://staticcookist.akamaized.net/wp-content/uploads/sites/22/2023/01/LINK-TRAFFIC-1-4-1200x675.jpg",
+    "description": "Leche Frita, meaning 'fried milk,' is a delightful Spanish dessert made from a thick custard that is coated in flour, egg, and breadcrumbs before being fried until golden and crispy. It is typically flavored with cinnamon and lemon zest and is served warm, sprinkled with sugar and sometimes accompanied by a scoop of ice cream.",
+    "price": 300
+  }
+]
