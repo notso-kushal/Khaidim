@@ -2,6 +2,7 @@
 
 Khaidim is a food ordering system which has khalti integrated in it as payment gateway.
 It has email password login and google sign in which uses firebase authentication.
+The cart page uses GetX state management and the wish list page uses Riverpod Provider state management.
 
 ![7](https://github.com/notso-kushal/khaidim/assets/121866448/05413217-0d88-45f8-8f08-3bbe95ffba3d)
 ![8](https://github.com/notso-kushal/khaidim/assets/121866448/4cd0705e-3f15-4c6a-aa60-a0b30d06265e)
